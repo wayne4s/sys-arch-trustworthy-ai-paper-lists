@@ -1,4 +1,4 @@
-# Trustworhy AI Paper Lists
+# Paper Lists for Trustworhy AI Architecture
 
 ## Table of Contents
  - [Survey](#survey)
