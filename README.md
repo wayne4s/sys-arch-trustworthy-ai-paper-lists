@@ -1,5 +1,11 @@
 # Trustworhy AI Paper Lists
 
+## Table of Contents
+ - [Survey](#survey)
+ - [AI Safety](#ai-safety)
+    - [Alignment](#alignment)
+ - [AI Security](#ai-security)
+    - [Jailbreak Attacks](#jailbreak-attacks)
 
 ## Survey
 
