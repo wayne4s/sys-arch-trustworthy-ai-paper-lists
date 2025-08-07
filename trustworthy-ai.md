@@ -7,6 +7,8 @@
  - [AI Security](#ai-security)
     - [Jailbreak Attacks](#jailbreak-attacks)
     - [Misinformation Attacks](#misinformation-attacks)
+    - [Prompt Injection Attacks](#prompt-injection-attacks)
+
 
 ## Survey
 
@@ -50,7 +52,11 @@
 
 ### Misinformation Attacks
 
-- [ ] [arXiv 2025] **Medical large language models are susceptible to targeted misinformation attacks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.nature.com/articles/s41746-024-01282-7)
+- [ ] [NPJ Digital Medicine 2024] **Medical large language models are susceptible to targeted misinformation attacks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.nature.com/articles/s41746-024-01282-7)
 
 
+
+### Prompt Injection Attacks
+
+- [ ] [arXiv 2024] **Prompt Injection attack against LLM-integrated Applications.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2306.05499) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/LLMSecurity/HouYi)
 
