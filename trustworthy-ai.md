@@ -60,9 +60,19 @@
 
 - [ ] [2024 arXiv] **Prompt Injection attack against LLM-integrated Applications.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2306.05499) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/LLMSecurity/HouYi)
 
-### Extract Data
+### Extraction Attacks
 
 - [2021 Security] **Extracting Training Data from Large Language Models.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)
+
+
+### Model Stealing Attacks
+
+
+### Membership Inferences Attacks
+
+### Backdoor Attacks
+
+
 
 
 <!--
