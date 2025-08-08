@@ -76,8 +76,6 @@
 
 
 
-
-
 ### Backdoor Attacks
 
 <!-- > Attackers covertly embed malicious triggers during the model training process, enabling them to manipulate model behavior when specific predefined conditions are activated during inference. -->
