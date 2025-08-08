@@ -38,12 +38,20 @@
 
 - [ ] **AB-ORAM: Constructing Adjustable Buckets for Space Reduction in Ring ORAM.** (*University of Pittsburgh*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.cs.pitt.edu/~zhangyt/research/hpca23a.pdf)
 
+- [ ] **TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU.**
+
+- [ ] **Poseidon: Practical Homomorphic Encryption Accelerator.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://mingzhe-zhang.github.io/paper/Poseidon-HPCA2023.pdf)
 
 
 <!-- - [ ] **xxxx.** [![](https://img.shields.io/badge/paper-7EA6E0)]() [![](https://img.shields.io/badge/slides-E29135)]() -->
 
 
 ---
+
+### 2024 MICRO
+
+- [ ] **Trinity: A General Purpose FHE Accelerator.**
+
 
 ### 2024 ISCA
 
@@ -106,6 +114,10 @@
 
 - [ ] **Rethinking Prefetching for Intermittent Computing.** (*Purdue University*)
 
+
+### 2025 HPCA
+
+- [ ] **WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores.**
 
 ### 2025 ASPLOS
 
