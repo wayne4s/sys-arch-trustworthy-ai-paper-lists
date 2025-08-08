@@ -27,13 +27,18 @@
 
 ### 2022 HPCA
 
-- [ ] **TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://jaehyuk-huh.github.io/papers/lee_hpca22_tnpu.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://jaehyuk-huh.github.io/papers/lee_hpca22_tnpu.pdf)
+- [ ] **TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://jaehyuk-huh.github.io/papers/lee_hpca22_tnpu.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/tnpu_slide_hpca_2022.pdf)
+
+- [ ] **Adaptive Security Support for Heterogeneous Memory on GPUs.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://par.nsf.gov/servlets/purl/10342133)
+
 
 ---
 
 ### 2023 MICRO
 
 - [ ] **SecureLoop: Design Space Exploration of Secure DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.csail.mit.edu/mengjia/data/2023.MICRO.SecureLoop.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.csail.mit.edu/mengjia/data/2023.MICRO.SecureLoop.slides.pdf)
+
+- [ ] **CryptoMMU: Enabling Scalable and Secure Access Control of Third-Party Accelerators.**
 
 ### 2023 ISCA
 
@@ -72,6 +77,7 @@
 
 - [ ] **Supporting Secure Multi-GPU Computing withDynamic and Batched Metadata Management.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/multi_gpu_security_hpca_2024.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://seonjinna.github.io/assets/pdf/hpca24_slides.pdf)
 
+- [ ] **Salus: Efficient Security Support for CXL-Expanded GPU Memory.**
 
 ### 2024 ASPLOS
 
@@ -84,6 +90,8 @@
 ### 2025 MICRO
 
 - [ ] **Ironman: Accelerating Oblivious Transfer Extension for Privacy-Preserving AI with Near-Memory Processing.** (*Korea Advanced Institute of Science and Technology, KAIST*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.arxiv.org/abs/2507.16391) [![](https://img.shields.io/badge/slides-E29135)](https://jaehyuk-huh.github.io/slides/lee_isca2025_mtree_slides.pdf) 
+
+- [ ] **CryptoBTB: A Secure Hierarchical BTB for Diverse Instruction Footprint Workloads.**
 
 ### 2025 ISCA
 
@@ -132,7 +140,11 @@
 
 ### 2025 HPCA
 
-- [ ] **WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores.**
+- [ ] **WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores.** 
+
+- [ ] **SpecMPK: Efficient In-Process Isolation with Speculative and Secure Permission Update Instruction.** (*North Carolina State University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://ericrotenberg.wordpress.ncsu.edu/files/2025/06/paper_HPCA-31_SpecMPK.pdf)
+
+
 
 ### 2025 ASPLOS
 
