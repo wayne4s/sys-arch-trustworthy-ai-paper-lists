@@ -62,13 +62,13 @@
 
 - [ ] **Unified Memory Protectionwith Multi-granular MAC and Integrity Treefor Heterogeneous Processors.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/multi_MAC_tree_isca_2025.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/multi_MAC_tree_slide_isca_2025.pdf)
 
-- [ ] **Finesse: An Agile Design Framework for Pairing-based Cryptography via Software/Hardware Co-Design.**
+- [ ] **Finesse: An Agile Design Framework for Pairing-based Cryptography via Software/Hardware Co-Design.** (*Beihang University*)
 
-- [ ] **Cassandra: Efficient Enforcement of Sequential Execution for Cryptographic Programs.**
+- [ ] **Cassandra: Efficient Enforcement of Sequential Execution for Cryptographic Programs.** (*ETH Zurich*)
 
-- [ ] **FAST: An FHE Accelerator for Scalable-parallelism with Tunable-bit.**
+- [ ] **FAST: An FHE Accelerator for Scalable-parallelism with Tunable-bit.** (*Institute of Information Engineering, UCAS*)
 
-- [ ] **Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core.**
+- [ ] **Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core.** (*Institute of Information Engineering, UCAS*)
 
 
 
