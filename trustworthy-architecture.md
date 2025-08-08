@@ -60,7 +60,7 @@
 
 ### 2025 ISCA
 
-- [ ] **Unified Memory Protectionwith Multi-granular MAC and Integrity Treefor Heterogeneous Processors.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/multi_MAC_tree_isca_2025.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/multi_MAC_tree_slide_isca_2025.pdf)
+#### Crypto & Fully Homomorphic Encryption:
 
 - [ ] **Finesse: An Agile Design Framework for Pairing-based Cryptography via Software/Hardware Co-Design.** (*Beihang University*)
 
@@ -70,6 +70,37 @@
 
 - [ ] **Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core.** (*Institute of Information Engineering, UCAS*)
 
+
+#### RowHammer:
+
+- [ ] **MoPAC: Efficiently Mitigating Rowhammer with Probabilistic Activation Counting.** (*Georgia Institute of Technology*)
+
+- [ ] **When Mitigations Backfire: Timing Channel Attacks and Defense for PRAC-Based RowHammer Mitigations.** (*The University of British Columbia*)
+
+- [ ] **PuDHammer: Experimental Analysis of Read Disturbance Effects of Processing-using-DRAM in Real DRAM Chips.** (*ETH Zurich*)
+
+- [ ] **DREAM: Enabling Low-Overhead Rowhammer Mitigation via Directed Refresh Management.** (*Georgia Tech*)
+
+#### Security
+
+- [ ] **Need for zkSpeed: Accelerating HyperPlonk for Zero-Knowledge Proofs.** (*New York University*)
+
+- [ ] **Adaptive CHERI Compartmentalization for Heterogeneous Accelerators.** (*University of Edinburgh*)
+
+- [ ] **Unified Memory Protectionwith Multi-granular MAC and Integrity Treefor Heterogeneous Processors.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/multi_MAC_tree_isca_2025.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/multi_MAC_tree_slide_isca_2025.pdf)
+
+- [ ] **SpecASan: Mitigating Transient Execution Attacks Using Speculative Address Sanitization.** (*University of California, Riverside*)
+
+
+#### Best Paper Nominees:
+
+- [ ] **The XOR Cache: A Catalyst for Compression.** (*University of Wisconsin-Madison*)
+
+- [ ] **H<sup>2</sup>-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference.** (*Peking University*)
+
+- [ ] **Precise Exceptions in Relaxed Architectures.** (*University of Cambridge*)
+
+- [ ] **Rethinking Prefetching for Intermittent Computing.** (*Purdue University*)
 
 
 ### 2025 ASPLOS
