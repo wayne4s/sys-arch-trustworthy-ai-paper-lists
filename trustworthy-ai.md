@@ -58,20 +58,57 @@
 
 ### Prompt Injection Attacks
 
+> Malicious users inject specially crafted prompts or instructions into model inputs, manipulating the system to produce unintended, harmful, or unauthorized outputs by bypassing safety mechanisms.
+
 - [ ] [2024 arXiv] **Prompt Injection attack against LLM-integrated Applications.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2306.05499) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/LLMSecurity/HouYi)
 
 ### Extraction Attacks
 
-- [2021 Security] **Extracting Training Data from Large Language Models.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)
+- [ ] [2021 Security] **Extracting Training Data from Large Language Models.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)
 
 
 ### Model Stealing Attacks
 
+> Attackers extract sensitive information from black-box models through API access, without requiring direct access to the model's internals.
 
-### Membership Inferences Attacks
+### Membership Inference Attacks
+
+
+
+
 
 ### Backdoor Attacks
 
+> Attackers covertly embed malicious triggers during the model training process, enabling them to manipulate model behavior when specific predefined conditions are activated during inference.
+
+
+
+### Defense
+
+#### Data Cleaning
+
+> Decontamination, deduplication, filtering.
+
+#### Differential Privacy
+> Add calibrated noise to data or model outputs, preventing attackers from inferring whether specific individuals were included in the training dataset.
+
+#### Federated Learning
+
+> A distributed machine learning approach where raw data remains on local devices, and only model updates are aggregated centrally, preserving data privacy without compromising model performance.
+
+
+#### Watermark
+
+> Digital watermarking techniques that embed imperceptible identifiers into AI models or their outputs, enabling copyright protection and model provenance verification.
+
+
+### Confidential Computing
+
+#### Multi-Party Computation (MPC)
+#### Homomorphic Encryption
+#### Differential Privacy (DP)
+#### Federated Learning
+#### Trusted Execution Environments (TEE) 
 
 
 

@@ -1,10 +1,10 @@
 # Paper Lists for Trustworhy Architecture
 
 ## Table of Contents
- - ![](https://img.shields.io/badge/2022-EB6969) [ISCA](#2022-isca), [HPCA](#2022-hpca)
- - ![](https://img.shields.io/badge/2023-EB6969) [MICRO](#2023-micro)
- - ![](https://img.shields.io/badge/2024-EB6969) [ISCA](#2024-isca), [HPCA](#2024-hpca)
- - ![](https://img.shields.io/badge/2025-EB6969) [MICRO](#2025-micro), [ISCA](#2025-isca), [S&P](#2025-sp)
+ - ![](https://img.shields.io/badge/2022-EB6969) [MICRO](#2022-micro), [ISCA](#2022-isca), [HPCA](#2022-hpca)
+ - ![](https://img.shields.io/badge/2023-EB6969) [MICRO](#2023-micro), [ISCA](#2023-isca), [HPCA](#2023-hpca)
+ - ![](https://img.shields.io/badge/2024-EB6969) [ISCA](#2024-isca), [HPCA](#2024-hpca), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos)
+ - ![](https://img.shields.io/badge/2025-EB6969) [MICRO](#2025-micro), [ISCA](#2025-isca), [HPCA](#2025-hpca), [ASPLOS](#2025-asplos), [S&P](#2025-sp)
 
 
 ### 2022 MICRO
@@ -144,7 +144,7 @@
 
 - [ ] **SpecMPK: Efficient In-Process Isolation with Speculative and Secure Permission Update Instruction.** (*North Carolina State University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://ericrotenberg.wordpress.ncsu.edu/files/2025/06/paper_HPCA-31_SpecMPK.pdf)
 
-
+- [ ] **Palermo: Improving the Performance of Oblivious Memory using Protocol-Hardware Co-Design.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2411.05400) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/Linestro/Palermo-ORAM)
 
 ### 2025 ASPLOS
 
