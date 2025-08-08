@@ -62,6 +62,16 @@
 
 - [ ] **Unified Memory Protectionwith Multi-granular MAC and Integrity Treefor Heterogeneous Processors.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/multi_MAC_tree_isca_2025.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/multi_MAC_tree_slide_isca_2025.pdf)
 
+- [ ] **Finesse: An Agile Design Framework for Pairing-based Cryptography via Software/Hardware Co-Design.**
+
+- [ ] **Cassandra: Efficient Enforcement of Sequential Execution for Cryptographic Programs.**
+
+- [ ] **FAST: An FHE Accelerator for Scalable-parallelism with Tunable-bit.**
+
+- [ ] **Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core.**
+
+
+
 ### 2025 ASPLOS
 
 - [ ] **Practical Federated Recommendation Model Learning Using ORAM with Controlled Privacy.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/30ef9d58-1ea4-4fee-b62b-2f8ab60a119b/content)
