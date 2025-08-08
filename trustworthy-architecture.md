@@ -81,7 +81,7 @@
 
 - [ ] **DREAM: Enabling Low-Overhead Rowhammer Mitigation via Directed Refresh Management.** (*Georgia Tech*)
 
-#### Security
+#### Security:
 
 - [ ] **Need for zkSpeed: Accelerating HyperPlonk for Zero-Knowledge Proofs.** (*New York University*)
 
