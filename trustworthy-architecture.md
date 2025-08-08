@@ -12,9 +12,17 @@
 - [ ] **DiVa: An Accelerator for Differentially Private Machine Learning.** (*KAIST*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2208.12392)
 
 
+- [ ] **CRONUS: Fault-isolated, Secure and High-performance Heterogeneous Computing for Trusted Execution Environment.** (*HKU*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://i.cs.hku.hk/~heming/papers/micro22-cronus.pdf)
+
 ### 2022 ISCA
 
+- [ ] **SoftVN: Efficient Memory Protection via Software-Provided Version Numbers.** (*Cornell University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.csl.cornell.edu/~zhiruz/pdfs/softvn-isca2022.pdf)
+
 - [ ] **MGX: Near-Zero Overhead Memory Protection for Data-Intensive Accelerators.** (*Cornell University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.csl.cornell.edu/~zhiruz/pdfs/mgx-isca2022.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://www.iscaconf.org/isca2022/slides/isca22-hua-mgx.pdf)
+
+- [ ] **PPMLAC: High Performance Chipset Architecture for Secure Multi-Party Computation.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/ppmlac.isca22.pdf)
+
+- [ ] **Axiomatic Hardware-Software Contracts for Security.** (*Stanford University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://trippel-lab.stanford.edu/pubs/nmosier_ISCA22.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/nmosier/clou)
 
 
 ### 2022 HPCA
@@ -35,6 +43,8 @@
 
 
 ### 2023 HPCA
+
+- [ ] **Efficient Distributed Secure Memory with Migratable Merkle Tree.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://ipads.se.sjtu.edu.cn/_media/publications/hpca23.pdf)
 
 - [ ] **AB-ORAM: Constructing Adjustable Buckets for Space Reduction in Ring ORAM.** (*University of Pittsburgh*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.cs.pitt.edu/~zhangyt/research/hpca23a.pdf)
 
@@ -61,6 +71,11 @@
 ### 2024 HPCA
 
 - [ ] **Supporting Secure Multi-GPU Computing withDynamic and Batched Metadata Management.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/multi_gpu_security_hpca_2024.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://seonjinna.github.io/assets/pdf/hpca24_slides.pdf)
+
+
+### 2024 ASPLOS
+
+- [ ] **sIOPMP: Scalable and Efficient I/O Protection for TEEs.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://ipads.se.sjtu.edu.cn/_media/publications/feng-asplos24.pdf)
 
 
 ---
@@ -130,3 +145,10 @@
 
 - [ ] **Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2505.07239)
 
+<!--
+- [ ] [xxx] **xxx.** 
+[![](https://img.shields.io/badge/paper-7EA6E0)](xxx)
+[![](https://img.shields.io/badge/article-719AAC)](xxx)
+[![](https://img.shields.io/badge/slides-E29135)](xxx)
+[![](https://img.shields.io/badge/code-B5739D)](xxx)
+-->
