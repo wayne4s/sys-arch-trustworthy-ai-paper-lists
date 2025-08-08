@@ -37,6 +37,7 @@
 
 ## AI Security
 
+
 ### Jailbreak Attacks
 
 - [ ] [2024 NeurIPS] **Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://proceedings.neurips.cc/paper_files/paper/2024/file/38c1dfb4f7625907b15e9515365e7803-Paper-Datasets_and_Benchmarks_Track.pdf) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/KulCxJm1wgz2fqorfuJ3Iw) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/usail-hkust/JailTrickBench.git)
@@ -58,7 +59,7 @@
 
 ### Prompt Injection Attacks
 
-> Malicious users inject specially crafted prompts or instructions into model inputs, manipulating the system to produce unintended, harmful, or unauthorized outputs by bypassing safety mechanisms.
+<!-- > Malicious users inject specially crafted prompts or instructions into model inputs, manipulating the system to produce unintended, harmful, or unauthorized outputs by bypassing safety mechanisms. -->
 
 - [ ] [2024 arXiv] **Prompt Injection attack against LLM-integrated Applications.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2306.05499) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/LLMSecurity/HouYi)
 
@@ -69,7 +70,7 @@
 
 ### Model Stealing Attacks
 
-> Attackers extract sensitive information from black-box models through API access, without requiring direct access to the model's internals.
+<!-- > Attackers extract sensitive information from black-box models through API access, without requiring direct access to the model's internals. -->
 
 ### Membership Inference Attacks
 
@@ -79,7 +80,7 @@
 
 ### Backdoor Attacks
 
-> Attackers covertly embed malicious triggers during the model training process, enabling them to manipulate model behavior when specific predefined conditions are activated during inference.
+<!-- > Attackers covertly embed malicious triggers during the model training process, enabling them to manipulate model behavior when specific predefined conditions are activated during inference. -->
 
 
 
@@ -87,36 +88,47 @@
 
 #### Data Cleaning
 
-> Decontamination, deduplication, filtering.
-
-#### Differential Privacy
-> Add calibrated noise to data or model outputs, preventing attackers from inferring whether specific individuals were included in the training dataset.
-
-#### Federated Learning
-
-> A distributed machine learning approach where raw data remains on local devices, and only model updates are aggregated centrally, preserving data privacy without compromising model performance.
-
+<!-- > Decontamination, deduplication, filtering. -->
 
 #### Watermark
 
-> Digital watermarking techniques that embed imperceptible identifiers into AI models or their outputs, enabling copyright protection and model provenance verification.
+<!-- > Digital watermarking techniques that embed imperceptible identifiers into AI models or their outputs, enabling copyright protection and model provenance verification. -->
 
 
-### Confidential Computing
+---
 
-#### Multi-Party Computation (MPC)
+### Privacy-preserving Computation
+<!-- 在保证数据提供方不泄露原始数据的前提下，对数据进行分析计算的一系列信息技术，保障数据在流通与融合过程中的“可用不可见”。 -->
+<!-- 将隐私计算相关技术概括为三个大类，分别为以安全多方计算为代表的密码学路径、以可信任执行环境为代表的硬件路径和以联邦学习为代表的人工智能路径 -->
+
+#### Secure Multi-Party Computation (SMPC)
+
+<!-- 多方安全计算指参与者在不泄露各自隐私数据情况下，利用隐私数据参与保密计算，共同完成某项计算任务。 -->
+
 #### Homomorphic Encryption
+
+- [ ] [2025 DAC] **ABC-FHE: A Resource-Efficient Accelerator Enabling Bootstrappable Parameters for Client-Side Fully Homomorphic Encryption.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2506.08461)
+
 #### Differential Privacy (DP)
-#### Federated Learning
+<!-- > Add calibrated noise to data or model outputs, preventing attackers from inferring whether specific individuals were included in the training dataset. -->
+
+#### Federated Learning (FL)
+<!-- > A distributed machine learning approach where raw data remains on local devices, and only model updates are aggregated centrally, preserving data privacy without compromising model performance. -->
+<!-- 联邦学习是一种分布式机器学习技术，通过在多个拥有本地数据的数据源之间进行分布式模型训练；在不需要交换本地个体或样本数据的前提下，仅通过交换模型参数或中间结果的方式构建基于虚拟融合数据下的全局模型，从而实现数据隐私保护和数据共享计算的平衡，即“数据可用不可见”、“数据不动模型动”的应用新范式。 -->
+
 #### Trusted Execution Environments (TEE) 
+<!-- 可信执行环境是一种能确保代码和数据在执行过程中安全、完整且不被篡改的环境。 -->
 
+#### Zero-Knowledge Proofs (ZKP)
+<!-- > Cryptographic protocols that allow one party to prove knowledge of a secret without revealing the secret itself, enabling privacy-preserving verification and authentication. -->
 
+- [ ] [2025 DAC] **zkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2504.12217) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/UCF-Lou-Lab-PET/zkformer)
 
 <!--
 - [ ] [xxx] **xxx.** 
-[![](https://img.shields.io/badge/paper-7EA6E0)](xxx)
-[![](https://img.shields.io/badge/article-719AAC)](xxx)
-[![](https://img.shields.io/badge/slides-E29135)](xxx)
-[![](https://img.shields.io/badge/code-B5739D)](xxx)
+[![](https://img.shields.io/badge/paper-7EA6E0)]
+[![](https://img.shields.io/badge/article-719AAC)]()
+[![](https://img.shields.io/badge/slides-E29135)]()
+[![](https://img.shields.io/badge/code-B5739D)]()
 -->
 
