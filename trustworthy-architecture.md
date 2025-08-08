@@ -7,6 +7,10 @@
  - ![](https://img.shields.io/badge/2025-EB6969) [MICRO](#2025-micro), [ISCA](#2025-isca), [S&P](#2025-sp)
 
 
+### 2022 MICRO
+
+- [ ] **DiVa: An Accelerator for Differentially Private Machine Learning.** (*KAIST*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2208.12392)
+
 
 ### 2022 ISCA
 
@@ -94,7 +98,7 @@
 
 #### Best Paper Nominees:
 
-- [ ] **The XOR Cache: A Catalyst for Compression.** (*University of Wisconsin-Madison*)
+- [ ] **The XOR Cache: A Catalyst for Compression.** (*University of Wisconsin-Madison*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://jsm.ece.wisc.edu/docs/pan-isca2025.pdf)
 
 - [ ] **H<sup>2</sup>-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference.** (*Peking University*)
 
