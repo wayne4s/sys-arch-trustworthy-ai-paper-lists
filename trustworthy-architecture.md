@@ -17,8 +17,7 @@
 
 ### 2022 MICRO
 
-- [ ] **DiVa: An Accelerator for Differentially Private Machine Learning.** (*KAIST*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2208.12392)
-
+- [ ] **DiVa: An Accelerator for Differentially Private Machine Learning.** (*KAIST*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2208.12392) [![](https://img.shields.io/badge/slides-E29135)](https://safari.ethz.ch/architecture_seminar/spring2023/lib/exe/fetch.php?media=diva_pres_final.pdf)
 
 - [ ] **CRONUS: Fault-isolated, Secure and High-performance Heterogeneous Computing for Trusted Execution Environment.** (*HKU*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://i.cs.hku.hk/~heming/papers/micro22-cronus.pdf)
 
