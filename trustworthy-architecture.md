@@ -68,6 +68,10 @@
 
 - [ ] **D-Shield: Enabling Processor-side Encryption and Integrity Verification for Secure NVMe Drives.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://casrl.ece.ucf.edu/wp-content/uploads/2023/01/HPCA2023_D_Shield.pdf)
 
+### 2023 ATC
+<!-- USENIX ATC-->
+
+- [ ] **Confidential Computing within an AI Accelerator.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.usenix.org/conference/atc23/presentation/vaswani) [![](https://img.shields.io/badge/slides-E29135)](https://www.usenix.org/conference/atc23/presentation/vaswani)
 
 
 ---
@@ -168,8 +172,8 @@
 
 <!--
 - [ ] [xxx] **xxx.** 
-[![](https://img.shields.io/badge/paper-7EA6E0)](xxx)
-[![](https://img.shields.io/badge/article-719AAC)](xxx)
-[![](https://img.shields.io/badge/slides-E29135)](xxx)
-[![](https://img.shields.io/badge/code-B5739D)](xxx)
+[![](https://img.shields.io/badge/paper-7EA6E0)]()
+[![](https://img.shields.io/badge/slides-E29135)]()
+[![](https://img.shields.io/badge/article-719AAC)]()
+[![](https://img.shields.io/badge/code-B5739D)]()
 -->
