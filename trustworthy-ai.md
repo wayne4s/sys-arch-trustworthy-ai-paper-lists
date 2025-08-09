@@ -104,8 +104,7 @@
 
 - [ ] [2025 IEEE Access] **Privacy-Preserving Deep Learning: A Survey on Theoretical Foundations, Software Frameworks, and Hardware Accelerators.**
 
-- [ ] [2025 arXiv] **Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2507.14519)
-
+- [ ] [2025 arXiv] **Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2507.14519) [![](https://img.shields.io/badge/article-719AAC)](https://www.showapi.com/news/article/6892f9824ddd79d1350039fd)
 
 #### Secure Multi-Party Computation (SMPC)
 
@@ -132,9 +131,9 @@
 
 <!--
 - [ ] [xxx] **xxx.** 
-[![](https://img.shields.io/badge/paper-7EA6E0)]
-[![](https://img.shields.io/badge/article-719AAC)]()
+[![](https://img.shields.io/badge/paper-7EA6E0)]()
 [![](https://img.shields.io/badge/slides-E29135)]()
+[![](https://img.shields.io/badge/article-719AAC)]()
 [![](https://img.shields.io/badge/code-B5739D)]()
 -->
 
