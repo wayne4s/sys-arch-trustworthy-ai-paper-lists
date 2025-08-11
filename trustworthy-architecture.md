@@ -158,6 +158,11 @@
 
 - [ ] **Palermo: Improving the Performance of Oblivious Memory using Protocol-Hardware Co-Design.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2411.05400) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/Linestro/Palermo-ORAM)
 
+#### Sparsity:
+
+- [ ] **Prosperity: Accelerating Spiking Neural Networks via Product Sparsity.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2503.03379) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/dubcyfor3/Prosperity)
+
+
 ### 2025 ASPLOS
 
 - [ ] **Practical Federated Recommendation Model Learning Using ORAM with Controlled Privacy.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/30ef9d58-1ea4-4fee-b62b-2f8ab60a119b/content)
