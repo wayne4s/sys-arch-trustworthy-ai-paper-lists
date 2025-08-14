@@ -152,11 +152,33 @@
 
 ### 2025 HPCA
 
+- [ ] **LegoZK: A Dynamically Reconfigurable Accelerator for Zero-Knowledge Proof.** (*IIE, UCAS*)
 - [ ] **WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores.** 
 
-- [ ] **SpecMPK: Efficient In-Process Isolation with Speculative and Secure Permission Update Instruction.** (*North Carolina State University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://ericrotenberg.wordpress.ncsu.edu/files/2025/06/paper_HPCA-31_SpecMPK.pdf)
-
 - [ ] **Palermo: Improving the Performance of Oblivious Memory using Protocol-Hardware Co-Design.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2411.05400) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/Linestro/Palermo-ORAM)
+
+#### [Securing your Chips](https://hpca-conf.org/2025/main-program/)
+- [ ] **Palermo: Improving the Performance of Oblivious Memory using Protocol-Hardware Co-Design.** (*University of Michigan*)
+- [ ] **SpecMPK: Efficient In-Process Isolation with Speculative and Secure Permission Update Instruction.** (*North Carolina State University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://ericrotenberg.wordpress.ncsu.edu/files/2025/06/paper_HPCA-31_SpecMPK.pdf)
+- [ ] **BrokenSleep: Remote Power Timing Attack Exploiting Processor Idle States.** (*DGIST*)
+- [ ] **Efficient Memory Side-Channel Protection for Embedding Generation in Machine Learning.** (*Cornell University*)
+
+
+#### [The Poker Face of FHE](https://hpca-conf.org/2025/main-program/)
+- [ ] **FHENDI: A Near-DRAM Accelerator for Compiler-Generated Fully Homomorphic Encryption Applications.** (*IBM Research*)
+- [ ] **EFFACT: A Highly Efficient Full-Stack FHE Acceleration Platform.** (*Tsinghua University*)
+- [ ] **Anaheim: Architecture and Algorithms for Processing Fully Homomorphic Encryption in Memory.** (*Seoul National University*)
+- [ ] **Hydra: Scale-out FHE Accelerator Architecture for Secure Deep Learning on FPGA.** (*ICT, UCAS*)
+- [ ] **WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores.** (*Ant Group*)
+
+#### [Hammering the Odds](https://hpca-conf.org/2025/main-program/)
+- [ ] **Variable Read Disturbance: An Experimental Analysis of Temporal Variation in DRAM Read Disturbance.** (*ETH Zürich*)
+- [ ] **Understanding RowHammer Under Reduced Refresh Latency: Experimental Analysis of Real DRAM Chips and Implications on Future Solutions.** (*TOBB ETÜ & ETH Zürich*)
+- [ ] **Chronus: Understanding and Securing the Cutting-Edge Industry Solutions to DRAM Read Disturbance.** (*TOBB ETÜ & ETH Zürich*)
+
+- [ ] **AutoRFM: Scaling Low-Cost In-DRAM Trackers to Ultra-Low Rowhammer Thresholds.** (*Georgia Tech*)
+- [ ] **DAPPER: A Performance-Attack-Resilient Tracker for RowHammer Defense.** (*The University of British Columbia (UBC)*)
+- [ ] **QPRAC: Towards Secure and Practical PRAC-based Rowhammer Mitigation using Priority Queues.** (*The University of British Columbia (UBC)*)
 
 #### Sparsity:
 
