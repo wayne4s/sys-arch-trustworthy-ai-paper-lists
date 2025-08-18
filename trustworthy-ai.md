@@ -76,6 +76,11 @@
 - [ ] [2021 Security] **Extracting Training Data from Large Language Models.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)
 
 
+### Adversarial Attacks
+
+- [ ] **Adversarial Attacks on LLMs.**  [![](https://img.shields.io/badge/article-719AAC)](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
+
+
 ### Model Stealing Attacks
 
 <!-- > Attackers extract sensitive information from black-box models through API access, without requiring direct access to the model's internals. -->
