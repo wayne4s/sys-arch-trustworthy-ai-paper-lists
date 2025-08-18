@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="auto-number-title.css" />
+<link rel="stylesheet" type="text/css" href="auto-numbers.css" />
 
 
 # Paper Lists for Trustworhy AI
