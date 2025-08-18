@@ -7,7 +7,7 @@
  - [AI Security](#ai-security)
     - [Jailbreak Attacks](#jailbreak-attacks)
     - [Misinformation Attacks](#misinformation-attacks)
-    - [Prompt Injection Attacks](#prompt-injection-attacks)
+    - [Prompt Attacks](#prompt-attacks)
 
 
 ## Survey
@@ -57,15 +57,20 @@
 
 
 
-### Prompt Injection
+### Prompt Attacks
+
+#### _Prompt Injection_
 
 <!-- > Malicious users inject specially crafted prompts or instructions into model inputs, manipulating the system to produce unintended, harmful, or unauthorized outputs by bypassing safety mechanisms. -->
 
 - [ ] **StruQ: Defending Against Prompt Injection with Structured Queries.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-sizhe) [![](https://img.shields.io/badge/slides-E29135)](https://drive.google.com/file/d/1baUbgFMILhPWBeGrm67XXy_H-jO7raRa/view) [![](https://img.shields.io/badge/article-719AAC)](https://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/Sizhe-Chen/StruQ)
 
-
-
 - [ ] [2024 arXiv] **Prompt Injection attack against LLM-integrated Applications.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2306.05499) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/LLMSecurity/HouYi)
+
+#### _Promoting Obfuscation_
+
+- [ ]**Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2503.11926)
+
 
 ### Extraction Attacks
 
