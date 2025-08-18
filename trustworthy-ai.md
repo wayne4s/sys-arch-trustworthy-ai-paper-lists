@@ -69,8 +69,7 @@
 
 #### _Promoting Obfuscation_
 
-- [ ]**Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2503.11926)
-
+- [ ] **Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2503.11926) [![](https://img.shields.io/badge/article-719AAC)](https://lilianweng.github.io/posts/2025-05-01-thinking/)
 
 ### Extraction Attacks
 
