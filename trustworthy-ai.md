@@ -1,7 +1,4 @@
-<link rel="stylesheet" type="text/css" href="auto-numbers.css" />
-
-
-# Paper Lists for Trustworhy AI
+# Paper Lists for Trustworthy AI
 
 ## Table of Contents
  - [Survey](#survey)
@@ -62,7 +59,7 @@
 
 ### Prompt Attacks
 
-#### _Prompt Injection_
+####  _Prompt Injection_
 
 <!-- > Malicious users inject specially crafted prompts or instructions into model inputs, manipulating the system to produce unintended, harmful, or unauthorized outputs by bypassing safety mechanisms. -->
 
@@ -111,12 +108,6 @@
 <!-- 在保证数据提供方不泄露原始数据的前提下，对数据进行分析计算的一系列信息技术，保障数据在流通与融合过程中的“可用不可见”。 -->
 <!-- 将隐私计算相关技术概括为三个大类，分别为以安全多方计算为代表的密码学路径、以可信任执行环境为代表的硬件路径和以联邦学习为代表的人工智能路径 -->
 
-#### Survey
-
-- [ ] [2025 IEEE Access] **Privacy-Preserving Deep Learning: A Survey on Theoretical Foundations, Software Frameworks, and Hardware Accelerators.**
-
-- [ ] [2025 arXiv] **Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2507.14519) [![](https://img.shields.io/badge/article-719AAC)](https://www.showapi.com/news/article/6892f9824ddd79d1350039fd)
-
 #### Secure Multi-Party Computation (SMPC)
 
 <!-- 多方安全计算指参与者在不泄露各自隐私数据情况下，利用隐私数据参与保密计算，共同完成某项计算任务。 -->
@@ -142,9 +133,9 @@
 
 <!--
 - [ ] [xxx] **xxx.** 
-[![](https://img.shields.io/badge/paper-7EA6E0)]()
-[![](https://img.shields.io/badge/slides-E29135)]()
+[![](https://img.shields.io/badge/paper-7EA6E0)]
 [![](https://img.shields.io/badge/article-719AAC)]()
+[![](https://img.shields.io/badge/slides-E29135)]()
 [![](https://img.shields.io/badge/code-B5739D)]()
 -->
 
