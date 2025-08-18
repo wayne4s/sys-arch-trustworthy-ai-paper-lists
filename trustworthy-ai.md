@@ -1,3 +1,6 @@
+<link rel="stylesheet" type="text/css" href="auto-number-title.css" />
+
+
 # Paper Lists for Trustworhy AI
 
 ## Table of Contents
