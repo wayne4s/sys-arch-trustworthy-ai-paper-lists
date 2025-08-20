@@ -14,14 +14,13 @@
 
 - [x] [2025 arXiv] **AI Safety vs. AI Security: Demystifying the Distinction and Boundaries.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2506.18932) [![](https://img.shields.io/badge/slides-E29135)](https://zhiqlin.github.io/file/talks/AI_Safety_Security_July_17_2025.pdf) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/7k6RR4BMl7gcROFfzWhJjg)
 
-
 - [ ] [2025 arXiv] **A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2504.15585) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/ym-Bv1tPs57Y3zI-Pu6lzA)
-
 
 - [ ] [2025 arXiv] **A Survey on AgentOps: Catagorization, Challenges, and Future Directions.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.arxiv.org/abs/2508.02121) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/UWR5BFKhJj0zrvjhjSymgQ)
 
-
 - [ ] [2025 arXiv] **Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2502.05206) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/CKVe-45__NFey16gex55zQ) [![](https://img.shields.io/badge/homepage-808080)](https://github.com/xingjunm/Awesome-Large-Model-Safety?tab=readme-ov-file) 
+
+- [ ] **Large model agents: State-of-theart, cooperation paradigms, security and privacy, and future trends.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2409.14457)
 
 
 ## AI Safety
