@@ -14,7 +14,9 @@
 
 - [x] [2025 arXiv] **AI Safety vs. AI Security: Demystifying the Distinction and Boundaries.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2506.18932) [![](https://img.shields.io/badge/slides-E29135)](https://zhiqlin.github.io/file/talks/AI_Safety_Security_July_17_2025.pdf) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/7k6RR4BMl7gcROFfzWhJjg)
 
-- [ ] [2025 arXiv] **A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2504.15585) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/ym-Bv1tPs57Y3zI-Pu6lzA)
+- [x] [2025 arXiv] **A Comprehensive Survey in LLM(-Agent) Full Stack Safety: Data, Training and Deployment.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2504.15585) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/ym-Bv1tPs57Y3zI-Pu6lzA)
+
+- [x] **A Survey on Trustworthy LLM Agents: Threats and Countermeasures.**
 
 - [ ] [2025 arXiv] **A Survey on AgentOps: Catagorization, Challenges, and Future Directions.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.arxiv.org/abs/2508.02121) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/UWR5BFKhJj0zrvjhjSymgQ)
 
