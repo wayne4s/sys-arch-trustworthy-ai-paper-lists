@@ -4,7 +4,7 @@
  - [![](https://img.shields.io/badge/2022-EB6969)](#2022-micro) [MICRO](#2022-micro), [ISCA](#2022-isca), [HPCA](#2022-hpca)
  - [![](https://img.shields.io/badge/2023-EB6969)](#2023-micro) [MICRO](#2023-micro), [ISCA](#2023-isca), [HPCA](#2023-hpca), [ATC](#2023-atc)
  - [![](https://img.shields.io/badge/2024-EB6969)](#2024-isca) [ISCA](#2024-isca), [HPCA](#2024-hpca), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos)
- - [![](https://img.shields.io/badge/2025-EB6969)](#2025-micro) [MICRO](#2025-micro), [ISCA](#2025-isca), [HPCA](#2025-hpca), [ASPLOS](#2025-asplos), [S&P](#2025-sp)
+ - [![](https://img.shields.io/badge/2025-EB6969)](#2025-micro) [MICRO](#2025-micro), [ISCA](#2025-isca), [HPCA](#2025-hpca), [ASPLOS](#2025-asplos), [S&P](#2025-sp), [Security](#2025-security)
 
 <!-- - [ ] **xxxx.** [![](https://img.shields.io/badge/paper-7EA6E0)]() [![](https://img.shields.io/badge/slides-E29135)]() -->
 
@@ -188,6 +188,7 @@
 ### 2025 ASPLOS
 
 - [ ] **Practical Federated Recommendation Model Learning Using ORAM with Controlled Privacy.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/30ef9d58-1ea4-4fee-b62b-2f8ab60a119b/content)
+- [ ] **UniZK: Accelerating Zero-Knowledge Proof with Unified Hardware and Flexible Kernel Mapping.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/unizk.asplos25.pdf)
 
 
 
@@ -195,6 +196,14 @@
 ### 2025 S&P
 
 - [ ] **Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2505.07239)
+
+
+### 2025 Security
+
+- [ ] **Breaking the Layer Barrier= Remodeling Private Transformer Inference with Hybrid CKKS and MPC.**
+- [ ] **Game of Arrows: On the (In-)Security of Weight Obfuscation for On-Device TEE-Shielded LLM Partition Algorithms.**
+- [ ] **Phantom: Privacy-Preserving Deep Neural Network Model Obfuscation in Heterogeneous TEE and GPU System.**
+- [ ] **Unlocking the Power of Differentially Private Zeroth-order Optimization for Fine-tuning LLMs.**
 
 <!--
 - [ ] [xxx] **xxx.** 
