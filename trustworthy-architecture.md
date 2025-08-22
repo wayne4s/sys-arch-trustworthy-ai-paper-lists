@@ -198,9 +198,26 @@
 - [ ] **DAPPER: A Performance-Attack-Resilient Tracker for RowHammer Defense.** (*The University of British Columbia (UBC)*)
 - [ ] **QPRAC: Towards Secure and Practical PRAC-based Rowhammer Mitigation using Priority Queues.** (*The University of British Columbia (UBC)*)
 
-#### Sparsity:
+#### Sparsity
 
 - [ ] **Prosperity: Accelerating Spiking Neural Networks via Product Sparsity.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2503.03379) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/dubcyfor3/Prosperity)
+
+
+
+#### Best Paper Award
+
+- [ ] **DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency.** (*University of Illinois at Urbana-Champaign and Microsoft*)
+
+#### Best Paper Honorable Mentions
+
+- [ ] **UniNDP: A Unified Compilation and Simulation Tool for Near DRAM Processing Architectures.** (*Tsinghua University, HKUST, Chinese Academy of Sciences, and Capital Normal University*)
+- [ ] **CORDOBA: Carbon-Efficient Optimization Framework for Computing Systems.** (*Harvard University, and Meta*)
+
+#### Distinguished Artifact Awards
+
+- [ ] **QPRAC: Towards Secure and Practical PRAC-Based Rowhammer Mitigation using Priority Queues.**
+- [ ] **Understanding RowHammer Under Reduced Refresh Latency: Experimental Analysis of Real DRAM Chips and Implications on Future Solutions.**
+
 
 
 ### 2025 ASPLOS
