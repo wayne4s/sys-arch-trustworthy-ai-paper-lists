@@ -150,7 +150,7 @@
 - [ ] **CORD: Low-Latency, Bandwidth-Efficient and Scalable Release Consistency via Directory Ordering.**
 
 
-#### Best Paper Nominees
+#### Best Paper Honorable Mentions
 
 - [ ] **The XOR Cache: A Catalyst for Compression.** (*University of Wisconsin-Madison*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://jsm.ece.wisc.edu/docs/pan-isca2025.pdf)
 
