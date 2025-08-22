@@ -105,7 +105,10 @@
 
 - [ ] **CryptoBTB: A Secure Hierarchical BTB for Diverse Instruction Footprint Workloads.**
 
+
 ### 2025 ISCA
+
+[Homepage](https://iscaconf.org/isca2025/); [Accepted-paper-list](https://www.iscaconf.org/isca2025/program/); [Summary](https://zhuanlan.zhihu.com/p/1934275942861243151)
 
 #### Crypto & Fully Homomorphic Encryption:
 
@@ -138,19 +141,31 @@
 
 - [ ] **SpecASan: Mitigating Transient Execution Attacks Using Speculative Address Sanitization.** (*University of California, Riverside*)
 
+#### Distinguished Artifact Award
 
-#### Best Paper Nominees:
+- [ ] **Chimera: Communication Fusion for Hybrid Parallelism in Large Language Models.** (*HKUST-GZ*) [![](https://img.shields.io/badge/code-B5739D)](https://zenodo.org/records/15104237)
+
+- [ ] **OptiPIM: Optimizing Processing In-Memory Acceleration Using Integer Linear Programming.**
+
+- [ ] **CORD: Low-Latency, Bandwidth-Efficient and Scalable Release Consistency via Directory Ordering.**
+
+
+#### Best Paper Nominees
 
 - [ ] **The XOR Cache: A Catalyst for Compression.** (*University of Wisconsin-Madison*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://jsm.ece.wisc.edu/docs/pan-isca2025.pdf)
 
-- [ ] **H<sup>2</sup>-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference.** (*Peking University*)
-
-- [ ] **Precise Exceptions in Relaxed Architectures.** (*University of Cambridge*)
-
 - [ ] **Rethinking Prefetching for Intermittent Computing.** (*Purdue University*)
+
+#### Best Paper Award
+
+- [ ] **Precise Exceptions in Relaxed Architectures.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.repository.cam.ac.uk/items/c19b17db-1cb0-43b0-b67d-8a77067fccba)
+- [ ] **H<sup>2</sup>-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference.** [![](https://img.shields.io/badge/article-719AAC)](https://ic.pku.edu.cn/xwdt/6422d56ef3114e03b930e16b2f3b8941.htm) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/leesou/H2-LLM-ISCA-2025)
+
 
 
 ### 2025 HPCA
+
+[Homepage](https://hpca-conf.org/2025/); [Accepted-paper-list](https://hpca-conf.org/2025/main-program/)
 
 - [ ] **LegoZK: A Dynamically Reconfigurable Accelerator for Zero-Knowledge Proof.** (*IIE, UCAS*)
 - [ ] **WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores.** 
@@ -187,9 +202,11 @@
 
 ### 2025 ASPLOS
 
+[Homepage](https://www.asplos-conference.org/asplos2025/); [Proceedings-volume-1](https://dl-acm-org.lib.ezproxy.hkust.edu.hk/doi/proceedings/10.1145/3669940); [Proceedings-volume-1](https://dl-acm-org.lib.ezproxy.hkust.edu.hk/doi/proceedings/10.1145/3676641)
+
 - [ ] **Practical Federated Recommendation Model Learning Using ORAM with Controlled Privacy.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/30ef9d58-1ea4-4fee-b62b-2f8ab60a119b/content)
 - [ ] **UniZK: Accelerating Zero-Knowledge Proof with Unified Hardware and Flexible Kernel Mapping.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/unizk.asplos25.pdf)
-
+- [ ] **PipeLLM: Fast and Confidential Large Language Model Services with Speculative Pipelined Encryption.**
 
 
 
