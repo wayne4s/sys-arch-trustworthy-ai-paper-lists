@@ -53,6 +53,7 @@
 
 - [ ] **TEESec: Pre-Silicon Vulnerability Discovery for Trusted Execution Environments.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://moeinghaniyoun.github.io/files/TEESec.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/MoeinGhaniyoun/TEESec)
 
+- [x] **Inter-layer Scheduling Space Definition and Exploration for Tiled Accelerators.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/SET-ISCA2023?tab=readme-ov-file)
 
 ### 2023 HPCA
 
@@ -90,12 +91,13 @@
 - [ ] **Supporting Secure Multi-GPU Computing withDynamic and Batched Metadata Management.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/multi_gpu_security_hpca_2024.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://seonjinna.github.io/assets/pdf/hpca24_slides.pdf)
 
 - [ ] **Salus: Efficient Security Support for CXL-Expanded GPU Memory.**
+- [x] **Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2312.16436) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/GEMINI-HPCA2024)
 
 ### 2024 ASPLOS
 
 - [ ] **sIOPMP: Scalable and Efficient I/O Protection for TEEs.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://ipads.se.sjtu.edu.cn/_media/publications/feng-asplos24.pdf)
 
-### 2025 Security
+### 2024 Security
 
 [Fall Accepted Papers](https://www.usenix.org/conference/usenixsecurity24/fall-accepted-papers); 
 
@@ -202,7 +204,7 @@
 
 - [ ] **Prosperity: Accelerating Spiking Neural Networks via Product Sparsity.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2503.03379) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/dubcyfor3/Prosperity)
 
-- [ ] **SoMa: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2501.12634) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/SoMa-HPCA2025)
+- [x] **SoMa: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2501.12634) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/SoMa-HPCA2025)
 
 #### Best Paper Award
 
