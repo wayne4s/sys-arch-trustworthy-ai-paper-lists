@@ -198,11 +198,11 @@
 - [ ] **DAPPER: A Performance-Attack-Resilient Tracker for RowHammer Defense.** (*The University of British Columbia (UBC)*)
 - [ ] **QPRAC: Towards Secure and Practical PRAC-based Rowhammer Mitigation using Priority Queues.** (*The University of British Columbia (UBC)*)
 
-#### Sparsity
+#### Others
 
 - [ ] **Prosperity: Accelerating Spiking Neural Networks via Product Sparsity.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2503.03379) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/dubcyfor3/Prosperity)
 
-
+- [ ] **SoMa: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2501.12634) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/SoMa-HPCA2025)
 
 #### Best Paper Award
 
@@ -226,7 +226,7 @@
 
 - [ ] **Practical Federated Recommendation Model Learning Using ORAM with Controlled Privacy.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/30ef9d58-1ea4-4fee-b62b-2f8ab60a119b/content)
 - [ ] **UniZK: Accelerating Zero-Knowledge Proof with Unified Hardware and Flexible Kernel Mapping.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/unizk.asplos25.pdf)
-- [ ] **PipeLLM: Fast and Confidential Large Language Model Services with Speculative Pipelined Encryption.**
+- [ ] **PipeLLM: Fast and Confidential Large Language Model Services with Speculative Pipelined Encryption.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2411.03357)
 
 
 
