@@ -29,7 +29,10 @@
 
 - [ ] **Large model agents: State-of-theart, cooperation paradigms, security and privacy, and future trends.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2409.14457)
 
+- [ ] **How Should We Enhance the Safety of Large Reasoning Models: An Empirical Study.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2505.15404)
+- [ ] **Large Language Model Safety: A Holistic Survey.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2412.17686)
 
+- [ ] [2025 ICLR] **Agent Security Bench (ASB): Formalizing and Benchmarking Attacks and Defenses in LLM-based Agents.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2410.02644) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/agiresearch/ASB)
 
 ## AI Safety
 ### Alignment
@@ -37,6 +40,8 @@
 - [ ] [2025 arXiv] **STAIR: Improving Safety Alignment with Introspective Reasoning.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2502.02384) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/1v4A6JBDSTrcw1nGnRR4ow) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/thu-ml/STAIR)
 
 - [ ] [2025 arXiv] **RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2504.10081) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/1v4A6JBDSTrcw1nGnRR4ow) [![](https://img.shields.io/badge/code-B5739D)](https://huggingface.co/RealSafe)
+- [ ] [2025 arXiv] **ERPO: Advancing Safety Alignment via Ex-Ante Reasoning Preference Optimization.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2504.02725)
+- [ ] **Safety Alignment Should Be Made More Than Just a Few Tokens Deep.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2406.05946) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/Unispac/shallow-vs-deep-alignment)
 
 ### Hallucination
 
@@ -54,11 +59,13 @@
 
 - [ ] [2025 ACL] **Jailbreak Large Vision-Language Models Through Multi-Modal Linkage.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://aclanthology.org/2025.acl-long.74.pdf)
 
+- [ ] [2025 ACL] **Shaping the Safety Boundaries: Understanding and Defending Against Jailbreaks in Large Language Models.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://aclanthology.org/2025.acl-long.1233.pdf)
 
 - [ ] [2024 arXiv] **Heuristic-Induced Multimodal Risk Distribution Jailbreak Attack for Multimodal Large Language Models.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2412.05934) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/XqsQE_tdA4gmlsDjp4pHtA)
 
-
 - [ ] [2025 arXiv] **Implicit Jailbreak Attacks via Cross-Modal Information Concealment on Vision-Language Models.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2505.16446v1)
+
+- [ ] [2025 Security] **SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://daoyuan14.github.io/papers/USENIX25_SelfDefend.pdf)
 
 ### Misinformation Attacks
 
@@ -83,6 +90,7 @@
 
 - [ ] [2021 Security] **Extracting Training Data from Large Language Models.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)
 
+- [ ] [2025 ACL] **VLSBench: Unveiling Information Leakage in Multimodal Safety.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://aclanthology.org/2025.acl-long.405.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/AI45Lab/VLSBench)
 
 ### Adversarial Attacks
 
