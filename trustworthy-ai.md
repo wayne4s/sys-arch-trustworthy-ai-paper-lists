@@ -99,6 +99,13 @@
 
 - [ ] **TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2005.05909) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/QData/TextAttack?tab=readme-ov-file)
 
+
+### Backdoor Attack and Defense
+
+- [ ] **BackdoorBox: An Open-sourced Python Toolbox for Backdoor Attacks and Defenses.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2302.01762) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/THUYimingLi/BackdoorBox)
+
+- [ ] **Backdoor Toolbox.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/vtu81/backdoor-toolbox)
+
 ---
 
 ### Privacy-preserving Computation
@@ -126,6 +133,7 @@
 
 - [ ] [2025 DAC] **ABC-FHE: A Resource-Efficient Accelerator Enabling Bootstrappable Parameters for Client-Side Fully Homomorphic Encryption.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2506.08461)
 - [ ] **Encryption-Friendly LLM Architecture.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2410.02486)
+- [ ] [2025 TACO] **Matrix: Multi-Cipher Structures Dataflow for Parallel and Pipelined TFHE Accelerator.** 
 
 #### Differential Privacy (DP)
 <!-- > Add calibrated noise to data or model outputs, preventing attackers from inferring whether specific individuals were included in the training dataset. -->
