@@ -96,6 +96,7 @@
 #### Survey
 
 - [ ] **Privacy-Preserving Large Language Models: Mechanisms, Applications, and Future Directions.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2412.06113)
+- [ ] ![](https://img.shields.io/badge/READ-EA6B66) **Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2507.14519)
 
 
 #### Secure Multi-Party Computation (SMPC)
