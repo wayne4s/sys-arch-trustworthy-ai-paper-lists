@@ -88,6 +88,8 @@
 
 ### 2024 HPCA
 
+[Accepted-paper-list](https://www.hpca-conf.org/2024/program/main.php)
+
 - [ ] **Supporting Secure Multi-GPU Computing withDynamic and Batched Metadata Management.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/multi_gpu_security_hpca_2024.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://seonjinna.github.io/assets/pdf/hpca24_slides.pdf)
 
 - [ ] **Salus: Efficient Security Support for CXL-Expanded GPU Memory.**
