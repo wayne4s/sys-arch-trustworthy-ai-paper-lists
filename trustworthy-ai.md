@@ -4,10 +4,13 @@
  - [Survey](#survey)
  - [AI Safety](#ai-safety)
     - [Alignment](#alignment)
+    - [Hallucination](#hallucination)
+    - [Fairness-Ethics](#fairness-ethics)
  - [AI Security](#ai-security)
     - [Jailbreak Attacks](#jailbreak-attacks)
     - [Misinformation Attacks](#misinformation-attacks)
     - [Prompt Attacks](#prompt-attacks)
+    - [Privacy-preserving Computation](#privacy-preserving-computation)
 
 
 ## Survey
@@ -33,10 +36,12 @@
 
 - [ ] [2025 arXiv] **STAIR: Improving Safety Alignment with Introspective Reasoning.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2502.02384) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/1v4A6JBDSTrcw1nGnRR4ow) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/thu-ml/STAIR)
 
-
-
 - [ ] [2025 arXiv] **RealSafe-R1: Safety-Aligned DeepSeek-R1 without Compromising Reasoning Capability.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2504.10081) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/1v4A6JBDSTrcw1nGnRR4ow) [![](https://img.shields.io/badge/code-B5739D)](https://huggingface.co/RealSafe)
 
+### Hallucination
+
+
+### Fairness & Ethics
 
 
 ## AI Security
