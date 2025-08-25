@@ -3,8 +3,8 @@
 ## Table of Contents
  - [![](https://img.shields.io/badge/2022-EB6969)](#2022-micro) [MICRO](#2022-micro), [ISCA](#2022-isca), [HPCA](#2022-hpca)
  - [![](https://img.shields.io/badge/2023-EB6969)](#2023-micro) [MICRO](#2023-micro), [ISCA](#2023-isca), [HPCA](#2023-hpca), [ATC](#2023-atc)
- - [![](https://img.shields.io/badge/2024-EB6969)](#2024-isca) [ISCA](#2024-isca), [HPCA](#2024-hpca), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos)
- - [![](https://img.shields.io/badge/2025-EB6969)](#2025-micro) [MICRO](#2025-micro), [ISCA](#2025-isca), [HPCA](#2025-hpca), [ASPLOS](#2025-asplos), [S&P](#2025-sp)
+ - [![](https://img.shields.io/badge/2024-EB6969)](#2024-isca) [ISCA](#2024-isca), [HPCA](#2024-hpca), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos), [Security](#2024-security)
+ - [![](https://img.shields.io/badge/2025-EB6969)](#2025-micro) [MICRO](#2025-micro), [ISCA](#2025-isca), [HPCA](#2025-hpca), [ASPLOS](#2025-asplos), [S&P](#2025-sp), [Security](#2025-security)
 
 <!-- - [ ] **xxxx.** [![](https://img.shields.io/badge/paper-7EA6E0)]() [![](https://img.shields.io/badge/slides-E29135)]() -->
 
@@ -53,6 +53,7 @@
 
 - [ ] **TEESec: Pre-Silicon Vulnerability Discovery for Trusted Execution Environments.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://moeinghaniyoun.github.io/files/TEESec.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/MoeinGhaniyoun/TEESec)
 
+- [x] **Inter-layer Scheduling Space Definition and Exploration for Tiled Accelerators.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/SET-ISCA2023?tab=readme-ov-file)
 
 ### 2023 HPCA
 
@@ -87,14 +88,20 @@
 
 ### 2024 HPCA
 
+[Accepted-paper-list](https://www.hpca-conf.org/2024/program/main.php)
+
 - [ ] **Supporting Secure Multi-GPU Computing withDynamic and Batched Metadata Management.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/multi_gpu_security_hpca_2024.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://seonjinna.github.io/assets/pdf/hpca24_slides.pdf)
 
 - [ ] **Salus: Efficient Security Support for CXL-Expanded GPU Memory.**
+- [x] **Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2312.16436) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/GEMINI-HPCA2024)
 
 ### 2024 ASPLOS
 
 - [ ] **sIOPMP: Scalable and Efficient I/O Protection for TEEs.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://ipads.se.sjtu.edu.cn/_media/publications/feng-asplos24.pdf)
 
+### 2024 Security
+
+[Fall Accepted Papers](https://www.usenix.org/conference/usenixsecurity24/fall-accepted-papers); 
 
 ---
 
@@ -105,7 +112,10 @@
 
 - [ ] **CryptoBTB: A Secure Hierarchical BTB for Diverse Instruction Footprint Workloads.**
 
+
 ### 2025 ISCA
+
+[Homepage](https://iscaconf.org/isca2025/); [Accepted-paper-list](https://www.iscaconf.org/isca2025/program/); [Summary](https://zhuanlan.zhihu.com/p/1934275942861243151)
 
 #### Crypto & Fully Homomorphic Encryption:
 
@@ -138,19 +148,31 @@
 
 - [ ] **SpecASan: Mitigating Transient Execution Attacks Using Speculative Address Sanitization.** (*University of California, Riverside*)
 
+#### Distinguished Artifact Award
 
-#### Best Paper Nominees:
+- [ ] **Chimera: Communication Fusion for Hybrid Parallelism in Large Language Models.** (*HKUST-GZ*) [![](https://img.shields.io/badge/code-B5739D)](https://zenodo.org/records/15104237)
+
+- [ ] **OptiPIM: Optimizing Processing In-Memory Acceleration Using Integer Linear Programming.**
+
+- [ ] **CORD: Low-Latency, Bandwidth-Efficient and Scalable Release Consistency via Directory Ordering.**
+
+
+#### Best Paper Honorable Mentions
 
 - [ ] **The XOR Cache: A Catalyst for Compression.** (*University of Wisconsin-Madison*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://jsm.ece.wisc.edu/docs/pan-isca2025.pdf)
 
-- [ ] **H<sup>2</sup>-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference.** (*Peking University*)
-
-- [ ] **Precise Exceptions in Relaxed Architectures.** (*University of Cambridge*)
-
 - [ ] **Rethinking Prefetching for Intermittent Computing.** (*Purdue University*)
+
+#### Best Paper Award
+
+- [ ] **Precise Exceptions in Relaxed Architectures.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.repository.cam.ac.uk/items/c19b17db-1cb0-43b0-b67d-8a77067fccba)
+- [ ] **H<sup>2</sup>-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference.** [![](https://img.shields.io/badge/article-719AAC)](https://ic.pku.edu.cn/xwdt/6422d56ef3114e03b930e16b2f3b8941.htm) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/leesou/H2-LLM-ISCA-2025)
+
 
 
 ### 2025 HPCA
+
+[Homepage](https://hpca-conf.org/2025/); [Accepted-paper-list](https://hpca-conf.org/2025/main-program/)
 
 - [ ] **LegoZK: A Dynamically Reconfigurable Accelerator for Zero-Knowledge Proof.** (*IIE, UCAS*)
 - [ ] **WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores.** 
@@ -180,21 +202,49 @@
 - [ ] **DAPPER: A Performance-Attack-Resilient Tracker for RowHammer Defense.** (*The University of British Columbia (UBC)*)
 - [ ] **QPRAC: Towards Secure and Practical PRAC-based Rowhammer Mitigation using Priority Queues.** (*The University of British Columbia (UBC)*)
 
-#### Sparsity:
+#### Others
 
 - [ ] **Prosperity: Accelerating Spiking Neural Networks via Product Sparsity.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2503.03379) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/dubcyfor3/Prosperity)
+
+- [x] **SoMa: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2501.12634) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/SoMa-HPCA2025)
+
+#### Best Paper Award
+
+- [ ] **DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency.** (*University of Illinois at Urbana-Champaign and Microsoft*)
+
+#### Best Paper Honorable Mentions
+
+- [ ] **UniNDP: A Unified Compilation and Simulation Tool for Near DRAM Processing Architectures.** (*Tsinghua University, HKUST, Chinese Academy of Sciences, and Capital Normal University*)
+- [ ] **CORDOBA: Carbon-Efficient Optimization Framework for Computing Systems.** (*Harvard University, and Meta*)
+
+#### Distinguished Artifact Awards
+
+- [ ] **QPRAC: Towards Secure and Practical PRAC-Based Rowhammer Mitigation using Priority Queues.**
+- [ ] **Understanding RowHammer Under Reduced Refresh Latency: Experimental Analysis of Real DRAM Chips and Implications on Future Solutions.**
+
 
 
 ### 2025 ASPLOS
 
-- [ ] **Practical Federated Recommendation Model Learning Using ORAM with Controlled Privacy.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/30ef9d58-1ea4-4fee-b62b-2f8ab60a119b/content)
+[Homepage](https://www.asplos-conference.org/asplos2025/); [Proceedings-volume-1](https://dl-acm-org.lib.ezproxy.hkust.edu.hk/doi/proceedings/10.1145/3669940); [Proceedings-volume-1](https://dl-acm-org.lib.ezproxy.hkust.edu.hk/doi/proceedings/10.1145/3676641)
 
+- [ ] **Practical Federated Recommendation Model Learning Using ORAM with Controlled Privacy.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/30ef9d58-1ea4-4fee-b62b-2f8ab60a119b/content)
+- [ ] **UniZK: Accelerating Zero-Knowledge Proof with Unified Hardware and Flexible Kernel Mapping.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/unizk.asplos25.pdf)
+- [ ] **PipeLLM: Fast and Confidential Large Language Model Services with Speculative Pipelined Encryption.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2411.03357)
 
 
 
 ### 2025 S&P
 
 - [ ] **Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2505.07239)
+
+
+### 2025 Security
+
+- [ ] **Breaking the Layer Barrier= Remodeling Private Transformer Inference with Hybrid CKKS and MPC.**
+- [ ] **Game of Arrows: On the (In-)Security of Weight Obfuscation for On-Device TEE-Shielded LLM Partition Algorithms.**
+- [ ] **Phantom: Privacy-Preserving Deep Neural Network Model Obfuscation in Heterogeneous TEE and GPU System.**
+- [ ] **Unlocking the Power of Differentially Private Zeroth-order Optimization for Fine-tuning LLMs.**
 
 <!--
 - [ ] [xxx] **xxx.** 
