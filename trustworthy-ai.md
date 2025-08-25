@@ -23,11 +23,12 @@
 
 - [x] **Large Model Based Agents: State-of-the-Art, Cooperation Paradigms, Security and Privacy, and Future Trends.**  [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2409.14457)
 
-- [ ] [2025 arXiv] **Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2502.05206) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/CKVe-45__NFey16gex55zQ) [![](https://img.shields.io/badge/homepage-808080)](https://github.com/xingjunm/Awesome-Large-Model-Safety?tab=readme-ov-file) 
+- [x] [2025 arXiv] **Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2502.05206) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/CKVe-45__NFey16gex55zQ) [![](https://img.shields.io/badge/homepage-808080)](https://github.com/xingjunm/Awesome-Large-Model-Safety?tab=readme-ov-file) 
 
-- [ ] **Large model agents: State-of-theart, cooperation paradigms, security and privacy, and future trends.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2409.14457)
+- [x] **Large model agents: State-of-theart, cooperation paradigms, security and privacy, and future trends.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2409.14457)
 
 
+- [x] **Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives.** (*PKU*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2507.14519) [![](https://img.shields.io/badge/article-719AAC)](https://www.51cto.com/article/822336.html) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/PKU-SEC-Lab/Awesome-PPML-Papers)
 
 ## AI Safety
 ### Alignment
@@ -107,11 +108,6 @@
 <!-- 真正实现“数据可用不可见”的安全愿景。-->
 <!-- 在保证数据提供方不泄露原始数据的前提下，对数据进行分析计算的一系列信息技术，保障数据在流通与融合过程中的“可用不可见”。 -->
 <!-- 将隐私计算相关技术概括为三个大类，分别为以安全多方计算为代表的密码学路径、以可信任执行环境为代表的硬件路径和以联邦学习为代表的人工智能路径 -->
-
-#### Survey
-
-- [ ] **Privacy-Preserving Large Language Models: Mechanisms, Applications, and Future Directions.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2412.06113)
-- [ ] ![](https://img.shields.io/badge/READ-EA6B66) **Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2507.14519)
 
 
 #### Secure Multi-Party Computation (SMPC)
