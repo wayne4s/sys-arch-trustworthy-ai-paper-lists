@@ -20,13 +20,9 @@
 
 - [x] **Large Model Based Agents: State-of-the-Art, Cooperation Paradigms, Security and Privacy, and Future Trends.**  [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2409.14457)
 
-- [ ] [2025 arXiv] **A Survey on AgentOps: Catagorization, Challenges, and Future Directions.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.arxiv.org/abs/2508.02121) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/UWR5BFKhJj0zrvjhjSymgQ)
-
 - [ ] [2025 arXiv] **Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2502.05206) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/CKVe-45__NFey16gex55zQ) [![](https://img.shields.io/badge/homepage-808080)](https://github.com/xingjunm/Awesome-Large-Model-Safety?tab=readme-ov-file) 
 
-- [ ] **Large model agents: State-of-theart, cooperation paradigms, security and privacy, and future trends.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2409.14457)
-
-
+- [ ] [2025 arXiv] **A Survey on AgentOps: Catagorization, Challenges, and Future Directions.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.arxiv.org/abs/2508.02121) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/UWR5BFKhJj0zrvjhjSymgQ)
 
 ## AI Safety
 ### Alignment
