@@ -1,6 +1,7 @@
 # Paper Lists for Trustworhy Architecture
 
 ## Table of Contents
+ - [![](https://img.shields.io/badge/2019-EB6969)](#2019-asplos) [ASPLOS](#2019-asplos)
  - [![](https://img.shields.io/badge/2022-EB6969)](#2022-micro) [MICRO](#2022-micro), [ISCA](#2022-isca), [HPCA](#2022-hpca)
  - [![](https://img.shields.io/badge/2023-EB6969)](#2023-micro) [MICRO](#2023-micro), [ISCA](#2023-isca), [HPCA](#2023-hpca), [ATC](#2023-atc)
  - [![](https://img.shields.io/badge/2024-EB6969)](#2024-isca) [ISCA](#2024-isca), [HPCA](#2024-hpca), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos), [Security](#2024-security)
@@ -8,6 +9,14 @@
 
 <!-- - [ ] **xxxx.** [![](https://img.shields.io/badge/paper-7EA6E0)]() [![](https://img.shields.io/badge/slides-E29135)]() -->
 
+---
+
+### 2019 ASPLOS
+
+- [ ] **Tangram: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://web.stanford.edu/~mgao12/pubs/tangram.asplos19.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/slides/tangram.asplos19.slides.pdf) [![](https://img.shields.io/badge/article-719AAC)](https://www.cnblogs.com/lyc-seu/p/11596204.html)
+
+
+---
 
 ### 2021 ISCA
 
@@ -226,12 +235,15 @@
 
 ### 2025 ASPLOS
 
-[Homepage](https://www.asplos-conference.org/asplos2025/); [Proceedings-volume-1](https://dl-acm-org.lib.ezproxy.hkust.edu.hk/doi/proceedings/10.1145/3669940); [Proceedings-volume-1](https://dl-acm-org.lib.ezproxy.hkust.edu.hk/doi/proceedings/10.1145/3676641)
+[Homepage](https://www.asplos-conference.org/asplos2025/); [Proceedings-volume-1](https://dl-acm-org.lib.ezproxy.hkust.edu.hk/doi/proceedings/10.1145/3669940); [Proceedings-volume-2](https://dl-acm-org.lib.ezproxy.hkust.edu.hk/doi/proceedings/10.1145/3676641)
 
 - [ ] **Practical Federated Recommendation Model Learning Using ORAM with Controlled Privacy.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/30ef9d58-1ea4-4fee-b62b-2f8ab60a119b/content)
 - [ ] **UniZK: Accelerating Zero-Knowledge Proof with Unified Hardware and Flexible Kernel Mapping.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/unizk.asplos25.pdf)
 - [ ] **PipeLLM: Fast and Confidential Large Language Model Services with Speculative Pipelined Encryption.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2411.03357)
 
+- [ ] **KAPLA: Scalable NN Accelerator Dataflow Design Space Structuring and Fast Exploring.**
+- [ ] **CIPHERMATCH: Accelerating Homomorphic Encryption-Based String Matching via Memory-Efficient Data Packing and In-Flash Processing.**
+- [ ] **Affinity-based Optimizations for TFHE on Processing-in-DRAM.**
 
 
 ### 2025 S&P
