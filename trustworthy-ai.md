@@ -30,6 +30,8 @@
 
 - [x] **Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives.** (*PKU*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2507.14519) [![](https://img.shields.io/badge/article-719AAC)](https://www.51cto.com/article/822336.html) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/PKU-SEC-Lab/Awesome-PPML-Papers)
 
+- [ ] **TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2005.05909) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/QData/TextAttack?tab=readme-ov-file)
+
 ## AI Safety
 ### Alignment
 

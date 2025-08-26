@@ -1,4 +1,4 @@
-# Paper Lists for Trustworhy Architecture
+# Paper Lists for Trustworhy-Efficient Architecture
 
 ## Table of Contents
  - [![](https://img.shields.io/badge/2019-EB6969)](#2019-asplos) [ASPLOS](#2019-asplos)
@@ -126,8 +126,8 @@
 
 [Homepage](https://iscaconf.org/isca2025/); [Accepted-paper-list](https://www.iscaconf.org/isca2025/program/); [Summary](https://zhuanlan.zhihu.com/p/1934275942861243151)
 
-#### Crypto & Fully Homomorphic Encryption:
-
+<!-- #### Crypto & Fully Homomorphic Encryption -->
+***Crypto & Fully Homomorphic Encryption***
 - [ ] **Finesse: An Agile Design Framework for Pairing-based Cryptography via Software/Hardware Co-Design.** (*Beihang University*)
 
 - [ ] **Cassandra: Efficient Enforcement of Sequential Execution for Cryptographic Programs.** (*ETH Zurich*)
@@ -137,7 +137,8 @@
 - [ ] **Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core.** (*Institute of Information Engineering, UCAS*)
 
 
-#### RowHammer:
+<!-- #### RowHammer -->
+***RowHammer***
 
 - [ ] **MoPAC: Efficiently Mitigating Rowhammer with Probabilistic Activation Counting.** (*Georgia Institute of Technology*)
 
@@ -147,7 +148,8 @@
 
 - [ ] **DREAM: Enabling Low-Overhead Rowhammer Mitigation via Directed Refresh Management.** (*Georgia Tech*)
 
-#### Security:
+<!-- #### Security -->
+***Security***
 
 - [ ] **Need for zkSpeed: Accelerating HyperPlonk for Zero-Knowledge Proofs.** (*New York University*)
 
@@ -157,7 +159,8 @@
 
 - [ ] **SpecASan: Mitigating Transient Execution Attacks Using Speculative Address Sanitization.** (*University of California, Riverside*)
 
-#### Distinguished Artifact Award
+<!-- #### Distinguished Artifact Award -->
+***Distinguished Artifact Award***
 
 - [ ] **Chimera: Communication Fusion for Hybrid Parallelism in Large Language Models.** (*HKUST-GZ*) [![](https://img.shields.io/badge/code-B5739D)](https://zenodo.org/records/15104237)
 
@@ -166,13 +169,15 @@
 - [ ] **CORD: Low-Latency, Bandwidth-Efficient and Scalable Release Consistency via Directory Ordering.**
 
 
-#### Best Paper Honorable Mentions
+<!-- #### Best Paper Honorable Mentions -->
+***Best Paper Honorable Mentions***
 
 - [ ] **The XOR Cache: A Catalyst for Compression.** (*University of Wisconsin-Madison*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://jsm.ece.wisc.edu/docs/pan-isca2025.pdf)
 
 - [ ] **Rethinking Prefetching for Intermittent Computing.** (*Purdue University*)
 
-#### Best Paper Award
+<!-- #### Best Paper Award -->
+***Best Paper Award***
 
 - [ ] **Precise Exceptions in Relaxed Architectures.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.repository.cam.ac.uk/items/c19b17db-1cb0-43b0-b67d-8a77067fccba)
 - [ ] **H<sup>2</sup>-LLM: Hardware-Dataflow Co-Exploration for Heterogeneous Hybrid-Bonding-based Low-Batch LLM Inference.** [![](https://img.shields.io/badge/article-719AAC)](https://ic.pku.edu.cn/xwdt/6422d56ef3114e03b930e16b2f3b8941.htm) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/leesou/H2-LLM-ISCA-2025)
@@ -188,21 +193,24 @@
 
 - [ ] **Palermo: Improving the Performance of Oblivious Memory using Protocol-Hardware Co-Design.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2411.05400) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/Linestro/Palermo-ORAM)
 
-#### [Securing your Chips](https://hpca-conf.org/2025/main-program/)
+<!-- #### [Securing your Chips](https://hpca-conf.org/2025/main-program/) -->
+***Securing your Chips***
 - [ ] **Palermo: Improving the Performance of Oblivious Memory using Protocol-Hardware Co-Design.** (*University of Michigan*)
 - [ ] **SpecMPK: Efficient In-Process Isolation with Speculative and Secure Permission Update Instruction.** (*North Carolina State University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://ericrotenberg.wordpress.ncsu.edu/files/2025/06/paper_HPCA-31_SpecMPK.pdf)
 - [ ] **BrokenSleep: Remote Power Timing Attack Exploiting Processor Idle States.** (*DGIST*)
 - [ ] **Efficient Memory Side-Channel Protection for Embedding Generation in Machine Learning.** (*Cornell University*)
 
 
-#### [The Poker Face of FHE](https://hpca-conf.org/2025/main-program/)
+<!-- #### The Poker Face of FHE -->
+***The Poker Face of FHE***
 - [ ] **FHENDI: A Near-DRAM Accelerator for Compiler-Generated Fully Homomorphic Encryption Applications.** (*IBM Research*)
 - [ ] **EFFACT: A Highly Efficient Full-Stack FHE Acceleration Platform.** (*Tsinghua University*)
 - [ ] **Anaheim: Architecture and Algorithms for Processing Fully Homomorphic Encryption in Memory.** (*Seoul National University*)
 - [ ] **Hydra: Scale-out FHE Accelerator Architecture for Secure Deep Learning on FPGA.** (*ICT, UCAS*)
 - [ ] **WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores.** (*Ant Group*)
 
-#### [Hammering the Odds](https://hpca-conf.org/2025/main-program/)
+<!-- #### Hammering the Odds -->
+***Hammering the Odds***
 - [ ] **Variable Read Disturbance: An Experimental Analysis of Temporal Variation in DRAM Read Disturbance.** (*ETH Zürich*)
 - [ ] **Understanding RowHammer Under Reduced Refresh Latency: Experimental Analysis of Real DRAM Chips and Implications on Future Solutions.** (*TOBB ETÜ & ETH Zürich*)
 - [ ] **Chronus: Understanding and Securing the Cutting-Edge Industry Solutions to DRAM Read Disturbance.** (*TOBB ETÜ & ETH Zürich*)
@@ -211,25 +219,28 @@
 - [ ] **DAPPER: A Performance-Attack-Resilient Tracker for RowHammer Defense.** (*The University of British Columbia (UBC)*)
 - [ ] **QPRAC: Towards Secure and Practical PRAC-based Rowhammer Mitigation using Priority Queues.** (*The University of British Columbia (UBC)*)
 
-#### Others
-
-- [ ] **Prosperity: Accelerating Spiking Neural Networks via Product Sparsity.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2503.03379) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/dubcyfor3/Prosperity)
-
-- [x] **SoMa: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2501.12634) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/SoMa-HPCA2025)
-
-#### Best Paper Award
+<!-- #### Best Paper Award -->
+***Best Paper Award***
 
 - [ ] **DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency.** (*University of Illinois at Urbana-Champaign and Microsoft*)
 
-#### Best Paper Honorable Mentions
+<!-- #### Best Paper Honorable Mentions -->
+***Best Paper Honorable Mentions***
 
 - [ ] **UniNDP: A Unified Compilation and Simulation Tool for Near DRAM Processing Architectures.** (*Tsinghua University, HKUST, Chinese Academy of Sciences, and Capital Normal University*)
 - [ ] **CORDOBA: Carbon-Efficient Optimization Framework for Computing Systems.** (*Harvard University, and Meta*)
 
-#### Distinguished Artifact Awards
+<!-- #### Distinguished Artifact Awards -->
+***Distinguished Artifact Awards***
 
 - [ ] **QPRAC: Towards Secure and Practical PRAC-Based Rowhammer Mitigation using Priority Queues.**
 - [ ] **Understanding RowHammer Under Reduced Refresh Latency: Experimental Analysis of Real DRAM Chips and Implications on Future Solutions.**
+
+<!-- #### Others -->
+***Others***
+- [ ] **Prosperity: Accelerating Spiking Neural Networks via Product Sparsity.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2503.03379) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/dubcyfor3/Prosperity)
+
+- [x] **SoMa: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2501.12634) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/SoMa-HPCA2025)
 
 
 
