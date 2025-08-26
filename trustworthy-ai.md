@@ -33,7 +33,8 @@
 - [ ] **TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2005.05909) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/QData/TextAttack?tab=readme-ov-file)
 
 ## AI Safety
-### Alignment
+<!-- ### Alignment -->
+***Alignment***
 
 - [ ] [2025 arXiv] **STAIR: Improving Safety Alignment with Introspective Reasoning.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2502.02384) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/1v4A6JBDSTrcw1nGnRR4ow) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/thu-ml/STAIR)
 
@@ -41,16 +42,18 @@
 - [ ] [2025 arXiv] **ERPO: Advancing Safety Alignment via Ex-Ante Reasoning Preference Optimization.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2504.02725)
 - [ ] **Safety Alignment Should Be Made More Than Just a Few Tokens Deep.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2406.05946) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/Unispac/shallow-vs-deep-alignment)
 
-### Hallucination
+<!-- ### Hallucination -->
+***Hallucination***
 
-
-### Fairness & Ethics
+<!-- ### Fairness & Ethics -->
+***Fairness & Ethics***
 
 
 ## AI Security
 
 
-### Jailbreak Attacks
+<!-- ### Jailbreak Attacks -->
+***Jailbreak Attacks***
 
 - [ ] [2024 NeurIPS] **Bag of Tricks: Benchmarking of Jailbreak Attacks on LLMs.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://proceedings.neurips.cc/paper_files/paper/2024/file/38c1dfb4f7625907b15e9515365e7803-Paper-Datasets_and_Benchmarks_Track.pdf) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/KulCxJm1wgz2fqorfuJ3Iw) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/usail-hkust/JailTrickBench.git)
 
@@ -65,13 +68,15 @@
 
 - [ ] [2025 Security] **SelfDefend: LLMs Can Defend Themselves against Jailbreaking in a Practical Manner.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://daoyuan14.github.io/papers/USENIX25_SelfDefend.pdf)
 
-### Misinformation Attacks
+<!-- ### Misinformation Attacks -->
+***Misinformation Attacks***
 
 - [ ] [2024 NPJ Digital Medicine] **Medical large language models are susceptible to targeted misinformation attacks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.nature.com/articles/s41746-024-01282-7)
 
 
 
-### Prompt Attacks
+<!-- ### Prompt Attacks -->
+***Prompt Attacks***
 
 - [x] **Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2302.12173) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/greshake/llm-security)
 
@@ -84,13 +89,15 @@
 
 
 
-### Extraction Attacks
+<!-- ### Extraction Attacks -->
+***Extraction Attacks***
 
 - [ ] [2021 Security] **Extracting Training Data from Large Language Models.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)
 
 - [ ] [2025 ACL] **VLSBench: Unveiling Information Leakage in Multimodal Safety.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://aclanthology.org/2025.acl-long.405.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/AI45Lab/VLSBench)
 
-### Adversarial Attacks
+<!-- ### Adversarial Attacks -->
+***Adversarial Attacks***
 
 - [ ] **Adversarial Attacks on LLMs.**  [![](https://img.shields.io/badge/article-719AAC)](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
@@ -98,7 +105,8 @@
 - [ ] **TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2005.05909) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/QData/TextAttack?tab=readme-ov-file)
 
 
-### Backdoor Attack and Defense
+<!-- ### Backdoor Attack and Defense -->
+***Backdoor Attack and Defense***
 
 - [ ] **BackdoorBox: An Open-sourced Python Toolbox for Backdoor Attacks and Defenses.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2302.01762) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/THUYimingLi/BackdoorBox)
 
@@ -112,7 +120,8 @@
 <!-- 将隐私计算相关技术概括为三个大类，分别为以安全多方计算为代表的密码学路径、以可信任执行环境为代表的硬件路径和以联邦学习为代表的人工智能路径 -->
 
 
-#### Secure Multi-Party Computation (SMPC)
+<!-- #### Secure Multi-Party Computation (SMPC) -->
+***Secure Multi-Party Computation (SMPC)***
 
 <!-- 多方安全计算指参与者在不泄露各自隐私数据情况下，利用隐私数据参与保密计算，共同完成某项计算任务。 -->
 
@@ -122,26 +131,31 @@
 - [2024 ACL] **SecFormer: Fast and Accurate Privacy-Preserving Inference for Transformer Models via SMPC.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://aclanthology.org/2024.findings-acl.790/)
 
 
-#### Homomorphic Encryption
+<!-- #### Homomorphic Encryption -->
+***Homomorphic Encryption***
 
 - [ ] [2025 DAC] **ABC-FHE: A Resource-Efficient Accelerator Enabling Bootstrappable Parameters for Client-Side Fully Homomorphic Encryption.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2506.08461)
 - [ ] **Encryption-Friendly LLM Architecture.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2410.02486)
 - [ ] [2025 TACO] **Matrix: Multi-Cipher Structures Dataflow for Parallel and Pipelined TFHE Accelerator.** 
 
-#### Differential Privacy (DP)
+<!-- #### Differential Privacy (DP) -->
+***Differential Privacy (DP)***
 <!-- > Add calibrated noise to data or model outputs, preventing attackers from inferring whether specific individuals were included in the training dataset. -->
 - [ ] **Differentially Private Steering for Large Language Model Alignment.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2501.18532)
 
-#### Federated Learning (FL)
+<!-- #### Federated Learning (FL) -->
+***Federated Learning (FL)***
 <!-- > A distributed machine learning approach where raw data remains on local devices, and only model updates are aggregated centrally, preserving data privacy without compromising model performance. -->
 <!-- 联邦学习是一种分布式机器学习技术，通过在多个拥有本地数据的数据源之间进行分布式模型训练；在不需要交换本地个体或样本数据的前提下，仅通过交换模型参数或中间结果的方式构建基于虚拟融合数据下的全局模型，从而实现数据隐私保护和数据共享计算的平衡，即“数据可用不可见”、“数据不动模型动”的应用新范式。 -->
 - [ ] **Federated In-Context LLM Agent Learning.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2412.08054)
 
 
-#### Trusted Execution Environments (TEE) 
+<!-- #### Trusted Execution Environments (TEE)  -->
+***Trusted Execution Environments (TEE)***
 <!-- 可信执行环境是一种能确保代码和数据在执行过程中安全、完整且不被篡改的环境。 -->
 
-#### Zero-Knowledge Proofs (ZKP)
+<!-- #### Zero-Knowledge Proofs (ZKP) -->
+***Zero-Knowledge Proofs (ZKP)***
 <!-- > Cryptographic protocols that allow one party to prove knowledge of a secret without revealing the secret itself, enabling privacy-preserving verification and authentication. -->
 
 - [ ] [2025 DAC] **zkVC: Fast Zero-Knowledge Proof for Private and Verifiable Computing.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2504.12217) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/UCF-Lou-Lab-PET/zkformer)
