@@ -76,9 +76,11 @@
 
 
 <!-- ### Prompt Attacks -->
-***Prompt Attacks***
+***Prompt Injection***
 
 - [x] **Not what you’ve signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2302.12173) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/greshake/llm-security)
+
+- [ ] **More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2302.12173) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/greshake/llm-security/tree/main?tab=readme-ov-file)
 
 - [ ] **StruQ: Defending Against Prompt Injection with Structured Queries.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.usenix.org/conference/usenixsecurity25/presentation/chen-sizhe) [![](https://img.shields.io/badge/slides-E29135)](https://drive.google.com/file/d/1baUbgFMILhPWBeGrm67XXy_H-jO7raRa/view) [![](https://img.shields.io/badge/article-719AAC)](https://bair.berkeley.edu/blog/2025/04/11/prompt-injection-defense/) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/Sizhe-Chen/StruQ)
 
@@ -87,17 +89,18 @@
 
 - [ ] **Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2503.11926) [![](https://img.shields.io/badge/article-719AAC)](https://lilianweng.github.io/posts/2025-05-01-thinking/)
 
+- [ ] [2025 S&P] **Prompt Inversion Attack against Collaborative Inference of Large Language Models.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/ygZhou02/DEML)
 
 
 <!-- ### Extraction Attacks -->
-***Extraction Attacks***
+***Extraction***
 
 - [ ] [2021 Security] **Extracting Training Data from Large Language Models.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)
 
 - [ ] [2025 ACL] **VLSBench: Unveiling Information Leakage in Multimodal Safety.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://aclanthology.org/2025.acl-long.405.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/AI45Lab/VLSBench)
 
 <!-- ### Adversarial Attacks -->
-***Adversarial Attacks***
+***Adversarial***
 
 - [ ] **Adversarial Attacks on LLMs.**  [![](https://img.shields.io/badge/article-719AAC)](https://lilianweng.github.io/posts/2023-10-25-adv-attack-llm/)
 
@@ -106,7 +109,7 @@
 
 
 <!-- ### Backdoor Attack and Defense -->
-***Backdoor Attack and Defense***
+***Backdoor***
 
 - [ ] **BackdoorBox: An Open-sourced Python Toolbox for Backdoor Attacks and Defenses.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2302.01762) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/THUYimingLi/BackdoorBox)
 
