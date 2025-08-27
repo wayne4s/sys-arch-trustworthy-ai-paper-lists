@@ -1,7 +1,9 @@
 # Paper Lists for Trustworhy-Efficient Architecture
 
 ## Table of Contents
-[![](https://img.shields.io/badge/2019-EB6969)](#2017-isca) [ISCA](#2017-isca)
+[![](https://img.shields.io/badge/2016-EB6969)](#2016-isca) [ISCA](#2016-isca), [MICRO](#2016-micro)
+[![](https://img.shields.io/badge/2017-EB6969)](#2017-isca) [ISCA](#2017-isca), [ASPLOS](#2017-asplos)
+[![](https://img.shields.io/badge/2018-EB6969)](#2018-isca) [ISCA](#2018-isca)
 [![](https://img.shields.io/badge/2019-EB6969)](#2019-asplos) [ASPLOS](#2019-asplos)
 [![](https://img.shields.io/badge/2022-EB6969)](#2022-micro) [MICRO](#2022-micro), [ISCA](#2022-isca), [HPCA](#2022-hpca)
 [![](https://img.shields.io/badge/2023-EB6969)](#2023-micro) [MICRO](#2023-micro), [ISCA](#2023-isca), [HPCA](#2023-hpca), [ATC](#2023-atc)
@@ -11,23 +13,146 @@
 <!-- - [ ] **xxxx.** [![](https://img.shields.io/badge/paper-7EA6E0)]() [![](https://img.shields.io/badge/slides-E29135)]() -->
 
 ---
+### 2016 ISCA
+
+- [ ] **EIE: Efficient Inference Engine on Compressed Deep Neural Network.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/1602.01528) [![](https://img.shields.io/badge/slides-E29135)](https://old.hotchips.org/wp-content/uploads/hc_archives/hc28/HC28.24-Posters-Epub/HC28.24.020-20_stanford_hotchips.pdf)
+- [ ] **Minerva: Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://rdadolf.com/papers/reagen2016minerva.pdf)
+- [ ] **Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://eems.mit.edu/wp-content/uploads/2016/04/eyeriss_isca_2016.pdf)
+- [ ] **Cambricon: An Instruction Set Architecture for Neural Networks.**  [![](https://img.shields.io/badge/paper-7EA6E0)](https://reconfigdeeplearning.wordpress.com/wp-content/uploads/2017/02/2016-isca_cambricon-an-instruction-set-architecture-for-neural-networks_cyj.pdf)
+
+### 2016 MICRO
+
+- [ ] **Fused-Layer CNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://compas.cs.stonybrook.edu/~mferdman/downloads.php/MICRO16_Fused_Layer_CNN_Accelerators.pdf)
+
+---
 ### 2017 ISCA
 
+[Main Program](https://iscaconf.org/isca2017/doku.php%3Fid=wiki:main_program.html)
+
 - [ ] **ScaleDeep: A Scalable Compute Architecture for Learning and Evaluating Deep Networks.**
+- [ ] **SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.cs.utexas.edu/~skeckler/pubs/ISCA_2017_SCNN.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://web.cs.umass.edu/~weems/homepage/635-Notes/ewExternalFiles/635_Lecture23.pdf)
+- [ ] **Maximizing CNN Accelerator Efficiency Through Resource Partitioning.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/1607.00064)
+- [ ] **Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism.**
+- [ ] **Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent.**
+
+### 2017 HPCA
+
+- [ ] **PipeLayer: A pipelineed ReRAM-Based Accelerator for Deep Learning.** 
+[![](https://img.shields.io/badge/paper-7EA6E0)](https://www.researchgate.net/profile/Linghao-Song/publication/316903105_PipeLayer_A_Pipelined_ReRAM-Based_Accelerator_for_Deep_Learning/links/5ff63b2792851c13fef31fbc/PipeLayer-A-Pipelined-ReRAM-Based-Accelerator-for-Deep-Learning.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://pdfs.semanticscholar.org/2019/6d260ecd5baae2310ef71e5da30d862979d2.pdf)
+- [ ] **FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://drive.google.com/file/d/12L5Tk8P3c8KbcGvmAJRiYOuPZ74Cp0fx/view)
+
+
+### 2017 MICRO
+- [ ] **Scale-Out Acceleration for Machine Learning.**
+
+
+### 2017 ASPLOS
+- [ ] **TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://web.stanford.edu/~mgao12/pubs/tetris.asplos17.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://stanford.edu/~xuany/pubs/slides/tetris.asplos17.slides.pdf)
+- [ ] **Optimizing CNNs on Multicores for Scalability, Performance and Goodput.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/04/samyam-asplos17.pdf)
+
+---
+### 2018 ISCA
+
+[Conference Program (slides)](https://iscaconf.org/isca2018/program.html); [Turing Lecture](https://iscaconf.org/isca2018/turing_lecture.html)
+
+- [ ] **A Configurable Cloud-Scale DNN Processor for Real-Time AI.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/06/ISCA18-Brainwave-CameraReady.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://iscaconf.org/isca2018/slides/1A1.pdf)
+- [ ] **Computation Reuse in DNNs byExploiting Input Similarity.** [![](https://img.shields.io/badge/slides-E29135)](https://pdfs.semanticscholar.org/6416/fcd79b96808bdce58fb9e7d7b60d2683a552.pdf)
+- [ ] **RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://knowen-production.s3.amazonaws.com/uploads/attachment/file/5364/Dram%2Brefreshing%2B.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://iscaconf.org/isca2018/slides/4B3.pdf)
+- [ ] **UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.kartikhegde.net/media/UCNN_ISCA.pdf)
+- [ ] **SnaPEA: Predictive Early Activation for Reducing Computation in Deep Convolutional Neural Networks.**
+- [ ] **Prediction based Execution on Deep Neural Networks.**
+
+
+
+### 2018 HPCA
+
+- [ ] **Towards Efficient Microarchitectural Design for Accelerating Unsupervised GAN-based Deep Learning.**
+
+
+### 2018 MICRO
+- [ ] **Addressing Irregularity in Sparse Neural Networks:A Cooperative Software/Hardware Approach.**
+
+### 2018 ASPLOS
+- [ ] **MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://anands09.github.io/papers/maeri_asplos2018.pdf) [![](https://img.shields.io/badge/article-719AAC)](https://synergy.ece.gatech.edu/tools/maeri/)
 
 
 ---
+### 2019 ISCA
+
+- [ ] **DeepAttest: An End-to-End Attestation Framework for Deep Neural Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://cseweb.ucsd.edu/~jzhao/files/DeepAttest-isca2019.pdf)
+
+
+
+### 2019 HPCA
+
+[Main Program (slides)](http://hpca2019.seas.gwu.edu/main_program.html)
+
+- [ ] **HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/1901.02067) [![](https://img.shields.io/badge/slides-E29135)](http://hpca2019.seas.gwu.edu/slides/2A-1.pdf)
+- [ ] **HPCA19-Shortcut Mining: Exploiting Cross-layer Shortcut Reuse in DCNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://web.engr.oregonstate.edu/~chenliz/publications/2019_HPCA_Shortcut%20Mining.pdf) [![](https://img.shields.io/badge/slides-E29135)](http://hpca2019.seas.gwu.edu/slides/2A-4.pdf)
+
+- [ ] **FPGA-based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data.**
+- [ ] **Conditional Speculation: An Effective Approach to Safeguard Out-of-Order Execution Against Spectre Attacks.**
+- [ ] **POWERT Channels: A Novel Class of Covert Communication Exploiting Power Management Vulnerabilities.**
+
+### 2019 MICRO
+
+- [ ] **SparTen: A Sparse Tensor Accelerator for Convolutional Neural Networks.**
+- [ ] **Boosting the Performance of CNN Accelerators with Dynamic Fine-Grained Channel Gating.**
+- [ ] **Efficient SpMV Operation for Large and Highly Sparse Matrices using Scalable Multi-way Merge Parallelization.**
+- [ ] **eCNN: A Block-Based and Highly-Parallel CNN Accelerator for Edge Inference.**
+- [ ] **ShapeShifter: Enabling Fine-Grain Data Width Adaptation in Deep Learning.**
+
 
 ### 2019 ASPLOS
 
 - [ ] **Tangram: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://web.stanford.edu/~mgao12/pubs/tangram.asplos19.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/slides/tangram.asplos19.slides.pdf) [![](https://img.shields.io/badge/article-719AAC)](https://www.cnblogs.com/lyc-seu/p/11596204.html)
+- [ ] **Astra: Exploiting Predictability to Optimize Deep Learning.**
 
+---
+### 2020 ISCA
+
+- [ ] **High-Performance Deep-Learning Coprocessor Integrated into x86 SoC with Server-Class CPUs.**
+- [ ] **Think Fast: A Tensor Streaming Processor (TSP) for Accelerating Deep Learning Workloads.**
+- [ ] **A Multi-Neural Network Acceleration Architecture.**
+- [ ] **SmartExchange: Trading Higher-Cost Memory Storage/Access for Lower-Cost Computation.**
+- [ ] **An In-Network Architecture for Accelerating Shared-Memory Multiprocessor Collectives.**
+
+### 2020 HPCA
+- [ ] **AccPar: Tensor Partitioning for Heterogeneous Deep Learning Accelerator Arrays.**
+
+
+### 2020 ASPLOS
+
+- [ ] **DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks.** (*IIE, CAS*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://dl.acm.org/doi/pdf/10.1145/3373376.3378532)
 
 ---
 
 ### 2021 ISCA
 
+- [ ] **NASA: Accelerating Neural Network Design with a NAS Processor.**
 - [ ] **NASGuard: A Novel Accelerator Architecture for Robust Neural Architecture Search (NAS) Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.researchgate.net/profile/Xingbin-Wang/publication/352091757_NASGuard_A_Novel_Accelerator_Architecture_for_Robust_Neural_Architecture_Search_NAS_Networks/links/60b8a06c92851cb13d7064d9/NASGuard-A-Novel-Accelerator-Architecture-for-Robust-Neural-Architecture-Search-NAS-Networks.pdf)
+- [ ] **RaPiD: AI Accelerator for Ultra-Low Precision Training and Inference.**
+- [ ] **Communication Algorithm-Architecture Co-Design for Distributed Deep Learning.**
+- [ ] **CoSA: Scheduling by Constrained Optimization for Spatial Accelerators.**
+- [ ] **Cambricon-Q: A Hybrid Architecture for Efficient Training.**
+- [ ] **TENET: A Framework for Modeling Tensor Dataflow Based on Relation-Centric Notation.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/pku-liang/TENET)
+- [ ] **HASCO: Towards Agile Hardware and Software CO-design for Tensor Computation.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/pku-liang/HASCO)
+- [ ] **GoSPA: An Energy-Efficient High-Performance Globally Optimized SParse Convolutional Neural Network Accelerator.**
+
+
+### 2021 HPCA
+
+- [ ] **Heterogeneous Dataflow Accelerators for Multi-DNN Workloads.**
+- [ ] **SPAGHETTI: Streaming Accelerators for Highly Sparse GEMM on FPGAs.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/sfu-arch/SPAGHETTI)
+- [ ] **Layerweaver: Maximizing Resource Utilization of Neural Processing Units via Layer-Wise Scheduling.**
+- [ ] **Sentinel: Efficient Tensor Migration and Allocation on Heterogeneous Memory Systems for Deep Learning.**
+
+### 2021 ASPLOS
+- [ ] **Neural architecture search as program transformation exploration.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.pure.ed.ac.uk/ws/portalfiles/portal/207986471/Neural_Architecture_TURNER_DOA19112020_AFV.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/jack-willturner/nas-as-program-transformation-exploration)
+- [ ] **Analytical characterization and design space exploration for optimization of CNNs.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://users.cs.utah.edu/~saday/li-asplos2021.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/HPCRL/ASPLOS_artifact)
+- [ ] **Mind mappings: enabling efficient algorithm-accelerator mapping space search.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.kartikhegde.net/media/Mind_Mappings_ASPLOS2021_CR.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/kartik-hegde/mindMappings)
+- [ ] **Defensive approximation: securing CNNs using approximate computing.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.cs.ucr.edu/~nael/pubs/asplos21.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/AmiraGuesmi-mls/Defensive-Approximation)
+
 
 ---
 
