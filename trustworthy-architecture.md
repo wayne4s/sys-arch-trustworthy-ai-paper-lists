@@ -220,6 +220,28 @@
 ### 2024 MICRO
 
 - [ ] **Trinity: A General Purpose FHE Accelerator.**
+- [ ] **SOFA: A Compute-Memory Optimized Sparsity Accelerator via Cross-Stage Coordinated Tiling.**  [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2407.10416)
+- [ ] **HyperTEE: A Decoupled TEE Architecture with Secure Enclave Management.**
+- [ ] **Trinity: A General Purpose FHE Accelerator.**
+- [ ] **UFC: A Unified Accelerator for Fully Homomorphic Encryption.**
+- [ ] **Secure Prefetching for Secure Cache Systems.**
+- [ ] **SCAR: Scheduling Multi-Model AI Workloads on Heterogeneous Multi-Chiplet Module Accelerators.**
+- [ ] **Cambricon-M: a Fibonacci-coded Charge-domain SRAM-based CIM Accelerator for DNN Inference.**
+- [ ] **CacheCraft: Enhancing GPU Performance under Memory Protection through Reconstructed Caching.**
+- [ ] **Accelerating Zero-Knowledge Proofs Through Hardware-Algorithm Co-Design.**
+
+- [ ] **Ghost Arbitration: Mitigating Interconnect Side-Channel Timing Attacks in GPU.**
+- [ ] **IvLeague: Side Channel-resistant Secure Architectures Using Isolated Domains of Dynamic Integrity Trees.**
+
+
+
+***RowHammer***
+- [ ] **BreakHammer: Enhancing RowHammer Mitigations by Carefully Throttling Suspect Threads.**
+- [ ] **MINT: Securely Mitigating Rowhammer with a Minimalist In-DRAM Tracker.**
+
+- [ ] **ImPress: Securing DRAM Against Data-Disturbance Errors via Implicit Row-Press Mitigation.**
+
+
 
 
 ### 2024 ISCA
