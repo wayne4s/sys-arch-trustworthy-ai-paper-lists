@@ -146,6 +146,11 @@
 - [ ] **SPAGHETTI: Streaming Accelerators for Highly Sparse GEMM on FPGAs.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/sfu-arch/SPAGHETTI)
 - [ ] **Layerweaver: Maximizing Resource Utilization of Neural Processing Units via Layer-Wise Scheduling.**
 - [ ] **Sentinel: Efficient Tensor Migration and Allocation on Heterogeneous Memory Systems for Deep Learning.**
+- [ ] **Common Counters: Compressed Encryption Counters for Secure GPU Memory.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/common_counters_hpca_2021.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/common_counters_slide_hpca_2021.pdf)
+
+
+
+
 
 ### 2021 ASPLOS
 - [ ] **Neural architecture search as program transformation exploration.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.pure.ed.ac.uk/ws/portalfiles/portal/207986471/Neural_Architecture_TURNER_DOA19112020_AFV.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/jack-willturner/nas-as-program-transformation-exploration)
@@ -180,6 +185,7 @@
 - [ ] **Adaptive Security Support for Heterogeneous Memory on GPUs.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://par.nsf.gov/servlets/purl/10342133)
 
 
+
 ---
 
 ### 2023 MICRO
@@ -187,6 +193,10 @@
 - [ ] **SecureLoop: Design Space Exploration of Secure DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.csail.mit.edu/mengjia/data/2023.MICRO.SecureLoop.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.csail.mit.edu/mengjia/data/2023.MICRO.SecureLoop.slides.pdf)
 
 - [ ] **CryptoMMU: Enabling Scalable and Secure Access Control of Third-Party Accelerators.**
+- [ ] **Improving Data Reuse in NPU On-chip Memory with Interleaved Gradient Order for DNN Training.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/interleaved_training_micro_2023.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/interleaved_training_slide_micro_2023.pdf)
+
+
+
 
 ### 2023 ISCA
 
@@ -257,6 +267,10 @@
 
 - [ ] **Salus: Efficient Security Support for CXL-Expanded GPU Memory.**
 - [x] **Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2312.16436) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/GEMINI-HPCA2024)
+- [ ] **Supporting Secure Multi-GPU Computing with Dynamic and Batched Metadata Management.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/multi_gpu_security_hpca_2024.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/multi_gpu_security_slide_hpca_2024.pdf)
+
+
+
 
 ### 2024 ASPLOS
 
@@ -274,6 +288,10 @@
 - [ ] **Ironman: Accelerating Oblivious Transfer Extension for Privacy-Preserving AI with Near-Memory Processing.** (*Korea Advanced Institute of Science and Technology, KAIST*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.arxiv.org/abs/2507.16391) [![](https://img.shields.io/badge/slides-E29135)](https://jaehyuk-huh.github.io/slides/lee_isca2025_mtree_slides.pdf) 
 
 - [ ] **CryptoBTB: A Secure Hierarchical BTB for Diverse Instruction Footprint Workloads.**
+- [ ] **Swift and Trustworthy Large-Scale GPU Simulation with Fine-Grained Error Modeling and Hierarchical Clustering.**
+
+
+
 
 
 ### 2025 ISCA
@@ -309,7 +327,7 @@
 
 - [ ] **Adaptive CHERI Compartmentalization for Heterogeneous Accelerators.** (*University of Edinburgh*)
 
-- [ ] **Unified Memory Protectionwith Multi-granular MAC and Integrity Treefor Heterogeneous Processors.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/multi_MAC_tree_isca_2025.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/multi_MAC_tree_slide_isca_2025.pdf)
+- [x] **Unified Memory Protectionwith Multi-granular MAC and Integrity Tree for Heterogeneous Processors.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/multi_MAC_tree_isca_2025.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/multi_MAC_tree_slide_isca_2025.pdf)
 
 - [ ] **SpecASan: Mitigating Transient Execution Attacks Using Speculative Address Sanitization.** (*University of California, Riverside*)
 
@@ -346,6 +364,8 @@
 - [ ] **WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores.** 
 
 - [ ] **Palermo: Improving the Performance of Oblivious Memory using Protocol-Hardware Co-Design.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2411.05400) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/Linestro/Palermo-ORAM)
+- [ ] **Let-Me-In: (Still) Employing In-pointer Bounds Metadata for Fine-grained GPU Memory Safety.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://seonjinna.github.io/assets/pdf/LMI_hpca25.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://seonjinna.github.io/assets/pdf/LMI_HPCA25_slides.pdf)
+
 
 <!-- #### [Securing your Chips](https://hpca-conf.org/2025/main-program/) -->
 ***Securing your Chips***
