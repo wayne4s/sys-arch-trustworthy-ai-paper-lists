@@ -39,6 +39,7 @@
 - [ ] **Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://eems.mit.edu/wp-content/uploads/2016/04/eyeriss_isca_2016.pdf)
 - [ ] **Cambricon: An Instruction Set Architecture for Neural Networks.**  [![](https://img.shields.io/badge/paper-7EA6E0)](https://reconfigdeeplearning.wordpress.com/wp-content/uploads/2017/02/2016-isca_cambricon-an-instruction-set-architecture-for-neural-networks_cyj.pdf)
 
+- [ ] **ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://users.cs.utah.edu/~rajeev/pubs/isca16.pdf)
 
 
 ---
@@ -49,8 +50,7 @@
 
 ### 2017 HPCA
 
-- [ ] **PipeLayer: A pipelineed ReRAM-Based Accelerator for Deep Learning.** 
-[![](https://img.shields.io/badge/paper-7EA6E0)](https://www.researchgate.net/profile/Linghao-Song/publication/316903105_PipeLayer_A_Pipelined_ReRAM-Based_Accelerator_for_Deep_Learning/links/5ff63b2792851c13fef31fbc/PipeLayer-A-Pipelined-ReRAM-Based-Accelerator-for-Deep-Learning.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://pdfs.semanticscholar.org/2019/6d260ecd5baae2310ef71e5da30d862979d2.pdf)
+- [x] **PipeLayer: A pipelineed ReRAM-Based Accelerator for Deep Learning.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.researchgate.net/profile/Linghao-Song/publication/316903105_PipeLayer_A_Pipelined_ReRAM-Based_Accelerator_for_Deep_Learning/links/5ff63b2792851c13fef31fbc/PipeLayer-A-Pipelined-ReRAM-Based-Accelerator-for-Deep-Learning.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://pdfs.semanticscholar.org/2019/6d260ecd5baae2310ef71e5da30d862979d2.pdf)
 - [ ] **FlexFlow: A Flexible Dataflow Accelerator Architecture for Convolutional Neural Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://drive.google.com/file/d/12L5Tk8P3c8KbcGvmAJRiYOuPZ74Cp0fx/view)
 
 
@@ -67,6 +67,7 @@
 - [ ] **Maximizing CNN Accelerator Efficiency Through Resource Partitioning.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/1607.00064)
 - [ ] **Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism.**
 - [ ] **Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent.**
+- [x] **In-Datacenter Performance Analysis of a Tensor Processing Unit.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://csdl-downloads.ieeecomputer.org/proceedings/isca/2017/4892/00/08192463.pdf?Expires=1756951432&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL2lzY2EvMjAxNy80ODkyLzAwLzA4MTkyNDYzLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1Njk1MTQzMn19fV19&Signature=JRFs4EDso4j9kcn4yBQi9NLwI8ApJ~cB0YI-Rn26qAphlJzORy2~DCf6bltRaD8Rg12kd7s1zTiDwEpH0KKuo6~UQEmWFMqMLOXLOzE6J5V0iUmAshaqvfLIyGeQ2nfZSG0jr57ScFjSo25vRXewb71qqAAedqXjVWCRvEP5fr0DL5-azCQ~GfmLnzBr4b22xA1vrYg75IYaQgcK-DaR-pdlwbnYfCr5QBkhHFNQQFrrf6fqjkcacsXF-FKRx4BJpH9Wl4GHjUZM3lAeHHWQMt4qJC00lqr3TVbxrwMyHclmxrFkvSM~qlOFAThrWjak7iYeckBnprubsz4CFoq9JA__&Key-Pair-Id=K12PMWTCQBDMDT) [![](https://img.shields.io/badge/slides-E29135)](https://www.cse.wustl.edu/~roger/566S.s21/In-Datacenter%20Performance%20Analysis%20of%20a%20Tensor%20Processing%20Unit.pdf)
 
 
 ---
@@ -104,6 +105,7 @@
 - [ ] **Efficient SpMV Operation for Large and Highly Sparse Matrices using Scalable Multi-way Merge Parallelization.**
 - [ ] **eCNN: A Block-Based and Highly-Parallel CNN Accelerator for Edge Inference.**
 - [ ] **ShapeShifter: Enabling Fine-Grain Data Width Adaptation in Deep Learning.**
+- [ ] **Understanding Reuse, Performance, and Hardware Cost of DNN Dataflow: A Data-Centric Approach.**
 
 ### 2019 HPCA
 
@@ -119,7 +121,7 @@
 
 ### 2019 ASPLOS
 
-- [ ] **Tangram: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://web.stanford.edu/~mgao12/pubs/tangram.asplos19.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/slides/tangram.asplos19.slides.pdf) [![](https://img.shields.io/badge/article-719AAC)](https://www.cnblogs.com/lyc-seu/p/11596204.html)
+- [x] **Tangram: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://web.stanford.edu/~mgao12/pubs/tangram.asplos19.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/slides/tangram.asplos19.slides.pdf) [![](https://img.shields.io/badge/article-719AAC)](https://www.cnblogs.com/lyc-seu/p/11596204.html)
 - [ ] **Astra: Exploiting Predictability to Optimize Deep Learning.**
 
 ### 2019 ISCA
@@ -145,6 +147,8 @@
 ### 2020 ASPLOS
 
 - [ ] **DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks.** (*IIE, CAS*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://dl.acm.org/doi/pdf/10.1145/3373376.3378532)
+- [ ] **Interstellar: Using Halide’s Scheduling Language to Analyze DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/1809.04070)
+
 
 ---
 
@@ -443,7 +447,7 @@
 
 ### 2025 S&P
 
-- [ ] **Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2505.07239)
+- [x] **Comet: Accelerating Private Inference for Large Language Model by Predicting Activation Sparsity.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2505.07239)
 
 
 ### 2025 Security
