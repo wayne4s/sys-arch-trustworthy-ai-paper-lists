@@ -106,6 +106,7 @@
 - [ ] **eCNN: A Block-Based and Highly-Parallel CNN Accelerator for Edge Inference.**
 - [ ] **ShapeShifter: Enabling Fine-Grain Data Width Adaptation in Deep Learning.**
 - [ ] **Understanding Reuse, Performance, and Hardware Cost of DNN Dataflow: A Data-Centric Approach.**
+- [ ] **Simba: Scaling deep-learning inference with multi-chip-module-based architecture.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.eecs.berkeley.edu/~ysshao/assets/papers/shao2019-micro.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.eecs.berkeley.edu/~ysshao/assets/talks/shao2019-micro-slides.pdf)
 
 ### 2019 HPCA
 
@@ -116,7 +117,7 @@
 
 - [ ] **FPGA-based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data.**
 - [ ] **Conditional Speculation: An Effective Approach to Safeguard Out-of-Order Execution Against Spectre Attacks.**
-- [ ] **POWERT Channels: A Novel Class of Covert Communication Exploiting Power Management Vulnerabilities.**
+- [ ] **POWERT Channels: A Novel Class of Covert Communication Exploiting Power Management Vulnerabilities.** 
 
 
 ### 2019 ASPLOS
@@ -141,7 +142,7 @@
 - [ ] **A Multi-Neural Network Acceleration Architecture.**
 - [ ] **SmartExchange: Trading Higher-Cost Memory Storage/Access for Lower-Cost Computation.**
 - [ ] **An In-Network Architecture for Accelerating Shared-Memory Multiprocessor Collectives.**
-
+- [ ] **MLPerf Inference Benchmark.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/1911.02549) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/mlcommons/inference)
 
 
 ### 2020 ASPLOS
@@ -179,6 +180,9 @@
 - [ ] **TENET: A Framework for Modeling Tensor Dataflow Based on Relation-Centric Notation.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/pku-liang/TENET)
 - [ ] **HASCO: Towards Agile Hardware and Software CO-design for Tensor Computation.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/pku-liang/HASCO)
 - [ ] **GoSPA: An Energy-Efficient High-Performance Globally Optimized SParse Convolutional Neural Network Accelerator.**
+- [ ] **NN-Baton: DNN workload orchestration and chiplet granularity exploration for multichip accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.zhanhongtan.com/publication/isca21/isca21.pdf)
+
+
 
 ---
 
@@ -193,6 +197,7 @@
 - [ ] **TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://jaehyuk-huh.github.io/papers/lee_hpca22_tnpu.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/tnpu_slide_hpca_2022.pdf)
 
 - [ ] **Adaptive Security Support for Heterogeneous Memory on GPUs.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://par.nsf.gov/servlets/purl/10342133)
+- [ ] **Atomic dataflow based graph-level workload orchestration for scalable DNN accelerators.**
 
 
 ### 2022 ISCA
