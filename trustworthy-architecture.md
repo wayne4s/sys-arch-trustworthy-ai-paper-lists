@@ -13,11 +13,11 @@
 
 [![](https://img.shields.io/badge/2020-EB6969)](#2020-hpca) [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [ISCA](#2020-isca)
 
-[![](https://img.shields.io/badge/2021-EB6969)](#2021-hpca) [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [ISCA](#2021-isca)
+[![](https://img.shields.io/badge/2021-EB6969)](#2021-micro) [MICRO](#2021-micro), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [ISCA](#2021-isca)
 
 [![](https://img.shields.io/badge/2022-EB6969)](#2022-micro) [MICRO](#2022-micro), [ISCA](#2022-isca), [HPCA](#2022-hpca)
 
-[![](https://img.shields.io/badge/2023-EB6969)](#2023-micro) [MICRO](#2023-micro), [HPCA](#2023-hpca), [ASPLOS](#2024-asplos), [ISCA](#2023-isca), [ATC](#2023-atc) 
+[![](https://img.shields.io/badge/2023-EB6969)](#2023-micro) [MICRO](#2023-micro), [HPCA](#2023-hpca), [ASPLOS](#2023-asplos), [ISCA](#2023-isca), [ATC](#2023-atc) 
 
 [![](https://img.shields.io/badge/2024-EB6969)](#2024-micro) [MICRO](#2024-micro), [HPCA](#2024-hpca), [ASPLOS](#2024-asplos), [ISCA](#2024-isca), [Security](#2024-security)
 
@@ -30,6 +30,7 @@
 ### 2016 MICRO
 
 - [ ] **Fused-Layer CNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://compas.cs.stonybrook.edu/~mferdman/downloads.php/MICRO16_Fused_Layer_CNN_Accelerators.pdf)
+- [ ] **vDNN: Virtualized Deep Neural Networks for Scalable, Memory- Efficient Neural Network Design.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.cs.utexas.edu/~skeckler/pubs/MICRO_2016_vDNN.pdf)
 
 
 ### 2016 ISCA
@@ -62,9 +63,9 @@
 
 [Main Program](https://iscaconf.org/isca2017/doku.php%3Fid=wiki:main_program.html)
 
-- [ ] **ScaleDeep: A Scalable Compute Architecture for Learning and Evaluating Deep Networks.**
+- [ ] **ScaleDeep: A Scalable Compute Architecture for Learning and Evaluating Deep Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://ieeexplore.ieee.org/document/8192466) [![](https://img.shields.io/badge/slides-E29135)](https://users.cs.utah.edu/~rajeev/cs7960/notes/slides/19-7960-10-notes.pdf)
 - [ ] **SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.cs.utexas.edu/~skeckler/pubs/ISCA_2017_SCNN.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://web.cs.umass.edu/~weems/homepage/635-Notes/ewExternalFiles/635_Lecture23.pdf)
-- [ ] **Maximizing CNN Accelerator Efficiency Through Resource Partitioning.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/1607.00064)
+- [ ] **Maximizing CNN Accelerator Efficiency Through Resource Partitioning.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/1607.00064) 
 - [ ] **Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism.**
 - [ ] **Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent.**
 - [x] **In-Datacenter Performance Analysis of a Tensor Processing Unit.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://csdl-downloads.ieeecomputer.org/proceedings/isca/2017/4892/00/08192463.pdf?Expires=1756951432&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL2lzY2EvMjAxNy80ODkyLzAwLzA4MTkyNDYzLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1Njk1MTQzMn19fV19&Signature=JRFs4EDso4j9kcn4yBQi9NLwI8ApJ~cB0YI-Rn26qAphlJzORy2~DCf6bltRaD8Rg12kd7s1zTiDwEpH0KKuo6~UQEmWFMqMLOXLOzE6J5V0iUmAshaqvfLIyGeQ2nfZSG0jr57ScFjSo25vRXewb71qqAAedqXjVWCRvEP5fr0DL5-azCQ~GfmLnzBr4b22xA1vrYg75IYaQgcK-DaR-pdlwbnYfCr5QBkhHFNQQFrrf6fqjkcacsXF-FKRx4BJpH9Wl4GHjUZM3lAeHHWQMt4qJC00lqr3TVbxrwMyHclmxrFkvSM~qlOFAThrWjak7iYeckBnprubsz4CFoq9JA__&Key-Pair-Id=K12PMWTCQBDMDT) [![](https://img.shields.io/badge/slides-E29135)](https://www.cse.wustl.edu/~roger/566S.s21/In-Datacenter%20Performance%20Analysis%20of%20a%20Tensor%20Processing%20Unit.pdf)
@@ -153,6 +154,11 @@
 
 ---
 
+### 2021 MICRO
+
+- [ ] **F1: A Fast and Programmable Accelerator for Fully Homomorphic Encryption.**
+
+
 ### 2021 HPCA
 
 - [ ] **Heterogeneous Dataflow Accelerators for Multi-DNN Workloads.**
@@ -189,8 +195,10 @@
 ### 2022 MICRO
 
 - [ ] **DiVa: An Accelerator for Differentially Private Machine Learning.** (*KAIST*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2208.12392) [![](https://img.shields.io/badge/slides-E29135)](https://safari.ethz.ch/architecture_seminar/spring2023/lib/exe/fetch.php?media=diva_pres_final.pdf)
-
 - [ ] **CRONUS: Fault-isolated, Secure and High-performance Heterogeneous Computing for Trusted Execution Environment.** (*HKU*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://i.cs.hku.hk/~heming/papers/micro22-cronus.pdf)
+- [ ] **ARK: Fully Homomorphic Encryption Accelerator with Runtime Data Generation and Inter-Operation Key Reuse.**
+
+
 
 ### 2022 HPCA
 
@@ -198,6 +206,7 @@
 
 - [ ] **Adaptive Security Support for Heterogeneous Memory on GPUs.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://par.nsf.gov/servlets/purl/10342133)
 - [ ] **Atomic dataflow based graph-level workload orchestration for scalable DNN accelerators.**
+
 
 
 ### 2022 ISCA
@@ -209,8 +218,8 @@
 - [ ] **PPMLAC: High Performance Chipset Architecture for Secure Multi-Party Computation.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/ppmlac.isca22.pdf)
 
 - [ ] **Axiomatic Hardware-Software Contracts for Security.** (*Stanford University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://trippel-lab.stanford.edu/pubs/nmosier_ISCA22.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/nmosier/clou)
-
-
+- [ ] **BTS: An Accelerator for Bootstrappable Fully Homomorphic Encryption.**
+- [ ] **CraterLake: A Hardware Accelerator for Efficient Unbounded Computation on Encrypted Data.**
 
 ---
 
@@ -231,8 +240,12 @@
 - [ ] **TensorFHE: Achieving Practical Computation on Encrypted Data Using GPGPU.**
 
 - [ ] **Poseidon: Practical Homomorphic Encryption Accelerator.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://mingzhe-zhang.github.io/paper/Poseidon-HPCA2023.pdf)
-
 - [ ] **D-Shield: Enabling Processor-side Encryption and Integrity Verification for Secure NVMe Drives.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://casrl.ece.ucf.edu/wp-content/uploads/2023/01/HPCA2023_D_Shield.pdf)
+- [ ] **FAB: An FPGA-based Accelerator for Bootstrappable Fully Homomorphic Encryption.**
+
+
+### 2023 ASPLOS
+- [ ] **Coyote: A Compiler for Vectorizing Encrypted Arithmetic Circuits.**
 
 
 ### 2023 ISCA
@@ -242,6 +255,9 @@
 - [ ] **TEESec: Pre-Silicon Vulnerability Discovery for Trusted Execution Environments.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://moeinghaniyoun.github.io/files/TEESec.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/MoeinGhaniyoun/TEESec)
 
 - [x] **Inter-layer Scheduling Space Definition and Exploration for Tiled Accelerators.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/SET-ISCA2023?tab=readme-ov-file)
+- [ ] **Understanding and Mitigating Hardware Failures in Deep Learning Training Accelerator Systems.**
+- [ ] **SHARP: A Short-Word Hierarchical Accelerator for Robust and Practical Fully Homomorphic Encryption.**
+
 
 
 ### 2023 ATC

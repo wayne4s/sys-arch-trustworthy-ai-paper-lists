@@ -132,7 +132,7 @@
 - [ ] **Secure Multiparty Generative AI.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2409.19120)
 - [ ] **MPC-Minimized Secure LLM Inference.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2408.03561)
 - [2024 ACL] **SecFormer: Fast and Accurate Privacy-Preserving Inference for Transformer Models via SMPC.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://aclanthology.org/2024.findings-acl.790/)
-
+- [ ] [2025 NDSS]**BumbleBee: Secure Two-party Inference Framework for Large Transformers.**
 
 <!-- #### Homomorphic Encryption -->
 ***Homomorphic Encryption***
