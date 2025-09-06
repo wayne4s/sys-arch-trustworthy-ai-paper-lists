@@ -11,11 +11,11 @@
 
 [![](https://img.shields.io/badge/2019-EB6969)](#2019-micro) [MICRO](#2019-micro), [HPCA](#2019-hpca), [ASPLOS](#2019-asplos), [ISCA](#2019-isca)
 
-[![](https://img.shields.io/badge/2020-EB6969)](#2020-hpca) [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [ISCA](#2020-isca)
+[![](https://img.shields.io/badge/2020-EB6969)](#2020-micro) [MICRO](#2020-micro), [HPCA](#2020-hpca), [ASPLOS](#2020-asplos), [ISCA](#2020-isca)
 
 [![](https://img.shields.io/badge/2021-EB6969)](#2021-micro) [MICRO](#2021-micro), [HPCA](#2021-hpca), [ASPLOS](#2021-asplos), [ISCA](#2021-isca)
 
-[![](https://img.shields.io/badge/2022-EB6969)](#2022-micro) [MICRO](#2022-micro), [ISCA](#2022-isca), [HPCA](#2022-hpca)
+[![](https://img.shields.io/badge/2022-EB6969)](#2022-micro) [MICRO](#2022-micro), [HPCA](#2022-hpca), [ASPLOS](#2022-asplos), [ISCA](#2022-isca)
 
 [![](https://img.shields.io/badge/2023-EB6969)](#2023-micro) [MICRO](#2023-micro), [HPCA](#2023-hpca), [ASPLOS](#2023-asplos), [ISCA](#2023-isca), [ATC](#2023-atc) 
 
@@ -132,6 +132,9 @@
 
 
 ---
+### 2020 MICRO
+
+- [ ] **Graphene: Strong yet Lightweight Row Hammer Protection.**
 
 ### 2020 HPCA
 - [ ] **AccPar: Tensor Partitioning for Heterogeneous Deep Learning Accelerator Arrays.**
@@ -156,7 +159,7 @@
 
 ### 2021 MICRO
 
-- [ ] **F1: A Fast and Programmable Accelerator for Fully Homomorphic Encryption.**
+- [ ] **F1: A Fast and Programmable Accelerator for Fully Homomorphic Encryption.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://safari.ethz.ch/architecture_seminar/spring2021/lib/exe/fetch.php?media=graphene.pdf)
 
 
 ### 2021 HPCA
@@ -208,6 +211,9 @@
 - [ ] **Atomic dataflow based graph-level workload orchestration for scalable DNN accelerators.**
 
 
+### 2022 ASPLOS
+
+- [ ] **Randomized Row-Swap: Mitigating Row Hammer by Breaking Spatial Correlation between Aggressor and Victim Rows.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://gururaj-s.github.io/assets/pdf/ASPLOS22_Saileshwar.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://prashantnair.bitbucket.io/assets/pdf/saileshwar2022rrs_slides.pdf)
 
 ### 2022 ISCA
 
@@ -220,6 +226,7 @@
 - [ ] **Axiomatic Hardware-Software Contracts for Security.** (*Stanford University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://trippel-lab.stanford.edu/pubs/nmosier_ISCA22.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/nmosier/clou)
 - [ ] **BTS: An Accelerator for Bootstrappable Fully Homomorphic Encryption.**
 - [ ] **CraterLake: A Hardware Accelerator for Efficient Unbounded Computation on Encrypted Data.**
+- [ ] **Hydra: enabling low-overhead mitigation of row-hammer at ultra-low thresholds via hybrid tracking.**
 
 ---
 
@@ -246,6 +253,7 @@
 
 ### 2023 ASPLOS
 - [ ] **Coyote: A Compiler for Vectorizing Encrypted Arithmetic Circuits.**
+- [ ] **Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://digitum.um.es/digitum/bitstream/10201/128556/4/asplosc23main-p1166-p-f253962830-63228-submitted.pdf)
 
 
 ### 2023 ISCA
