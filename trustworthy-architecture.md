@@ -43,6 +43,8 @@
 - [ ] **ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://users.cs.utah.edu/~rajeev/pubs/isca16.pdf)
 
 
+
+
 ---
 
 ### 2017 MICRO
@@ -63,7 +65,7 @@
 
 [Main Program](https://iscaconf.org/isca2017/doku.php%3Fid=wiki:main_program.html)
 
-- [ ] **ScaleDeep: A Scalable Compute Architecture for Learning and Evaluating Deep Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://ieeexplore.ieee.org/document/8192466) [![](https://img.shields.io/badge/slides-E29135)](https://users.cs.utah.edu/~rajeev/cs7960/notes/slides/19-7960-10-notes.pdf)
+- [x] **ScaleDeep: A Scalable Compute Architecture for Learning and Evaluating Deep Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://ieeexplore.ieee.org/document/8192466) [![](https://img.shields.io/badge/slides-E29135)](https://users.cs.utah.edu/~rajeev/cs7960/notes/slides/19-7960-10-notes.pdf)
 - [ ] **SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.cs.utexas.edu/~skeckler/pubs/ISCA_2017_SCNN.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://web.cs.umass.edu/~weems/homepage/635-Notes/ewExternalFiles/635_Lecture23.pdf)
 - [ ] **Maximizing CNN Accelerator Efficiency Through Resource Partitioning.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/1607.00064) 
 - [ ] **Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism.**
@@ -74,15 +76,24 @@
 ---
 
 ### 2018 MICRO
+
 - [ ] **Addressing Irregularity in Sparse Neural Networks:A Cooperative Software/Hardware Approach.**
+- [ ] **Improving the Performance and Endurance of Encrypted Non-Volatile Main Memory through Deduplicating Writes.**
+- [ ] **Morphable Counters: Enabling Compact Integrity Trees For Low-Overhead Secure Memories.**
+
+
 
 ### 2018 HPCA
 
 - [ ] **Towards Efficient Microarchitectural Design for Accelerating Unsupervised GAN-based Deep Learning.**
+- [ ] **Crash Consistency in Encrypted Non-volatile Main Memory Systems.**
+- [ ] **SYNERGY: Rethinking Secure-Memory Design for Error-Correcting Memories.**
 
 
 ### 2018 ASPLOS
 - [ ] **MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://anands09.github.io/papers/maeri_asplos2018.pdf) [![](https://img.shields.io/badge/article-719AAC)](https://synergy.ece.gatech.edu/tools/maeri/)
+- [ ] **VAULT: Reducing Paging Overheads in SGX with Efficient Integrity Verification Structures.**
+
 
 
 ### 2018 ISCA
@@ -108,17 +119,23 @@
 - [ ] **ShapeShifter: Enabling Fine-Grain Data Width Adaptation in Deep Learning.**
 - [ ] **Understanding Reuse, Performance, and Hardware Cost of DNN Dataflow: A Data-Centric Approach.**
 - [ ] **Simba: Scaling deep-learning inference with multi-chip-module-based architecture.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.eecs.berkeley.edu/~ysshao/assets/papers/shao2019-micro.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.eecs.berkeley.edu/~ysshao/assets/talks/shao2019-micro-slides.pdf)
+- [ ] **SuperMem: Enabling Application-transparent Secure Persistent Memory with Low Overheads.**
+
+
 
 ### 2019 HPCA
 
 [Main Program (slides)](http://hpca2019.seas.gwu.edu/main_program.html)
 
 - [ ] **HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/1901.02067) [![](https://img.shields.io/badge/slides-E29135)](http://hpca2019.seas.gwu.edu/slides/2A-1.pdf)
-- [ ] **HPCA19-Shortcut Mining: Exploiting Cross-layer Shortcut Reuse in DCNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://web.engr.oregonstate.edu/~chenliz/publications/2019_HPCA_Shortcut%20Mining.pdf) [![](https://img.shields.io/badge/slides-E29135)](http://hpca2019.seas.gwu.edu/slides/2A-4.pdf)
+- [ ] **Shortcut Mining: Exploiting Cross-layer Shortcut Reuse in DCNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://web.engr.oregonstate.edu/~chenliz/publications/2019_HPCA_Shortcut%20Mining.pdf) [![](https://img.shields.io/badge/slides-E29135)](http://hpca2019.seas.gwu.edu/slides/2A-4.pdf)
 
 - [ ] **FPGA-based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data.**
 - [ ] **Conditional Speculation: An Effective Approach to Safeguard Out-of-Order Execution Against Spectre Attacks.**
 - [ ] **POWERT Channels: A Novel Class of Covert Communication Exploiting Power Management Vulnerabilities.** 
+- [ ] **Active-Routing: Compute on the Way for Near-Data Processing.**
+
+
 
 
 ### 2019 ASPLOS
@@ -129,12 +146,16 @@
 ### 2019 ISCA
 
 - [ ] **DeepAttest: An End-to-End Attestation Framework for Deep Neural Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://cseweb.ucsd.edu/~jzhao/files/DeepAttest-isca2019.pdf)
+- [ ] **Anubis: ultra-low overhead and recovery time for secure non-volatile memories.**
+- [ ] **SecDir: a secure directory to defeat directory side-channel attacks.**
 
 
 ---
 ### 2020 MICRO
 
 - [ ] **Graphene: Strong yet Lightweight Row Hammer Protection.**
+- [ ] **Persist Level Parallelism: Streamlining Integrity Tree Updates for Secure Persistent Memory.**
+
 
 ### 2020 HPCA
 - [ ] **AccPar: Tensor Partitioning for Heterogeneous Deep Learning Accelerator Arrays.**
@@ -147,12 +168,14 @@
 - [ ] **SmartExchange: Trading Higher-Cost Memory Storage/Access for Lower-Cost Computation.**
 - [ ] **An In-Network Architecture for Accelerating Shared-Memory Multiprocessor Collectives.**
 - [ ] **MLPerf Inference Benchmark.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/1911.02549) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/mlcommons/inference)
+- [ ] **Compact Leakage-Free Support for Integrity and Reliability.**
 
 
 ### 2020 ASPLOS
 
 - [ ] **DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks.** (*IIE, CAS*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://dl.acm.org/doi/pdf/10.1145/3373376.3378532)
 - [ ] **Interstellar: Using Halide’s Scheduling Language to Analyze DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/1809.04070)
+- [x] **DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://sites.cs.ucsb.edu/~sherwood/pubs/ASPLOS-20-deepsniff.pdf)
 
 
 ---
@@ -160,6 +183,10 @@
 ### 2021 MICRO
 
 - [ ] **F1: A Fast and Programmable Accelerator for Fully Homomorphic Encryption.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://safari.ethz.ch/architecture_seminar/spring2021/lib/exe/fetch.php?media=graphene.pdf)
+- [ ] **Bonsai Merkle Forests: Efficiently Achieving Crash Consistency in Secure Persistent Memory.**
+- [ ] **Dolos: Improving the Performance of Persistent Applications in ADR-Supported Secure Memory.**
+- [ ] **Soteria: Towards Resilient Integrity-Protected and Encrypted Non-Volatile Memories.**
+
 
 
 ### 2021 HPCA
@@ -169,6 +196,10 @@
 - [ ] **Layerweaver: Maximizing Resource Utilization of Neural Processing Units via Layer-Wise Scheduling.**
 - [ ] **Sentinel: Efficient Tensor Migration and Allocation on Heterogeneous Memory Systems for Deep Learning.**
 - [ ] **Common Counters: Compressed Encryption Counters for Secure GPU Memory.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/common_counters_hpca_2021.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/common_counters_slide_hpca_2021.pdf)
+- [ ] **A Computational Stack for Cross-Domain Acceleration.**
+- [ ] **A Write-Friendly and Fast-Recovery Scheme for Security Metadata in Non-Volatile Memories.**
+
+
 
 
 ### 2021 ASPLOS
@@ -200,26 +231,33 @@
 - [ ] **DiVa: An Accelerator for Differentially Private Machine Learning.** (*KAIST*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2208.12392) [![](https://img.shields.io/badge/slides-E29135)](https://safari.ethz.ch/architecture_seminar/spring2023/lib/exe/fetch.php?media=diva_pres_final.pdf)
 - [ ] **CRONUS: Fault-isolated, Secure and High-performance Heterogeneous Computing for Trusted Execution Environment.** (*HKU*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://i.cs.hku.hk/~heming/papers/micro22-cronus.pdf)
 - [ ] **ARK: Fully Homomorphic Encryption Accelerator with Runtime Data Generation and Inter-Operation Key Reuse.**
-
+- [ ] **PageORAM: An Efficient DRAM Page Aware ORAM Strategy.**
 
 
 ### 2022 HPCA
 
-- [ ] **TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://jaehyuk-huh.github.io/papers/lee_hpca22_tnpu.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/tnpu_slide_hpca_2022.pdf)
+- [x] **TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://jaehyuk-huh.github.io/papers/lee_hpca22_tnpu.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/tnpu_slide_hpca_2022.pdf)
 
 - [ ] **Adaptive Security Support for Heterogeneous Memory on GPUs.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://par.nsf.gov/servlets/purl/10342133)
 - [ ] **Atomic dataflow based graph-level workload orchestration for scalable DNN accelerators.**
+- [ ] **HyBP: Hybrid Isolation-Randomization Secure Branch Predictor.**
+- [ ] **IR-ORAM: Path Access Type Based Memory Intensity Reduction for Path-ORAM.**
 
 
 ### 2022 ASPLOS
 
 - [ ] **Randomized Row-Swap: Mitigating Row Hammer by Breaking Spatial Correlation between Aggressor and Victim Rows.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://gururaj-s.github.io/assets/pdf/ASPLOS22_Saileshwar.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://prashantnair.bitbucket.io/assets/pdf/saileshwar2022rrs_slides.pdf)
+- [ ] **DAGguise: mitigating memory timing side channels.**
+- [ ] **Randomized row-swap: mitigating Row Hammer by breaking spatial correlation between aggressor and victim rows.**
+
+
+
 
 ### 2022 ISCA
 
-- [ ] **SoftVN: Efficient Memory Protection via Software-Provided Version Numbers.** (*Cornell University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.csl.cornell.edu/~zhiruz/pdfs/softvn-isca2022.pdf)
+- [x] **SoftVN: Efficient Memory Protection via Software-Provided Version Numbers.** (*Cornell University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.csl.cornell.edu/~zhiruz/pdfs/softvn-isca2022.pdf)
 
-- [ ] **MGX: Near-Zero Overhead Memory Protection for Data-Intensive Accelerators.** (*Cornell University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.csl.cornell.edu/~zhiruz/pdfs/mgx-isca2022.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://www.iscaconf.org/isca2022/slides/isca22-hua-mgx.pdf)
+- [x] **MGX: Near-Zero Overhead Memory Protection for Data-Intensive Accelerators.** (*Cornell University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.csl.cornell.edu/~zhiruz/pdfs/mgx-isca2022.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://www.iscaconf.org/isca2022/slides/isca22-hua-mgx.pdf)
 
 - [ ] **PPMLAC: High Performance Chipset Architecture for Secure Multi-Party Computation.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/ppmlac.isca22.pdf)
 
@@ -227,19 +265,26 @@
 - [ ] **BTS: An Accelerator for Bootstrappable Fully Homomorphic Encryption.**
 - [ ] **CraterLake: A Hardware Accelerator for Efficient Unbounded Computation on Encrypted Data.**
 - [ ] **Hydra: enabling low-overhead mitigation of row-hammer at ultra-low thresholds via hybrid tracking.**
+- [ ] **CraterLake: a hardware accelerator for efficient unbounded computation on encrypted data.**
+- [ ] **There's always a bigger fish: a clarifying analysis of a machine-learning-assisted side-channel attack.**
+
+
 
 ---
 
 ### 2023 MICRO
 
-- [ ] **SecureLoop: Design Space Exploration of Secure DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.csail.mit.edu/mengjia/data/2023.MICRO.SecureLoop.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.csail.mit.edu/mengjia/data/2023.MICRO.SecureLoop.slides.pdf)
-
+- [x] **SecureLoop: Design Space Exploration of Secure DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.csail.mit.edu/mengjia/data/2023.MICRO.SecureLoop.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.csail.mit.edu/mengjia/data/2023.MICRO.SecureLoop.slides.pdf)
 - [ ] **CryptoMMU: Enabling Scalable and Secure Access Control of Third-Party Accelerators.**
 - [ ] **Improving Data Reuse in NPU On-chip Memory with Interleaved Gradient Order for DNN Training.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/interleaved_training_micro_2023.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/interleaved_training_slide_micro_2023.pdf)
+- [ ] **ArchExplorer: Microarchitecture Exploration Via Bottleneck Analysis.**
+- [ ] **Memento: Architectural Support for Ephemeral Memory Management in Serverless Environments.**
+- [ ] **Spatula: A Hardware Accelerator for Sparse Matrix Factorization.**
 
 
 ### 2023 HPCA
 
+- [x] **Securator: A Fast and Secure Neural Processing Unit.**
 - [ ] **Efficient Distributed Secure Memory with Migratable Merkle Tree.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://ipads.se.sjtu.edu.cn/_media/publications/hpca23.pdf)
 
 - [ ] **AB-ORAM: Constructing Adjustable Buckets for Space Reduction in Ring ORAM.** (*University of Pittsburgh*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.cs.pitt.edu/~zhangyt/research/hpca23a.pdf)
@@ -249,11 +294,20 @@
 - [ ] **Poseidon: Practical Homomorphic Encryption Accelerator.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://mingzhe-zhang.github.io/paper/Poseidon-HPCA2023.pdf)
 - [ ] **D-Shield: Enabling Processor-side Encryption and Integrity Verification for Secure NVMe Drives.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://casrl.ece.ucf.edu/wp-content/uploads/2023/01/HPCA2023_D_Shield.pdf)
 - [ ] **FAB: An FPGA-based Accelerator for Bootstrappable Fully Homomorphic Encryption.**
+- [ ] **Thoth: Bridging the gap between persistently secure memories and memory interfaces of emerging nvms.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://par.nsf.gov/servlets/purl/10488155)
+- [ ] **Memory-Efficient Hashed Page Tables.**
+- [ ] **Phloem: Automatic Acceleration of Irregular Applications with Fine-Grain Pipeline Parallelism.**
+- [ ] **Root Crash Consistency of SGX-style Integrity Trees in Secure Non-Volatile Memory Systems.**
+
+
 
 
 ### 2023 ASPLOS
 - [ ] **Coyote: A Compiler for Vectorizing Encrypted Arithmetic Circuits.**
 - [ ] **Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://digitum.um.es/digitum/bitstream/10201/128556/4/asplosc23main-p1166-p-f253962830-63228-submitted.pdf)
+- [ ] **HuffDuff: Stealing Pruned DNNs from Sparse Accelerators.**
+
+
 
 
 ### 2023 ISCA
@@ -291,6 +345,8 @@
 
 - [ ] **Ghost Arbitration: Mitigating Interconnect Side-Channel Timing Attacks in GPU.**
 - [ ] **IvLeague: Side Channel-resistant Secure Architectures Using Isolated Domains of Dynamic Integrity Trees.**
+- [ ] **A Mess of Memory System Benchmarking, Simulation and Application Profiling.**
+- [ ] **Accelerating Zero-Knowledge Proofs Through Hardware-Algorithm Co-Design.**
 
 
 
@@ -310,21 +366,29 @@
 - [ ] **Salus: Efficient Security Support for CXL-Expanded GPU Memory.**
 - [x] **Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2312.16436) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/GEMINI-HPCA2024)
 - [ ] **Supporting Secure Multi-GPU Computing with Dynamic and Batched Metadata Management.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/multi_gpu_security_hpca_2024.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/multi_gpu_security_slide_hpca_2024.pdf)
+- [ ] **Data Enclave: A Data-Centric Trusted Execution Environment.**
+- [ ] **Exploitation of Security Vulnerability on Retirement.**
+
 
 
 ### 2024 ASPLOS
 
 - [ ] **sIOPMP: Scalable and Efficient I/O Protection for TEEs.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://ipads.se.sjtu.edu.cn/_media/publications/feng-asplos24.pdf)
+- [ ] **Optimizing Deep Learning Inference via Global Analysis and Tensor Expressions.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://cuihuimin.github.io/papers/asplos24spring.pdf)
 
 
 ### 2024 ISCA
 
 - [ ] **sNPU: Trusted Execution Environments on Integrated NPUs.** (*Tsinghua University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://ipads.se.sjtu.edu.cn/_media/publications/feng-isca24.pdf)
-
+- [ ] **Constable: Improving Performance and Power Efficiency by Safely Eliminating Load Instruction Execution.**
+- [ ] **FEATHER: A Reconfigurable Accelerator with Data Reordering Support for Low-Cost On-Chip Dataflow Switching.**
 
 ### 2024 Security
 
 [Fall Accepted Papers](https://www.usenix.org/conference/usenixsecurity24/fall-accepted-papers); 
+
+- [ ] **SoK: All You Need to Know About On-Device ML Model Extraction - The Gap Between Research and Practice.**
+
 
 ---
 
@@ -410,11 +474,21 @@
 - [ ] **KAPLA: Scalable NN Accelerator Dataflow Design Space Structuring and Fast Exploring.**
 - [ ] **CIPHERMATCH: Accelerating Homomorphic Encryption-Based String Matching via Memory-Efficient Data Packing and In-Flash Processing.**
 - [ ] **Affinity-based Optimizations for TFHE on Processing-in-DRAM.**
+- [ ] **Design and Operation of Shared Machine Learning Clusters on Campus.**
+- [ ] **Helix: Serving Large Language Models over  Heterogeneous GPUs and Network via Max-Flow.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2406.01566) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/Thesys-lab/Helix-ASPLOS25)
+- [ ] **MoC-System: Efficient Fault Tolerance for Sparse Mixture-of-Experts Model Training.**
+- [ ] **HybridTier: an Adaptive and Lightweight CXL-Memory Tiering System.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2312.04789)
+- [ ] **POD-Attention: Unlocking Full Prefill-Decode  Overlap for Faster LLM Inference.**
+
+
 
 
 ### 2025 ISCA
 
 [Homepage](https://iscaconf.org/isca2025/); [Accepted-paper-list](https://www.iscaconf.org/isca2025/program/); [Summary](https://zhuanlan.zhihu.com/p/1934275942861243151)
+
+
+- [ ] **Software-Hardware Co-Design For Embodied AI Robots.**
 
 <!-- #### Crypto & Fully Homomorphic Encryption -->
 ***Crypto & Fully Homomorphic Encryption***
