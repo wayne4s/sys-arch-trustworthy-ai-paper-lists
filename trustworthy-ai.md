@@ -157,9 +157,9 @@
 ***Trusted Execution Environments (TEE)***
 <!-- 可信执行环境是一种能确保代码和数据在执行过程中安全、完整且不被篡改的环境。 -->
 
-- [ ] **Tunable Memory Protection for Secure Neural Processing Units.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/tune_npu_iccd_2022.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/tune_npu_slide_iccd_2022.pdf)
-- [ ] **ShieldCXL: A Practical Obliviousness Support with Sealed CXL Memory.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/shieldcxl_taco_2025.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/shieldcxl_slide_taco_2025.pdf)
-- [ ] **Tunable Memory Protection for Secure Neural Processing Units.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/tune_npu_iccd_2022.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/tune_npu_slide_iccd_2022.pdf)
+- [x] **Tunable Memory Protection for Secure Neural Processing Units.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/tune_npu_iccd_2022.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/tune_npu_slide_iccd_2022.pdf)
+- [x] **ShieldCXL: A Practical Obliviousness Support with Sealed CXL Memory.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/shieldcxl_taco_2025.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/shieldcxl_slide_taco_2025.pdf)
+- [x] **Tunable Memory Protection for Secure Neural Processing Units.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/tune_npu_iccd_2022.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/tune_npu_slide_iccd_2022.pdf)
 
 
 
