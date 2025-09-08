@@ -58,7 +58,7 @@
 
 
 ### 2017 ASPLOS
-- [ ] **TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://web.stanford.edu/~mgao12/pubs/tetris.asplos17.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://stanford.edu/~xuany/pubs/slides/tetris.asplos17.slides.pdf)
+- [x] **TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://web.stanford.edu/~mgao12/pubs/tetris.asplos17.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://stanford.edu/~xuany/pubs/slides/tetris.asplos17.slides.pdf)
 - [ ] **Optimizing CNNs on Multicores for Scalability, Performance and Goodput.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/04/samyam-asplos17.pdf)
 
 ### 2017 ISCA
@@ -117,8 +117,8 @@
 - [ ] **Efficient SpMV Operation for Large and Highly Sparse Matrices using Scalable Multi-way Merge Parallelization.**
 - [ ] **eCNN: A Block-Based and Highly-Parallel CNN Accelerator for Edge Inference.**
 - [ ] **ShapeShifter: Enabling Fine-Grain Data Width Adaptation in Deep Learning.**
-- [ ] **Understanding Reuse, Performance, and Hardware Cost of DNN Dataflow: A Data-Centric Approach.**
-- [ ] **Simba: Scaling deep-learning inference with multi-chip-module-based architecture.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.eecs.berkeley.edu/~ysshao/assets/papers/shao2019-micro.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.eecs.berkeley.edu/~ysshao/assets/talks/shao2019-micro-slides.pdf)
+- [x] **Understanding Reuse, Performance, and Hardware Cost of DNN Dataflow: A Data-Centric Approach.**
+- [x] **Simba: Scaling deep-learning inference with multi-chip-module-based architecture.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.eecs.berkeley.edu/~ysshao/assets/papers/shao2019-micro.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.eecs.berkeley.edu/~ysshao/assets/talks/shao2019-micro-slides.pdf)
 - [ ] **SuperMem: Enabling Application-transparent Secure Persistent Memory with Low Overheads.**
 
 
@@ -211,13 +211,14 @@
 
 ### 2021 ISCA
 
+- [x] **TENET: A Framework for Modeling Tensor Dataflow Based on Relation-Centric Notation.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2105.01892) [![](https://img.shields.io/badge/slides-E29135)](https://web.cs.ucla.edu/~yuyue/assets/files/tenet_slides.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/pku-liang/TENET)
+
 - [ ] **NASA: Accelerating Neural Network Design with a NAS Processor.**
 - [ ] **NASGuard: A Novel Accelerator Architecture for Robust Neural Architecture Search (NAS) Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.researchgate.net/profile/Xingbin-Wang/publication/352091757_NASGuard_A_Novel_Accelerator_Architecture_for_Robust_Neural_Architecture_Search_NAS_Networks/links/60b8a06c92851cb13d7064d9/NASGuard-A-Novel-Accelerator-Architecture-for-Robust-Neural-Architecture-Search-NAS-Networks.pdf)
 - [ ] **RaPiD: AI Accelerator for Ultra-Low Precision Training and Inference.**
 - [ ] **Communication Algorithm-Architecture Co-Design for Distributed Deep Learning.**
 - [ ] **CoSA: Scheduling by Constrained Optimization for Spatial Accelerators.**
 - [ ] **Cambricon-Q: A Hybrid Architecture for Efficient Training.**
-- [ ] **TENET: A Framework for Modeling Tensor Dataflow Based on Relation-Centric Notation.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/pku-liang/TENET)
 - [ ] **HASCO: Towards Agile Hardware and Software CO-design for Tensor Computation.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/pku-liang/HASCO)
 - [ ] **GoSPA: An Energy-Efficient High-Performance Globally Optimized SParse Convolutional Neural Network Accelerator.**
 - [ ] **NN-Baton: DNN workload orchestration and chiplet granularity exploration for multichip accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.zhanhongtan.com/publication/isca21/isca21.pdf)
@@ -242,7 +243,7 @@
 - [ ] **Atomic dataflow based graph-level workload orchestration for scalable DNN accelerators.**
 - [ ] **HyBP: Hybrid Isolation-Randomization Secure Branch Predictor.**
 - [ ] **IR-ORAM: Path Access Type Based Memory Intensity Reduction for Path-ORAM.**
-
+- [ ] **Atomic Dataflow based Graph-Level Workload Orchestration for Scalable DNN Accelerators.**
 
 ### 2022 ASPLOS
 
