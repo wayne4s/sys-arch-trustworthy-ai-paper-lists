@@ -58,7 +58,7 @@
 
 
 ### 2017 ASPLOS
-- [x] **TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://web.stanford.edu/~mgao12/pubs/tetris.asplos17.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://stanford.edu/~xuany/pubs/slides/tetris.asplos17.slides.pdf)
+- [x] **TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://web.stanford.edu/~mgao12/pubs/tetris.asplos17.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://stanford.edu/~xuany/pubs/slides/tetris.asplos17.slides.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/stanford-mast/nn_dataflow.git)
 - [ ] **Optimizing CNNs on Multicores for Scalability, Performance and Goodput.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/04/samyam-asplos17.pdf)
 
 ### 2017 ISCA
@@ -408,10 +408,10 @@
 
 - [ ] **LegoZK: A Dynamically Reconfigurable Accelerator for Zero-Knowledge Proof.** (*IIE, UCAS*)
 - [ ] **WarpDrive: GPU-Based Fully Homomorphic Encryption Acceleration Leveraging Tensor and CUDA Cores.** 
-
 - [ ] **Palermo: Improving the Performance of Oblivious Memory using Protocol-Hardware Co-Design.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2411.05400) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/Linestro/Palermo-ORAM)
 - [ ] **Let-Me-In: (Still) Employing In-pointer Bounds Metadata for Fine-grained GPU Memory Safety.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://seonjinna.github.io/assets/pdf/LMI_hpca25.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://seonjinna.github.io/assets/pdf/LMI_HPCA25_slides.pdf)
-
+- [ ] **Prosperity: Accelerating Spiking Neural Networks via Product Sparsity.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2503.03379) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/dubcyfor3/Prosperity)
+- [x] **SoMa: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2501.12634) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/SoMa-HPCA2025)
 
 <!-- #### [Securing your Chips](https://hpca-conf.org/2025/main-program/) -->
 ***Securing your Chips***
@@ -456,11 +456,7 @@
 - [ ] **QPRAC: Towards Secure and Practical PRAC-Based Rowhammer Mitigation using Priority Queues.**
 - [ ] **Understanding RowHammer Under Reduced Refresh Latency: Experimental Analysis of Real DRAM Chips and Implications on Future Solutions.**
 
-<!-- #### Others -->
-***Others***
-- [ ] **Prosperity: Accelerating Spiking Neural Networks via Product Sparsity.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2503.03379) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/dubcyfor3/Prosperity)
 
-- [x] **SoMa: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2501.12634) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/SoMa-HPCA2025)
 
 
 
