@@ -90,6 +90,8 @@
 - [ ] **Monitoring Reasoning Models for Misbehavior and the Risks of Promoting Obfuscation.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2503.11926) [![](https://img.shields.io/badge/article-719AAC)](https://lilianweng.github.io/posts/2025-05-01-thinking/)
 
 - [ ] [2025 S&P] **Prompt Inversion Attack against Collaborative Inference of Large Language Models.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/ygZhou02/DEML)
+- [ ] **I Know What You Asked: Prompt Leakage via KV-Cache Sharing in Multi-Tenant LLM Serving.**
+- [ ] **CipherSteal: Stealing Input Data from TEE-Shielded Neural Networks with Ciphertext Side Channels.**
 
 
 <!-- ### Extraction Attacks -->
@@ -98,6 +100,9 @@
 - [ ] [2021 Security] **Extracting Training Data from Large Language Models.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)
 
 - [ ] [2025 ACL] **VLSBench: Unveiling Information Leakage in Multimodal Safety.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://aclanthology.org/2025.acl-long.405.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/AI45Lab/VLSBench)
+- [ ] [2023 CCS] **EMShepherd: Detecting Adversarial Samples via Side-channel Leakage.**
+
+
 
 <!-- ### Adversarial Attacks -->
 ***Adversarial***

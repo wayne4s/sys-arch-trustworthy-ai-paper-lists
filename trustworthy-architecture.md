@@ -243,10 +243,10 @@
 - [x] **TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://jaehyuk-huh.github.io/papers/lee_hpca22_tnpu.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/tnpu_slide_hpca_2022.pdf)
 
 - [ ] **Adaptive Security Support for Heterogeneous Memory on GPUs.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://par.nsf.gov/servlets/purl/10342133)
-- [x] **Atomic dataflow based graph-level workload orchestration for scalable DNN accelerators.**
+- [x] **Atomic Dataflow based Graph-Level Workload Orchestration for Scalable DNN Accelerators.**
 - [ ] **HyBP: Hybrid Isolation-Randomization Secure Branch Predictor.**
 - [ ] **IR-ORAM: Path Access Type Based Memory Intensity Reduction for Path-ORAM.**
-- [ ] **Atomic Dataflow based Graph-Level Workload Orchestration for Scalable DNN Accelerators.**
+
 
 ### 2022 ASPLOS
 
@@ -416,6 +416,8 @@
 - [ ] **Prosperity: Accelerating Spiking Neural Networks via Product Sparsity.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2503.03379) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/dubcyfor3/Prosperity)
 - [x] **SoMa: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2501.12634) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/SoMa-HPCA2025)
 - [x] **Adyna: Accelerating Dynamic Neural Networks with Adaptive Scheduling.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/adyna.hpca25.pdf)
+- [ ] **EDA: Energy-Efficient Inter-Layer Model Compilation for Edge DNN Inference Acceleration.**
+
 
 <!-- #### [Securing your Chips](https://hpca-conf.org/2025/main-program/) -->
 ***Securing your Chips***
