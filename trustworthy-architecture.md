@@ -278,7 +278,10 @@
 
 ### 2023 MICRO
 
-- [x] **SecureLoop: Design Space Exploration of Secure DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.csail.mit.edu/mengjia/data/2023.MICRO.SecureLoop.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.csail.mit.edu/mengjia/data/2023.MICRO.SecureLoop.slides.pdf)
+- [x] **SecureLoop: Design Space Exploration of Secure DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.csail.mit.edu/mengjia/data/2023.MICRO.SecureLoop.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.csail.mit.edu/mengjia/data/2023.MICRO.SecureLoop.slides.pdf) [![](https://img.shields.io/badge/article-719AAC)](https://nellie-wu.github.io/publication.html)
+- [ ] **HighLight: Efficient and Flexible DNN Acceleration with Hierarchical Structured Sparsity.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.csail.mit.edu/emer/media/papers/2023.10.micro.highlight.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.csail.mit.edu/emer/media/slides/2023.10.micro.highlight.slides.pdf)
+- [ ] **Tailors: Accelerating Sparse Tensor Algebra by Overbooking Buffer Occupancy.** [![](https://img.shields.io/badge/slides-E29135)](https://people.csail.mit.edu/emer/media/slides/2023.10.micro.overbooking.slides.pdf)
+
 - [ ] **CryptoMMU: Enabling Scalable and Secure Access Control of Third-Party Accelerators.**
 - [ ] **Improving Data Reuse in NPU On-chip Memory with Interleaved Gradient Order for DNN Training.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/interleaved_training_micro_2023.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/interleaved_training_slide_micro_2023.pdf)
 - [ ] **ArchExplorer: Microarchitecture Exploration Via Bottleneck Analysis.**
@@ -372,6 +375,8 @@
 - [ ] **Supporting Secure Multi-GPU Computing with Dynamic and Batched Metadata Management.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/multi_gpu_security_hpca_2024.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/multi_gpu_security_slide_hpca_2024.pdf)
 - [ ] **Data Enclave: A Data-Centric Trusted Execution Environment.**
 - [ ] **Exploitation of Security Vulnerability on Retirement.**
+- [ ] **Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators.**
+
 
 
 
@@ -492,6 +497,8 @@
 
 
 - [ ] **Software-Hardware Co-Design For Embodied AI Robots.**
+- [x] **HYTE: Flexible Tiling for Sparse Accelerators via Hybrid Static-Dynamic Approaches.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/hyte.isca25.pdf)
+
 
 <!-- #### Crypto & Fully Homomorphic Encryption -->
 ***Crypto & Fully Homomorphic Encryption***
