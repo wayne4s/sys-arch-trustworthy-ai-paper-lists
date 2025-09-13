@@ -130,6 +130,8 @@
 <!-- 在保证数据提供方不泄露原始数据的前提下，对数据进行分析计算的一系列信息技术，保障数据在流通与融合过程中的“可用不可见”。 -->
 <!-- 将隐私计算相关技术概括为三个大类，分别为以安全多方计算为代表的密码学路径、以可信任执行环境为代表的硬件路径和以联邦学习为代表的人工智能路径 -->
 
+- [ ] **How to build Secure LLM.** [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/7Gx1fzEHJeUaj1ouYOzyHA)
+
 
 <!-- #### Secure Multi-Party Computation (SMPC) -->
 ***Secure Multi-Party Computation (SMPC)***
