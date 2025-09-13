@@ -32,6 +32,9 @@
 
 - [ ] **TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2005.05909) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/QData/TextAttack?tab=readme-ov-file)
 
+- [ ] **OWASP TOP 10 LLM.** [![](https://img.shields.io/badge/article1-719AAC)](https://genai.owasp.org/) [![](https://img.shields.io/badge/article2-719AAC)](https://mp.weixin.qq.com/s/9mvgI-c5oaVWJSLHhI8WLA) [![](https://img.shields.io/badge/article3-719AAC)](https://mp.weixin.qq.com/s/LHbv7OSXJddg4snoWDFZiw?scene=21#wechat_redirect)
+
+
 ## AI Safety
 <!-- ### Alignment -->
 ***Alignment***
