@@ -422,7 +422,7 @@
 - [x] **SoMa: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2501.12634) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/SoMa-HPCA2025) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/kTchXMFu-06f-quXoMAGNg)
 - [x] **Adyna: Accelerating Dynamic Neural Networks with Adaptive Scheduling.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/adyna.hpca25.pdf)
 - [ ] **EDA: Energy-Efficient Inter-Layer Model Compilation for Edge DNN Inference Acceleration.**
-
+- [ ] **PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference.**
 
 <!-- #### [Securing your Chips](https://hpca-conf.org/2025/main-program/) -->
 ***Securing your Chips***
