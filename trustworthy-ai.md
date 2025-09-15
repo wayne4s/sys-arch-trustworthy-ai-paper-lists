@@ -171,6 +171,9 @@
 - [x] **ShieldCXL: A Practical Obliviousness Support with Sealed CXL Memory.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/shieldcxl_taco_2025.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/shieldcxl_slide_taco_2025.pdf)
 - [x] **Tunable Memory Protection for Secure Neural Processing Units.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/tune_npu_iccd_2022.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/tune_npu_slide_iccd_2022.pdf)
 
+***Physical Unclonable Function (PUF)***
+
+- [ ] [2025 Nature Communications]**Physical Unclonable In-Memory Computing for Simultaneous Protecting Private Data and Deep Learning Models.** [![](https://img.shields.io/badge/article-719AAC)](https://news.pkusz.edu.cn/info/1205/8805.htm)
 
 
 <!-- #### Zero-Knowledge Proofs (ZKP) -->
