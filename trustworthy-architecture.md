@@ -39,9 +39,8 @@
 - [ ] **Minerva: Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://rdadolf.com/papers/reagen2016minerva.pdf)
 - [ ] **Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://eems.mit.edu/wp-content/uploads/2016/04/eyeriss_isca_2016.pdf)
 - [ ] **Cambricon: An Instruction Set Architecture for Neural Networks.**  [![](https://img.shields.io/badge/paper-7EA6E0)](https://reconfigdeeplearning.wordpress.com/wp-content/uploads/2017/02/2016-isca_cambricon-an-instruction-set-architecture-for-neural-networks_cyj.pdf)
-
 - [ ] **ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://users.cs.utah.edu/~rajeev/pubs/isca16.pdf)
-
+- [ ] **DRAF: A Low-Power DRAM-based Reconfigurable Acceleration Fabric.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://drive.google.com/file/d/1SZuO0eXOr-2GyBftiw10esNLSVOBVcPt/view)
 
 
 
@@ -253,7 +252,7 @@
 - [ ] **Randomized Row-Swap: Mitigating Row Hammer by Breaking Spatial Correlation between Aggressor and Victim Rows.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://gururaj-s.github.io/assets/pdf/ASPLOS22_Saileshwar.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://prashantnair.bitbucket.io/assets/pdf/saileshwar2022rrs_slides.pdf)
 - [ ] **DAGguise: mitigating memory timing side channels.**
 - [ ] **Randomized row-swap: mitigating Row Hammer by breaking spatial correlation between aggressor and victim rows.**
-
+- [ ] **ShEF: Shielded Enclaves for Cloud FPGAs.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2103.03500)
 
 
 
