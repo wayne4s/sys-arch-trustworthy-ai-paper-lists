@@ -32,6 +32,9 @@
 
 - [ ] **TextAttack: A Framework for Adversarial Attacks, Data Augmentation, and Adversarial Training in NLP.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2005.05909) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/QData/TextAttack?tab=readme-ov-file)
 
+- [ ] **OWASP TOP 10 LLM.** [![](https://img.shields.io/badge/article1-719AAC)](https://genai.owasp.org/) [![](https://img.shields.io/badge/article2-719AAC)](https://mp.weixin.qq.com/s/9mvgI-c5oaVWJSLHhI8WLA) [![](https://img.shields.io/badge/article3-719AAC)](https://mp.weixin.qq.com/s/LHbv7OSXJddg4snoWDFZiw?scene=21#wechat_redirect)
+
+
 ## AI Safety
 <!-- ### Alignment -->
 ***Alignment***
@@ -127,6 +130,8 @@
 <!-- 在保证数据提供方不泄露原始数据的前提下，对数据进行分析计算的一系列信息技术，保障数据在流通与融合过程中的“可用不可见”。 -->
 <!-- 将隐私计算相关技术概括为三个大类，分别为以安全多方计算为代表的密码学路径、以可信任执行环境为代表的硬件路径和以联邦学习为代表的人工智能路径 -->
 
+- [ ] **How to build Secure LLM.** [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/7Gx1fzEHJeUaj1ouYOzyHA)
+
 
 <!-- #### Secure Multi-Party Computation (SMPC) -->
 ***Secure Multi-Party Computation (SMPC)***
@@ -166,6 +171,9 @@
 - [x] **ShieldCXL: A Practical Obliviousness Support with Sealed CXL Memory.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/shieldcxl_taco_2025.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/shieldcxl_slide_taco_2025.pdf)
 - [x] **Tunable Memory Protection for Secure Neural Processing Units.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/tune_npu_iccd_2022.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/tune_npu_slide_iccd_2022.pdf)
 
+***Physical Unclonable Function (PUF)***
+
+- [ ] [2025 Nature Communications]**Physical Unclonable In-Memory Computing for Simultaneous Protecting Private Data and Deep Learning Models.** [![](https://img.shields.io/badge/article-719AAC)](https://news.pkusz.edu.cn/info/1205/8805.htm)
 
 
 <!-- #### Zero-Knowledge Proofs (ZKP) -->
