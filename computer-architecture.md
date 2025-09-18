@@ -31,7 +31,8 @@
 
 - [ ] **Fused-Layer CNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://compas.cs.stonybrook.edu/~mferdman/downloads.php/MICRO16_Fused_Layer_CNN_Accelerators.pdf)
 - [ ] **vDNN: Virtualized Deep Neural Networks for Scalable, Memory- Efficient Neural Network Design.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.cs.utexas.edu/~skeckler/pubs/MICRO_2016_vDNN.pdf)
-
+- [ ] **Cambricon-X: An accelerator for sparse neural networks.**
+- [ ] **Minerva: Enabling Low-Power, Highly-Accurate Deep Neural Network Accelerators.** [![](https://img.shields.io/badge/slides-E29135)](https://pdfs.semanticscholar.org/cc6e/6fb164076fba649f2d23fb480ec207666d22.pdf)
 
 ### 2016 ISCA
 
@@ -119,7 +120,7 @@
 - [x] **Understanding Reuse, Performance, and Hardware Cost of DNN Dataflow: A Data-Centric Approach.**
 - [x] **Simba: Scaling deep-learning inference with multi-chip-module-based architecture.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.eecs.berkeley.edu/~ysshao/assets/papers/shao2019-micro.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.eecs.berkeley.edu/~ysshao/assets/talks/shao2019-micro-slides.pdf)
 - [ ] **SuperMem: Enabling Application-transparent Secure Persistent Memory with Low Overheads.**
-
+- [ ] **McPAT: An Integrated Power, Area, and Timing Modeling Framework for Multicore and Manycore Architectures.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://perso.ens-lyon.fr/christophe.alias/evalM2/micro09b.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/HewlettPackard/mcpat)
 
 
 ### 2019 HPCA
@@ -245,6 +246,7 @@
 - [x] **Atomic Dataflow based Graph-Level Workload Orchestration for Scalable DNN Accelerators.**
 - [ ] **HyBP: Hybrid Isolation-Randomization Secure Branch Predictor.**
 - [ ] **IR-ORAM: Path Access Type Based Memory Intensity Reduction for Path-ORAM.**
+- [ ] **S2TA: Exploiting Structured Sparsity for Energy-Efficient Mobile CNN Acceleration.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2107.07983)
 
 
 ### 2022 ASPLOS
