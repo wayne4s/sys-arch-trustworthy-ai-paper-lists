@@ -42,7 +42,7 @@
 - [ ] **Cambricon: An Instruction Set Architecture for Neural Networks.**  [![](https://img.shields.io/badge/paper-7EA6E0)](https://reconfigdeeplearning.wordpress.com/wp-content/uploads/2017/02/2016-isca_cambricon-an-instruction-set-architecture-for-neural-networks_cyj.pdf)
 - [ ] **ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://users.cs.utah.edu/~rajeev/pubs/isca16.pdf)
 - [ ] **DRAF: A Low-Power DRAM-based Reconfigurable Acceleration Fabric.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://drive.google.com/file/d/1SZuO0eXOr-2GyBftiw10esNLSVOBVcPt/view)
-
+- [ ] **Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://reconfigdeeplearning.wordpress.com/wp-content/uploads/2017/02/2016-isca_neurocube-a-programmable-digital-neuromorphic-architecture_gatech.pdf)
 
 
 ---
@@ -222,7 +222,7 @@
 - [ ] **HASCO: Towards Agile Hardware and Software CO-design for Tensor Computation.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/pku-liang/HASCO)
 - [ ] **GoSPA: An Energy-Efficient High-Performance Globally Optimized SParse Convolutional Neural Network Accelerator.**
 - [ ] **NN-Baton: DNN workload orchestration and chiplet granularity exploration for multichip accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.zhanhongtan.com/publication/isca21/isca21.pdf)
-
+- [ ] **Ten Lessons From Three Generations Shaped Google’s TPUv4: iIndustrial Product.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://parsa.epfl.ch/course-info/cs723/papers/tpuv4i.pdf)
 
 
 ---
@@ -272,7 +272,7 @@
 - [ ] **Hydra: enabling low-overhead mitigation of row-hammer at ultra-low thresholds via hybrid tracking.**
 - [ ] **CraterLake: a hardware accelerator for efficient unbounded computation on encrypted data.**
 - [ ] **There's always a bigger fish: a clarifying analysis of a machine-learning-assisted side-channel attack.**
-
+- [ ] **A software-defined tensor streaming multiprocessor for large-scale machine learning.**
 
 
 ---
@@ -392,6 +392,9 @@
 - [ ] **sNPU: Trusted Execution Environments on Integrated NPUs.** (*Tsinghua University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://ipads.se.sjtu.edu.cn/_media/publications/feng-isca24.pdf)
 - [ ] **Constable: Improving Performance and Power Efficiency by Safely Eliminating Load Instruction Execution.**
 - [ ] **FEATHER: A Reconfigurable Accelerator with Data Reordering Support for Low-Cost On-Chip Dataflow Switching.**
+- [ ] **Splitwise: Efficient generative LLM inference using phase splitting.**
+
+
 
 ### 2024 Security
 
