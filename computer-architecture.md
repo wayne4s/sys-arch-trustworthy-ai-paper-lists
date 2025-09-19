@@ -306,15 +306,15 @@
 - [ ] **Memory-Efficient Hashed Page Tables.**
 - [ ] **Phloem: Automatic Acceleration of Irregular Applications with Fine-Grain Pipeline Parallelism.**
 - [ ] **Root Crash Consistency of SGX-style Integrity Trees in Secure Non-Volatile Memory Systems.**
-
-
+- [ ] **DeFiNES: Enabling Fast Exploration of the Depth-first Scheduling Space for DNN Accelerators through Analytical Modeling.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2212.05344) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/KULeuven-MICAS/DeFiNES)
+- [ ] **Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://sizezheng.github.io/files/7A-3.pdf)
 
 
 ### 2023 ASPLOS
 - [ ] **Coyote: A Compiler for Vectorizing Encrypted Arithmetic Circuits.**
 - [ ] **Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://digitum.um.es/digitum/bitstream/10201/128556/4/asplosc23main-p1166-p-f253962830-63228-submitted.pdf)
 - [ ] **HuffDuff: Stealing Pruned DNNs from Sparse Accelerators.**
-
+- [ ] **FLAT: An Optimized Dataflow for Mitigating Attention Bottlenecks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.csail.mit.edu/suvinay/pubs/2023.flat.asplos.pdf)
 
 
 
@@ -385,7 +385,7 @@
 
 - [ ] **sIOPMP: Scalable and Efficient I/O Protection for TEEs.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://ipads.se.sjtu.edu.cn/_media/publications/feng-asplos24.pdf)
 - [ ] **Optimizing Deep Learning Inference via Global Analysis and Tensor Expressions.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://cuihuimin.github.io/papers/asplos24spring.pdf)
-
+- [ ] **Cocco: Hardware-Mapping Co-Exploration towards Memory Capacity-Communication Optimization.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2402.00629)
 
 ### 2024 ISCA
 
