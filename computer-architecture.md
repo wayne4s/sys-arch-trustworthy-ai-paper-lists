@@ -504,7 +504,7 @@
 
 - [ ] **Software-Hardware Co-Design For Embodied AI Robots.**
 - [x] **HYTE: Flexible Tiling for Sparse Accelerators via Hybrid Static-Dynamic Approaches.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/hyte.isca25.pdf)
-
+- [ ] **SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://dai.sjtu.edu.cn/my_file/pdf/7e067065-0e58-4e87-a373-feea0bebde1b.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/infinigence/SpecEE)
 
 <!-- #### Crypto & Fully Homomorphic Encryption -->
 ***Crypto & Fully Homomorphic Encryption***
@@ -512,7 +512,7 @@
 
 - [ ] **Cassandra: Efficient Enforcement of Sequential Execution for Cryptographic Programs.** (*ETH Zurich*)
 
-- [ ] **FAST: An FHE Accelerator for Scalable-parallelism with Tunable-bit.** (*Institute of Information Engineering, UCAS*)
+- [ ] **FAST: An FHE Accelerator for Scalable-parallelism with Tunable-bit.** (*Institute of Information Engineering, UCAS*) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/ehgJjmBPd8vmLusaHLoPgA)
 
 - [ ] **Neo: Towards Efficient Fully Homomorphic Encryption Acceleration using Tensor Core.** (*Institute of Information Engineering, UCAS*)
 
