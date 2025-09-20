@@ -247,6 +247,8 @@
 - [ ] **HyBP: Hybrid Isolation-Randomization Secure Branch Predictor.**
 - [ ] **IR-ORAM: Path Access Type Based Memory Intensity Reduction for Path-ORAM.**
 - [ ] **S2TA: Exploiting Structured Sparsity for Energy-Efficient Mobile CNN Acceleration.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2107.07983)
+- [ ] **MAGMA: An Optimization Framework for Mapping Multiple DNNs on Multiple Accelerator Cores.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2104.13997)
+
 
 
 ### 2022 ASPLOS
@@ -385,7 +387,7 @@
 
 - [ ] **sIOPMP: Scalable and Efficient I/O Protection for TEEs.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://ipads.se.sjtu.edu.cn/_media/publications/feng-asplos24.pdf)
 - [ ] **Optimizing Deep Learning Inference via Global Analysis and Tensor Expressions.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://cuihuimin.github.io/papers/asplos24spring.pdf)
-- [ ] **Cocco: Hardware-Mapping Co-Exploration towards Memory Capacity-Communication Optimization.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2402.00629)
+- [x] **Cocco: Hardware-Mapping Co-Exploration towards Memory Capacity-Communication Optimization.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2402.00629)
 
 ### 2024 ISCA
 
