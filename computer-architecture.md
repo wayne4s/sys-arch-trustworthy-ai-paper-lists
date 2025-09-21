@@ -326,7 +326,7 @@
 
 - [ ] **TEESec: Pre-Silicon Vulnerability Discovery for Trusted Execution Environments.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://moeinghaniyoun.github.io/files/TEESec.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/MoeinGhaniyoun/TEESec)
 
-- [x] **Inter-layer Scheduling Space Definition and Exploration for Tiled Accelerators.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/SET-ISCA2023?tab=readme-ov-file)
+- [x] **Inter-layer Scheduling Space Definition and Exploration for Tiled Accelerators.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/SET-ISCA2023?tab=readme-ov-file) [![](https://img.shields.io/badge/lab-9A8C98)](https://people.iiis.tsinghua.edu.cn/~gaomy/publications.html)
 - [ ] **Understanding and Mitigating Hardware Failures in Deep Learning Training Accelerator Systems.**
 - [ ] **SHARP: A Short-Word Hierarchical Accelerator for Robust and Practical Fully Homomorphic Encryption.**
 
@@ -374,7 +374,7 @@
 - [ ] **Supporting Secure Multi-GPU Computing withDynamic and Batched Metadata Management.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/multi_gpu_security_hpca_2024.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://seonjinna.github.io/assets/pdf/hpca24_slides.pdf)
 
 - [ ] **Salus: Efficient Security Support for CXL-Expanded GPU Memory.**
-- [x] **Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2312.16436) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/GEMINI-HPCA2024)
+- [x] **Gemini: Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2312.16436) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/GEMINI-HPCA2024) [![](https://img.shields.io/badge/lab-9A8C98)](https://people.iiis.tsinghua.edu.cn/~gaomy/publications.html)
 - [ ] **Supporting Secure Multi-GPU Computing with Dynamic and Batched Metadata Management.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/multi_gpu_security_hpca_2024.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/multi_gpu_security_slide_hpca_2024.pdf)
 - [ ] **Data Enclave: A Data-Centric Trusted Execution Environment.**
 - [ ] **Exploitation of Security Vulnerability on Retirement.**
@@ -425,10 +425,14 @@
 - [ ] **Palermo: Improving the Performance of Oblivious Memory using Protocol-Hardware Co-Design.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2411.05400) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/Linestro/Palermo-ORAM)
 - [ ] **Let-Me-In: (Still) Employing In-pointer Bounds Metadata for Fine-grained GPU Memory Safety.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://seonjinna.github.io/assets/pdf/LMI_hpca25.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://seonjinna.github.io/assets/pdf/LMI_HPCA25_slides.pdf)
 - [ ] **Prosperity: Accelerating Spiking Neural Networks via Product Sparsity.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2503.03379) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/dubcyfor3/Prosperity)
-- [x] **SoMa: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2501.12634) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/SoMa-HPCA2025) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/kTchXMFu-06f-quXoMAGNg)
+- [x] **SoMa: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2501.12634) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/SoMa-HPCA2025) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/kTchXMFu-06f-quXoMAGNg) [![](https://img.shields.io/badge/lab-9A8C98)](https://people.iiis.tsinghua.edu.cn/~gaomy/publications.html)
 - [x] **Adyna: Accelerating Dynamic Neural Networks with Adaptive Scheduling.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/adyna.hpca25.pdf)
 - [ ] **EDA: Energy-Efficient Inter-Layer Model Compilation for Edge DNN Inference Acceleration.**
 - [ ] **PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference.**
+- [ ] **TB-STC: Transposable Block-wise N:M Structured Sparse Tensor Core.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://dai.sjtu.edu.cn/my_file/pdf/9e57c422-afd7-4078-b264-b32d3dfc9975.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://dai.sjtu.edu.cn/my_file/pdf/f771941e-4cce-4a89-8b9d-529e5fcc5395.pdf) [![](https://img.shields.io/badge/lab-9A8C98)](https://dai.sjtu.edu.cn/publications.html)
+
+
+
 
 <!-- #### [Securing your Chips](https://hpca-conf.org/2025/main-program/) -->
 ***Securing your Chips***
@@ -503,8 +507,8 @@
 
 
 - [ ] **Software-Hardware Co-Design For Embodied AI Robots.**
-- [x] **HYTE: Flexible Tiling for Sparse Accelerators via Hybrid Static-Dynamic Approaches.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/hyte.isca25.pdf)
-- [ ] **SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://dai.sjtu.edu.cn/my_file/pdf/7e067065-0e58-4e87-a373-feea0bebde1b.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/infinigence/SpecEE)
+- [x] **HYTE: Flexible Tiling for Sparse Accelerators via Hybrid Static-Dynamic Approaches.** (*Institute of Interdisciplinary Information Sciences (IIIS), Tsinghua University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/hyte.isca25.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/slides/hyte.isca25.slides.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/tsinghua-ideal/HYTE-sim)
+- [ ] **SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://dai.sjtu.edu.cn/my_file/pdf/7e067065-0e58-4e87-a373-feea0bebde1b.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://dai.sjtu.edu.cn/my_file/pdf/aeda8cd1-8031-48c7-a04c-e998e3fb50c0.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/infinigence/SpecEE) [![](https://img.shields.io/badge/lab-9A8C98)](https://dai.sjtu.edu.cn/publications.html)
 
 <!-- #### Crypto & Fully Homomorphic Encryption -->
 ***Crypto & Fully Homomorphic Encryption***
@@ -576,10 +580,11 @@
 - [ ] **Phantom: Privacy-Preserving Deep Neural Network Model Obfuscation in Heterogeneous TEE and GPU System.**
 - [ ] **Unlocking the Power of Differentially Private Zeroth-order Optimization for Fine-tuning LLMs.**
 
-<!--
-- [ ] [xxx] **xxx.** 
+
+<!-- 
 [![](https://img.shields.io/badge/paper-7EA6E0)]()
 [![](https://img.shields.io/badge/slides-E29135)]()
 [![](https://img.shields.io/badge/article-719AAC)]()
 [![](https://img.shields.io/badge/code-B5739D)]()
--->
+[![](https://img.shields.io/badge/lab-9A8C98)]()  
+ -->
