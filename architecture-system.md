@@ -81,7 +81,7 @@
 
 
 ### 2017 ASPLOS
-- [x] **TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://web.stanford.edu/~mgao12/pubs/tetris.asplos17.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://stanford.edu/~xuany/pubs/slides/tetris.asplos17.slides.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/stanford-mast/nn_dataflow.git)
+- [x] **TETRIS: Scalable and Efficient Neural Network Acceleration with 3D Memory.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://web.stanford.edu/~mgao12/pubs/tetris.asplos17.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://stanford.edu/~xuany/pubs/slides/tetris.asplos17.slides.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/stanford-mast/nn_dataflow.git) [![](https://img.shields.io/badge/lab-9A8C98)](https://people.iiis.tsinghua.edu.cn/~gaomy/publications.html)
 - [ ] **Optimizing CNNs on Multicores for Scalability, Performance and Goodput.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/04/samyam-asplos17.pdf)
 
 ### 2017 ISCA
@@ -168,7 +168,7 @@
 
 ### 2019 ASPLOS
 
-- [x] **Tangram: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://web.stanford.edu/~mgao12/pubs/tangram.asplos19.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/slides/tangram.asplos19.slides.pdf) [![](https://img.shields.io/badge/article-719AAC)](https://www.cnblogs.com/lyc-seu/p/11596204.html)
+- [x] **Tangram: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://web.stanford.edu/~mgao12/pubs/tangram.asplos19.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/slides/tangram.asplos19.slides.pdf) [![](https://img.shields.io/badge/article-719AAC)](https://www.cnblogs.com/lyc-seu/p/11596204.html) [![](https://img.shields.io/badge/lab-9A8C98)](https://people.iiis.tsinghua.edu.cn/~gaomy/publications.html)
 - [ ] **Astra: Exploiting Predictability to Optimize Deep Learning.**
 
 ### 2019 ISCA
@@ -183,6 +183,7 @@
 
 - [ ] **Graphene: Strong yet Lightweight Row Hammer Protection.**
 - [ ] **Persist Level Parallelism: Streamlining Integrity Tree Updates for Secure Persistent Memory.**
+- [ ] **ConfuciuX: Autonomous Hardware Resource Assignment for DNN Accelerators using Reinforcement Learning.**
 
 
 ### 2020 HPCA
@@ -261,6 +262,8 @@
 - [ ] **CRONUS: Fault-isolated, Secure and High-performance Heterogeneous Computing for Trusted Execution Environment.** (*HKU*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://i.cs.hku.hk/~heming/papers/micro22-cronus.pdf)
 - [ ] **ARK: Fully Homomorphic Encryption Accelerator with Runtime Data Generation and Inter-Operation Key Reuse.**
 - [ ] **PageORAM: An Efficient DRAM Page Aware ORAM Strategy.**
+- [ ] **Sparseloop: An Analytical Approach To Sparse Tensor Accelerator Modeling.**
+
 
 
 ### 2022 HPCA
