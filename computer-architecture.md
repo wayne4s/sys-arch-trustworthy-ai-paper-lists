@@ -3,6 +3,10 @@
 # Paper Lists for Efficient Architecture
 
 ## Table of Contents
+[![](https://img.shields.io/badge/2014-EB6969)](#2014-micro) [MICRO](#2014-micro), [ASPLOS](#2014-asplos)
+
+[![](https://img.shields.io/badge/2015-EB6969)](#2015-micro) [MICRO](#2015-micro), [ISCA](#2015-isca)
+
 [![](https://img.shields.io/badge/2016-EB6969)](#2016-micro) [MICRO](#2016-micro), [ISCA](#2016-isca)
 
 [![](https://img.shields.io/badge/2017-EB6969)](#2017-micro) [MICRO](#2017-micro), [HPCA](#2017-hpca), [ASPLOS](#2017-asplos), [ISCA](#2017-isca)
@@ -25,6 +29,25 @@
 
 <!-- - [ ] **xxxx.** [![](https://img.shields.io/badge/paper-7EA6E0)]() [![](https://img.shields.io/badge/slides-E29135)]() -->
 
+--------
+
+### 2014 MICRO
+
+- [ ] **DaDianNao: A Machine-learning Supercomputer.**
+- [ ] **NoC Architectures for Silicon Interposer Systems.**
+
+
+### 2014 ASPLOS
+- [ ] **DianNao: A Small-footprint High-throughput Accelerator for Ubiquitous Machine-learning.**
+
+---
+
+### 2015 MICRO
+- [ ] **Enabling Interposer-based Disintegration of Multi-core Processors.**
+
+### 2015 ISCA
+- [ ] **ShiDianNao: Shifting Vision Processing Closer to the Sensor.**
+
 ---
 
 ### 2016 MICRO
@@ -43,13 +66,13 @@
 - [ ] **ISAAC: A Convolutional Neural Network Accelerator with In-Situ Analog Arithmetic in Crossbars.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://users.cs.utah.edu/~rajeev/pubs/isca16.pdf)
 - [ ] **DRAF: A Low-Power DRAM-based Reconfigurable Acceleration Fabric.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://drive.google.com/file/d/1SZuO0eXOr-2GyBftiw10esNLSVOBVcPt/view)
 - [ ] **Neurocube: A Programmable Digital Neuromorphic Architecture with High-Density 3D Memory.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://reconfigdeeplearning.wordpress.com/wp-content/uploads/2017/02/2016-isca_neurocube-a-programmable-digital-neuromorphic-architecture_gatech.pdf)
-
+- [ ] **Cnvlutin: Ineffectual-neuron-free Deep Neural Network Computing.**
 
 ---
 
 ### 2017 MICRO
 - [ ] **Scale-Out Acceleration for Machine Learning.**
-
+- [ ] **Data Movement Aware Computation Partitioning.**
 
 ### 2017 HPCA
 
@@ -71,6 +94,9 @@
 - [ ] **Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism.**
 - [ ] **Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent.**
 - [x] **In-Datacenter Performance Analysis of a Tensor Processing Unit.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://csdl-downloads.ieeecomputer.org/proceedings/isca/2017/4892/00/08192463.pdf?Expires=1756951432&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL2lzY2EvMjAxNy80ODkyLzAwLzA4MTkyNDYzLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1Njk1MTQzMn19fV19&Signature=JRFs4EDso4j9kcn4yBQi9NLwI8ApJ~cB0YI-Rn26qAphlJzORy2~DCf6bltRaD8Rg12kd7s1zTiDwEpH0KKuo6~UQEmWFMqMLOXLOzE6J5V0iUmAshaqvfLIyGeQ2nfZSG0jr57ScFjSo25vRXewb71qqAAedqXjVWCRvEP5fr0DL5-azCQ~GfmLnzBr4b22xA1vrYg75IYaQgcK-DaR-pdlwbnYfCr5QBkhHFNQQFrrf6fqjkcacsXF-FKRx4BJpH9Wl4GHjUZM3lAeHHWQMt4qJC00lqr3TVbxrwMyHclmxrFkvSM~qlOFAThrWjak7iYeckBnprubsz4CFoq9JA__&Key-Pair-Id=K12PMWTCQBDMDT) [![](https://img.shields.io/badge/slides-E29135)](https://www.cse.wustl.edu/~roger/566S.s21/In-Datacenter%20Performance%20Analysis%20of%20a%20Tensor%20Processing%20Unit.pdf)
+- [ ] **MCM-GPU: Multi-Chip-Module GPUs for Continued Performance Scalability.**
+- [ ] **Jenga: Software-Defined Cache Hierarchies.**
+
 
 
 ---
@@ -80,7 +106,7 @@
 - [ ] **Addressing Irregularity in Sparse Neural Networks:A Cooperative Software/Hardware Approach.**
 - [ ] **Improving the Performance and Endurance of Encrypted Non-Volatile Main Memory through Deduplicating Writes.**
 - [ ] **Morphable Counters: Enabling Compact Integrity Trees For Low-Overhead Secure Memories.**
-
+- [ ] **Adaptive Scheduling for Systems with Asymmetric Memory Hierarchies.**
 
 
 ### 2018 HPCA
@@ -88,12 +114,11 @@
 - [ ] **Towards Efficient Microarchitectural Design for Accelerating Unsupervised GAN-based Deep Learning.**
 - [ ] **Crash Consistency in Encrypted Non-volatile Main Memory Systems.**
 - [ ] **SYNERGY: Rethinking Secure-Memory Design for Error-Correcting Memories.**
-
+- [ ] **Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective.**
 
 ### 2018 ASPLOS
 - [ ] **MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://anands09.github.io/papers/maeri_asplos2018.pdf) [![](https://img.shields.io/badge/article-719AAC)](https://synergy.ece.gatech.edu/tools/maeri/)
 - [ ] **VAULT: Reducing Paging Overheads in SGX with Efficient Integrity Verification Structures.**
-
 
 
 ### 2018 ISCA
@@ -106,6 +131,9 @@
 - [ ] **UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.kartikhegde.net/media/UCNN_ISCA.pdf)
 - [ ] **SnaPEA: Predictive Early Activation for Reducing Computation in Deep Convolutional Neural Networks.**
 - [ ] **Prediction based Execution on Deep Neural Networks.**
+- [ ] **Modular Routing Design for Chiplet-based Systems.**
+- [ ] **Bit Fusion: Bit-Level Dynamically Composable Architecture for Accelerating Deep Neural Network.**
+
 
 
 ---
