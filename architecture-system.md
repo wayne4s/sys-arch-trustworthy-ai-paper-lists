@@ -292,6 +292,7 @@
 
 
 ### 2022 ISCA
+[2022 ISCA slides](https://www.iscaconf.org/isca2024/slides/);
 
 - [x] **SoftVN: Efficient Memory Protection via Software-Provided Version Numbers.** (*Cornell University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.csl.cornell.edu/~zhiruz/pdfs/softvn-isca2022.pdf)
 
@@ -422,6 +423,7 @@
 
 ### 2024 ISCA
 
+
 - [ ] **sNPU: Trusted Execution Environments on Integrated NPUs.** (*Tsinghua University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://ipads.se.sjtu.edu.cn/_media/publications/feng-isca24.pdf)
 - [ ] **Constable: Improving Performance and Power Efficiency by Safely Eliminating Load Instruction Execution.**
 - [ ] **FEATHER: A Reconfigurable Accelerator with Data Reordering Support for Low-Cost On-Chip Dataflow Switching.**
@@ -538,7 +540,7 @@
 
 
 - [ ] **Software-Hardware Co-Design For Embodied AI Robots.**
-- [x] **HYTE: Flexible Tiling for Sparse Accelerators via Hybrid Static-Dynamic Approaches.** (*Institute of Interdisciplinary Information Sciences (IIIS), Tsinghua University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/hyte.isca25.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/slides/hyte.isca25.slides.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/tsinghua-ideal/HYTE-sim)
+- [x] **HYTE: Flexible Tiling for Sparse Accelerators via Hybrid Static-Dynamic Approaches.** (*Institute of Interdisciplinary Information Sciences (IIIS), Tsinghua University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/hyte.isca25.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/slides/hyte.isca25.slides.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/tsinghua-ideal/HYTE-sim) [![](https://img.shields.io/badge/lab-9A8C98)](https://people.iiis.tsinghua.edu.cn/~gaomy/publications.html)
 - [ ] **SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://dai.sjtu.edu.cn/my_file/pdf/7e067065-0e58-4e87-a373-feea0bebde1b.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://dai.sjtu.edu.cn/my_file/pdf/aeda8cd1-8031-48c7-a04c-e998e3fb50c0.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/infinigence/SpecEE) [![](https://img.shields.io/badge/lab-9A8C98)](https://dai.sjtu.edu.cn/publications.html)
 
 <!-- #### Crypto & Fully Homomorphic Encryption -->
