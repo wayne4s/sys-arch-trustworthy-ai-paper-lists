@@ -215,7 +215,7 @@
 - [ ] **Bonsai Merkle Forests: Efficiently Achieving Crash Consistency in Secure Persistent Memory.**
 - [ ] **Dolos: Improving the Performance of Persistent Applications in ADR-Supported Secure Memory.**
 - [ ] **Soteria: Towards Resilient Integrity-Protected and Encrypted Non-Volatile Memories.**
-
+- [x] **Sanger: A Co-Design Framework for Enabling Sparse Attention using Reconfigurable Architecture.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/hatsu3/Sanger)
 
 
 ### 2021 HPCA
@@ -227,7 +227,7 @@
 - [ ] **Common Counters: Compressed Encryption Counters for Secure GPU Memory.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/common_counters_hpca_2021.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/common_counters_slide_hpca_2021.pdf)
 - [ ] **A Computational Stack for Cross-Domain Acceleration.**
 - [ ] **A Write-Friendly and Fast-Recovery Scheme for Security Metadata in Non-Volatile Memories.**
-
+- [x] **SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning.** (*MIT han-lab*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2012.09852) [![](https://img.shields.io/badge/slides-E29135)](https://github.com/Hanrui-Wang/spatten-sparse-attention-assets/blob/main/spatten-slides.pdf) [![](https://img.shields.io/badge/poster-999999)](https://github.com/Hanrui-Wang/spatten-sparse-attention-assets/blob/main/spatten-poster.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/mit-han-lab/spatten?tab=readme-ov-file) [![](https://img.shields.io/badge/article-719AAC)](https://hanlab.mit.edu/projects/spatten)
 
 
 
@@ -411,8 +411,7 @@
 - [ ] **Data Enclave: A Data-Centric Trusted Execution Environment.**
 - [ ] **Exploitation of Security Vulnerability on Retirement.**
 - [ ] **Mapping and Architecture Co-exploration for Large-scale DNN Chiplet Accelerators.**
-
-
+- [x] **ALISA: Accelerating Large Language Model Inference via Sparsity-Aware KV Caching.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2403.17312) [![](https://img.shields.io/badge/slides-E29135)](https://kennethzhao24.github.io/images/isca_presentation_final.pdf)
 
 
 ### 2024 ASPLOS
@@ -420,6 +419,9 @@
 - [ ] **sIOPMP: Scalable and Efficient I/O Protection for TEEs.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://ipads.se.sjtu.edu.cn/_media/publications/feng-asplos24.pdf)
 - [ ] **Optimizing Deep Learning Inference via Global Analysis and Tensor Expressions.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://cuihuimin.github.io/papers/asplos24spring.pdf)
 - [x] **Cocco: Hardware-Mapping Co-Exploration towards Memory Capacity-Communication Optimization.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2402.00629)
+- [ ] **SpecInfer: Accelerating Generative Large Language Model Serving with Tree-based Speculative Inference and Verification.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2305.09781)
+
+
 
 ### 2024 ISCA
 
@@ -617,6 +619,7 @@
 <!-- 
 [![](https://img.shields.io/badge/paper-7EA6E0)]()
 [![](https://img.shields.io/badge/slides-E29135)]()
+[![](https://img.shields.io/badge/poster-999999)]()
 [![](https://img.shields.io/badge/article-719AAC)]()
 [![](https://img.shields.io/badge/code-B5739D)]()
 [![](https://img.shields.io/badge/lab-9A8C98)]()  
