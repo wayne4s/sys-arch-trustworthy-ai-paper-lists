@@ -13,5 +13,5 @@ Research focused on:
 
 Research from top-tier conferences and journals on:
 
-- System architecture innovations for reliability and security
-- Fault-tolerant and resilient computing frameworks
+- Hardware architecture innovations for specialized AI accelerators
+- System-level architectural advances for domain-specific accelerators  
