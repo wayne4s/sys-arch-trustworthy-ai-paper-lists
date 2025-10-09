@@ -126,7 +126,7 @@
 [Conference Program (slides)](https://iscaconf.org/isca2018/program.html); [Turing Lecture](https://iscaconf.org/isca2018/turing_lecture.html)
 
 - [ ] **A Configurable Cloud-Scale DNN Processor for Real-Time AI.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.microsoft.com/en-us/research/wp-content/uploads/2018/06/ISCA18-Brainwave-CameraReady.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://iscaconf.org/isca2018/slides/1A1.pdf)
-- [ ] **Computation Reuse in DNNs byExploiting Input Similarity.** [![](https://img.shields.io/badge/slides-E29135)](https://pdfs.semanticscholar.org/6416/fcd79b96808bdce58fb9e7d7b60d2683a552.pdf)
+- [ ] **Computation Reuse in DNNs by Exploiting Input Similarity.** [![](https://img.shields.io/badge/slides-E29135)](https://pdfs.semanticscholar.org/6416/fcd79b96808bdce58fb9e7d7b60d2683a552.pdf)
 - [ ] **RANA: Towards Efficient Neural Acceleration with Refresh-Optimized Embedded DRAM.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://knowen-production.s3.amazonaws.com/uploads/attachment/file/5364/Dram%2Brefreshing%2B.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://iscaconf.org/isca2018/slides/4B3.pdf)
 - [ ] **UCNN: Exploiting Computational Reuse in Deep Neural Networks via Weight Repetition.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.kartikhegde.net/media/UCNN_ISCA.pdf)
 - [ ] **SnaPEA: Predictive Early Activation for Reducing Computation in Deep Convolutional Neural Networks.**
@@ -156,7 +156,7 @@
 [Main Program (slides)](http://hpca2019.seas.gwu.edu/main_program.html)
 
 - [ ] **HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/1901.02067) [![](https://img.shields.io/badge/slides-E29135)](http://hpca2019.seas.gwu.edu/slides/2A-1.pdf)
-- [ ] **Shortcut Mining: Exploiting Cross-layer Shortcut Reuse in DCNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://web.engr.oregonstate.edu/~chenliz/publications/2019_HPCA_Shortcut%20Mining.pdf) [![](https://img.shields.io/badge/slides-E29135)](http://hpca2019.seas.gwu.edu/slides/2A-4.pdf)
+- [x] **Shortcut Mining: Exploiting Cross-layer Shortcut Reuse in DCNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://web.engr.oregonstate.edu/~chenliz/publications/2019_HPCA_Shortcut%20Mining.pdf) [![](https://img.shields.io/badge/slides-E29135)](http://hpca2019.seas.gwu.edu/slides/2A-4.pdf)
 
 - [ ] **FPGA-based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data.**
 - [ ] **Conditional Speculation: An Effective Approach to Safeguard Out-of-Order Execution Against Spectre Attacks.**
@@ -325,7 +325,7 @@
 - [ ] **Memento: Architectural Support for Ephemeral Memory Management in Serverless Environments.**
 - [ ] **Spatula: A Hardware Accelerator for Sparse Matrix Factorization.**
 - [ ] **HARP: Hardware-Based Pseudo-Tiling for Sparse Matrix Multiplication Accelerator.**
-
+- [ ] **TileFlow: A Framework for Modeling Fusion Dataflow via Tree-based Analysis.**
 
 
 ### 2023 HPCA
