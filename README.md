@@ -9,7 +9,7 @@ Research focused on:
 - *AI Security*: Preventing unintended failures and ensuring robust performance
 - *AI Safety*: Defending against malicious exploitation and adversarial attacks
 
-## 🏗️ [Architecture \& System](arch-sys.md)
+## 🏗️ [System \& Architecture](sys-arch.md)
 
 Research from top-tier conferences and journals on:
 

@@ -466,7 +466,7 @@
 - [ ] **Prosperity: Accelerating Spiking Neural Networks via Product Sparsity.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2503.03379) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/dubcyfor3/Prosperity)
 - [x] **SoMa: Identifying, Exploring, and Understanding the DRAM Communication Scheduling Space for DNN Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2501.12634) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/SET-Scheduling-Project/SoMa-HPCA2025) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/kTchXMFu-06f-quXoMAGNg) [![](https://img.shields.io/badge/lab-9A8C98)](https://people.iiis.tsinghua.edu.cn/~gaomy/publications.html)
 - [x] **Adyna: Accelerating Dynamic Neural Networks with Adaptive Scheduling.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/adyna.hpca25.pdf)
-- [ ] **EDA: Energy-Efficient Inter-Layer Model Compilation for Edge DNN Inference Acceleration.**
+- [x] **EDA: Energy-Efficient Inter-Layer Model Compilation for Edge DNN Inference Acceleration.**
 - [ ] **PROCA: Programmable Probabilistic Processing Unit Architecture with Accept/Reject Prediction & Multicore Pipelining for Causal Inference.**
 - [ ] **TB-STC: Transposable Block-wise N:M Structured Sparse Tensor Core.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://dai.sjtu.edu.cn/my_file/pdf/9e57c422-afd7-4078-b264-b32d3dfc9975.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://dai.sjtu.edu.cn/my_file/pdf/f771941e-4cce-4a89-8b9d-529e5fcc5395.pdf) [![](https://img.shields.io/badge/lab-9A8C98)](https://dai.sjtu.edu.cn/publications.html)
 
