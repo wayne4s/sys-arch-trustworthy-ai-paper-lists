@@ -1,4 +1,4 @@
-# Trustworthy AI & Architecture Paper Collection
+# Computer System Architecture \& Trustworthy AI Paper Collection
 
 This repository contains research papers organized into two complementary sections:
 
