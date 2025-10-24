@@ -325,8 +325,8 @@
 - [ ] **Memento: Architectural Support for Ephemeral Memory Management in Serverless Environments.**
 - [ ] **Spatula: A Hardware Accelerator for Sparse Matrix Factorization.**
 - [ ] **HARP: Hardware-Based Pseudo-Tiling for Sparse Matrix Multiplication Accelerator.**
-- [ ] **TileFlow: A Framework for Modeling Fusion Dataflow via Tree-based Analysis.**
-
+- [x] **TileFlow: A Framework for Modeling Fusion Dataflow via Tree-based Analysis.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/pku-liang/TileFlow)
+- [ ] **AuRORA: Virtualized Accelerator Orchestration for Multi-Tenant Workloads.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.eecs.berkeley.edu/~ysshao/assets/papers/aurora-micro2023.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.eecs.berkeley.edu/~ysshao/assets/talks/aurora2023-micro-slides.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/ucb-bar/AuRORA)
 
 ### 2023 HPCA
 
@@ -352,7 +352,7 @@
 - [ ] **Coyote: A Compiler for Vectorizing Encrypted Arithmetic Circuits.**
 - [ ] **Flexagon: A Multi-Dataflow Sparse-Sparse Matrix Multiplication Accelerator for Efficient DNN Processing.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://digitum.um.es/digitum/bitstream/10201/128556/4/asplosc23main-p1166-p-f253962830-63228-submitted.pdf)
 - [ ] **HuffDuff: Stealing Pruned DNNs from Sparse Accelerators.**
-- [ ] **FLAT: An Optimized Dataflow for Mitigating Attention Bottlenecks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.csail.mit.edu/suvinay/pubs/2023.flat.asplos.pdf)
+- [x] **FLAT: An Optimized Dataflow for Mitigating Attention Bottlenecks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.csail.mit.edu/suvinay/pubs/2023.flat.asplos.pdf)
 - [ ] **Accelerating Sparse Data Orchestration via Dynamic Reflexive Tiling.**
 - [ ] **Spada: Accelerating sparse matrix multiplication with adaptive dataflow.** (*IIIS*)
 
