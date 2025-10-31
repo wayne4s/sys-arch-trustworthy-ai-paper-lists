@@ -453,6 +453,27 @@
 
 - [ ] **CryptoBTB: A Secure Hierarchical BTB for Diverse Instruction Footprint Workloads.**
 - [ ] **Swift and Trustworthy Large-Scale GPU Simulation with Fine-Grained Error Modeling and Hierarchical Clustering.**
+- [x] **Crane: Inter-Layer Scheduling Framework for DNN Inference and Training Co-Support on Tiled Architecture.**
+
+- [ ] **Efficient Security Support for CXL Memory through Adaptive Incremental Offloaded (Re-) Encryption.**
+
+- [ ] **ELK: Exploring the Efficiency of Inter-core Connected AI Chips with Deep Learning Compiler Techniques.**
+
+<!-- Session 7B: Tools and Simulators -->
+
+- [ ] **LEGOSim: A Unified Parallel Simulation Framework for Multi-chiplet Heterogeneous Integration.**
+
+- [ ] **PyTorchSim: A Comprehensive, Fast, and Accurate NPU Simulation Framework.**
+
+- [ ] **Swift and Trustworthy Large-Scale GPU Simulation with Fine-Grained Error Modelingand Hierarchical Clustering.**
+
+- [ ] **HAWK: Fully Homomorphic Encryption Accelerator with Fixed-Word Key Decomposition Switching.** (*Ant Group*)
+
+- [ ] **SmartPIR: A Private Information Retrieval System using Computational Storage Devices.** (*Shandong University*)
+
+- [ ] **Re-architecting End-host Networking with CXL: Coherence, Memory, and Offloading.**
+
+
 
 
 ### 2025 HPCA
