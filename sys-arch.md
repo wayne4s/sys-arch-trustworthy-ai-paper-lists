@@ -294,11 +294,13 @@
 
 
 ### 2022 ISCA
-[2022 ISCA slides](https://www.iscaconf.org/isca2024/slides/);
+[2022 ISCA slides1](https://www.iscaconf.org/isca2022/slides/); [2022 ISCA slides2](https://www.iscaconf.org/isca2024/slides/);
 
 - [x] **SoftVN: Efficient Memory Protection via Software-Provided Version Numbers.** (*Cornell University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.csl.cornell.edu/~zhiruz/pdfs/softvn-isca2022.pdf)
 
 - [x] **MGX: Near-Zero Overhead Memory Protection for Data-Intensive Accelerators.** (*Cornell University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.csl.cornell.edu/~zhiruz/pdfs/mgx-isca2022.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://www.iscaconf.org/isca2022/slides/isca22-hua-mgx.pdf)
+
+- [x] **AMOS: Enabling Automatic Mapping for Tensor Computations On Spatial Accelerators with Hardware Abstraction.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://cs.stanford.edu/~anjiang/papers/ZhengETAL22AMOS.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://www.iscaconf.org/isca2022/slides/isca22-zheng-amos.pptx) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/pku-liang/AMOS)
 
 - [ ] **PPMLAC: High Performance Chipset Architecture for Secure Multi-Party Computation.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/ppmlac.isca22.pdf)
 
