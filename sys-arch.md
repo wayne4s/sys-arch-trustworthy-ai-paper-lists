@@ -248,7 +248,7 @@
 - [ ] **NASGuard: A Novel Accelerator Architecture for Robust Neural Architecture Search (NAS) Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.researchgate.net/profile/Xingbin-Wang/publication/352091757_NASGuard_A_Novel_Accelerator_Architecture_for_Robust_Neural_Architecture_Search_NAS_Networks/links/60b8a06c92851cb13d7064d9/NASGuard-A-Novel-Accelerator-Architecture-for-Robust-Neural-Architecture-Search-NAS-Networks.pdf)
 - [ ] **RaPiD: AI Accelerator for Ultra-Low Precision Training and Inference.**
 - [ ] **Communication Algorithm-Architecture Co-Design for Distributed Deep Learning.**
-- [ ] **CoSA: Scheduling by Constrained Optimization for Spatial Accelerators.**
+- [x] **CoSA: Scheduling by Constrained Optimization for Spatial Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2105.01898) [![](https://img.shields.io/badge/slides-E29135)](https://people.eecs.berkeley.edu/~ysshao/assets/talks/huang2021-isca-slides.pdf)
 - [ ] **Cambricon-Q: A Hybrid Architecture for Efficient Training.**
 - [ ] **HASCO: Towards Agile Hardware and Software CO-design for Tensor Computation.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/pku-liang/HASCO)
 - [ ] **GoSPA: An Energy-Efficient High-Performance Globally Optimized SParse Convolutional Neural Network Accelerator.**
