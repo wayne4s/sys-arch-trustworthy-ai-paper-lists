@@ -248,7 +248,7 @@
 - [ ] **NASGuard: A Novel Accelerator Architecture for Robust Neural Architecture Search (NAS) Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.researchgate.net/profile/Xingbin-Wang/publication/352091757_NASGuard_A_Novel_Accelerator_Architecture_for_Robust_Neural_Architecture_Search_NAS_Networks/links/60b8a06c92851cb13d7064d9/NASGuard-A-Novel-Accelerator-Architecture-for-Robust-Neural-Architecture-Search-NAS-Networks.pdf)
 - [ ] **RaPiD: AI Accelerator for Ultra-Low Precision Training and Inference.**
 - [ ] **Communication Algorithm-Architecture Co-Design for Distributed Deep Learning.**
-- [ ] **CoSA: Scheduling by Constrained Optimization for Spatial Accelerators.**
+- [x] **CoSA: Scheduling by Constrained Optimization for Spatial Accelerators.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2105.01898) [![](https://img.shields.io/badge/slides-E29135)](https://people.eecs.berkeley.edu/~ysshao/assets/talks/huang2021-isca-slides.pdf)
 - [ ] **Cambricon-Q: A Hybrid Architecture for Efficient Training.**
 - [ ] **HASCO: Towards Agile Hardware and Software CO-design for Tensor Computation.** [![](https://img.shields.io/badge/code-B5739D)](https://github.com/pku-liang/HASCO)
 - [ ] **GoSPA: An Energy-Efficient High-Performance Globally Optimized SParse Convolutional Neural Network Accelerator.**
@@ -294,11 +294,13 @@
 
 
 ### 2022 ISCA
-[2022 ISCA slides](https://www.iscaconf.org/isca2024/slides/);
+[2022 ISCA slides1](https://www.iscaconf.org/isca2022/slides/); [2022 ISCA slides2](https://www.iscaconf.org/isca2024/slides/);
 
 - [x] **SoftVN: Efficient Memory Protection via Software-Provided Version Numbers.** (*Cornell University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.csl.cornell.edu/~zhiruz/pdfs/softvn-isca2022.pdf)
 
 - [x] **MGX: Near-Zero Overhead Memory Protection for Data-Intensive Accelerators.** (*Cornell University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.csl.cornell.edu/~zhiruz/pdfs/mgx-isca2022.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://www.iscaconf.org/isca2022/slides/isca22-hua-mgx.pdf)
+
+- [x] **AMOS: Enabling Automatic Mapping for Tensor Computations On Spatial Accelerators with Hardware Abstraction.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://cs.stanford.edu/~anjiang/papers/ZhengETAL22AMOS.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://www.iscaconf.org/isca2022/slides/isca22-zheng-amos.pptx) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/pku-liang/AMOS)
 
 - [ ] **PPMLAC: High Performance Chipset Architecture for Secure Multi-Party Computation.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/ppmlac.isca22.pdf)
 
