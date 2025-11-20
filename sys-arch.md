@@ -90,7 +90,7 @@
 
 - [x] **ScaleDeep: A Scalable Compute Architecture for Learning and Evaluating Deep Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://ieeexplore.ieee.org/document/8192466) [![](https://img.shields.io/badge/slides-E29135)](https://users.cs.utah.edu/~rajeev/cs7960/notes/slides/19-7960-10-notes.pdf)
 - [ ] **SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.cs.utexas.edu/~skeckler/pubs/ISCA_2017_SCNN.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://web.cs.umass.edu/~weems/homepage/635-Notes/ewExternalFiles/635_Lecture23.pdf)
-- [ ] **Maximizing CNN Accelerator Efficiency Through Resource Partitioning.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/1607.00064) 
+- [x] **Maximizing CNN Accelerator Efficiency Through Resource Partitioning.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/1607.00064) 
 - [ ] **Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism.**
 - [ ] **Understanding and Optimizing Asynchronous Low-Precision Stochastic Gradient Descent.**
 - [x] **In-Datacenter Performance Analysis of a Tensor Processing Unit.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://csdl-downloads.ieeecomputer.org/proceedings/isca/2017/4892/00/08192463.pdf?Expires=1756951432&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jc2RsLWRvd25sb2Fkcy5pZWVlY29tcHV0ZXIub3JnL3Byb2NlZWRpbmdzL2lzY2EvMjAxNy80ODkyLzAwLzA4MTkyNDYzLnBkZiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1Njk1MTQzMn19fV19&Signature=JRFs4EDso4j9kcn4yBQi9NLwI8ApJ~cB0YI-Rn26qAphlJzORy2~DCf6bltRaD8Rg12kd7s1zTiDwEpH0KKuo6~UQEmWFMqMLOXLOzE6J5V0iUmAshaqvfLIyGeQ2nfZSG0jr57ScFjSo25vRXewb71qqAAedqXjVWCRvEP5fr0DL5-azCQ~GfmLnzBr4b22xA1vrYg75IYaQgcK-DaR-pdlwbnYfCr5QBkhHFNQQFrrf6fqjkcacsXF-FKRx4BJpH9Wl4GHjUZM3lAeHHWQMt4qJC00lqr3TVbxrwMyHclmxrFkvSM~qlOFAThrWjak7iYeckBnprubsz4CFoq9JA__&Key-Pair-Id=K12PMWTCQBDMDT) [![](https://img.shields.io/badge/slides-E29135)](https://www.cse.wustl.edu/~roger/566S.s21/In-Datacenter%20Performance%20Analysis%20of%20a%20Tensor%20Processing%20Unit.pdf)
@@ -321,7 +321,8 @@
 
 - [ ] **CryptoMMU: Enabling Scalable and Secure Access Control of Third-Party Accelerators.**
 - [ ] **Improving Data Reuse in NPU On-chip Memory with Interleaved Gradient Order for DNN Training.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://myshlee417.github.io/files/interleaved_training_micro_2023.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://myshlee417.github.io/files/interleaved_training_slide_micro_2023.pdf)
-- [ ] **ArchExplorer: Microarchitecture Exploration Via Bottleneck Analysis.**
+- [ ] **ArchExplorer: Microarchitecture Exploration Via Bottleneck Analysis.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.cse.cuhk.edu.hk/~byu/papers/C180-MICRO2023-ArchExplorer.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://jyhuang91.github.io/talks/micro2023-archexplorer-slides.pdf) [![](https://img.shields.io/badge/poster-999999)](https://jyhuang91.github.io/talks/micro2023-archexplorer-poster.pdf)
+
 - [ ] **Memento: Architectural Support for Ephemeral Memory Management in Serverless Environments.**
 - [ ] **Spatula: A Hardware Accelerator for Sparse Matrix Factorization.**
 - [ ] **HARP: Hardware-Based Pseudo-Tiling for Sparse Matrix Multiplication Accelerator.**
@@ -366,7 +367,7 @@
 - [ ] **Understanding and Mitigating Hardware Failures in Deep Learning Training Accelerator Systems.**
 - [ ] **SHARP: A Short-Word Hierarchical Accelerator for Robust and Practical Fully Homomorphic Encryption.**
 
-
+- [ ] **TPU v4: An Optically Reconfigurable Supercomputer for Machine Learning with Hardware Support for Embeddings.**
 
 ### 2023 ATC
 <!-- USENIX ATC-->
@@ -641,11 +642,10 @@
 - [ ] **Unlocking the Power of Differentially Private Zeroth-order Optimization for Fine-tuning LLMs.**
 
 
-<!-- 
-[![](https://img.shields.io/badge/paper-7EA6E0)]()
+
+<!-- [![](https://img.shields.io/badge/paper-7EA6E0)]()
 [![](https://img.shields.io/badge/slides-E29135)]()
 [![](https://img.shields.io/badge/poster-999999)]()
 [![](https://img.shields.io/badge/article-719AAC)]()
 [![](https://img.shields.io/badge/code-B5739D)]()
-[![](https://img.shields.io/badge/lab-9A8C98)]()  
- -->
+[![](https://img.shields.io/badge/lab-9A8C98)]()   -->
