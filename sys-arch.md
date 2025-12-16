@@ -302,7 +302,7 @@
 
 - [x] **AMOS: Enabling Automatic Mapping for Tensor Computations On Spatial Accelerators with Hardware Abstraction.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://cs.stanford.edu/~anjiang/papers/ZhengETAL22AMOS.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://www.iscaconf.org/isca2022/slides/isca22-zheng-amos.pptx) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/pku-liang/AMOS)
 
-- [ ] **PPMLAC: High Performance Chipset Architecture for Secure Multi-Party Computation.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/ppmlac.isca22.pdf)
+- [ ] **PPMLAC: High Performance Chipset Architecture for Secure Multi-Party Computation.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/ppmlac.isca22.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/slides/ppmlac.isca22.slides.pdf)
 
 - [ ] **Axiomatic Hardware-Software Contracts for Security.** (*Stanford University*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://trippel-lab.stanford.edu/pubs/nmosier_ISCA22.pdf) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/nmosier/clou)
 - [ ] **BTS: An Accelerator for Bootstrappable Fully Homomorphic Encryption.**
