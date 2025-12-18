@@ -349,6 +349,9 @@
 - [ ] **Root Crash Consistency of SGX-style Integrity Trees in Secure Non-Volatile Memory Systems.**
 - [ ] **DeFiNES: Enabling Fast Exploration of the Depth-first Scheduling Space for DNN Accelerators through Analytical Modeling.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/abs/2212.05344) [![](https://img.shields.io/badge/code-B5739D)](https://github.com/KULeuven-MICAS/DeFiNES)
 - [ ] **Chimera: An Analytical Optimizing Framework for Effective Compute-intensive Operators Fusion.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://sizezheng.github.io/files/7A-3.pdf)
+- [ ] **Baryon: Efficient Hybrid Memory Management with Compression and Sub-Blocking.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/baryon.hpca23.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/slides/baryon.hpca23.slides.pdf)
+- [ ] **A Scalable Methodology for Designing Efficient Interconnection Network of Chiplets.** [![](https://img.shields.io/badge/slides-E29135)](https://hipchips.github.io/hpca2023/HPCA-2023/02-Presentation-Tsinghua-revised.pdf) [![](https://img.shields.io/badge/lab-9A8C98)](https://group.iiis.tsinghua.edu.cn/~maks/publications.html)
+
 
 
 ### 2023 ASPLOS
@@ -358,6 +361,7 @@
 - [x] **FLAT: An Optimized Dataflow for Mitigating Attention Bottlenecks.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.csail.mit.edu/suvinay/pubs/2023.flat.asplos.pdf)
 - [ ] **Accelerating Sparse Data Orchestration via Dynamic Reflexive Tiling.**
 - [ ] **Spada: Accelerating sparse matrix multiplication with adaptive dataflow.** (*IIIS*)
+- [ ] **ABNDP: Co-optimizing Data Access and Load Balance in Near-Data Processing** (*IIIS*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/abndp.asplos23.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://nas.iiis.tsinghua.edu.cn/~gaomy/pubs/slides/abndp.asplos23.slides.pdf) [![](https://img.shields.io/badge/lab-9A8C98)](https://iiis.tsinghua.edu.cn/kxyj/kyjb.htm)
 
 ### 2023 ISCA
 
@@ -549,7 +553,7 @@
 [Homepage](https://www.asplos-conference.org/asplos2025/); [Proceedings-volume-1](https://dl-acm-org.lib.ezproxy.hkust.edu.hk/doi/proceedings/10.1145/3669940); [Proceedings-volume-2](https://dl-acm-org.lib.ezproxy.hkust.edu.hk/doi/proceedings/10.1145/3676641)
 
 - [ ] **Practical Federated Recommendation Model Learning Using ORAM with Controlled Privacy.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://vtechworks.lib.vt.edu/server/api/core/bitstreams/30ef9d58-1ea4-4fee-b62b-2f8ab60a119b/content)
-- [ ] **UniZK: Accelerating Zero-Knowledge Proof with Unified Hardware and Flexible Kernel Mapping.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/unizk.asplos25.pdf)
+- [ ] **UniZK: Accelerating Zero-Knowledge Proof with Unified Hardware and Flexible Kernel Mapping.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/unizk.asplos25.pdf)  [![](https://img.shields.io/badge/slides-E29135)](https://people.iiis.tsinghua.edu.cn/~gaomy/pubs/slides/unizk.asplos25.slides.pdf)
 - [ ] **PipeLLM: Fast and Confidential Large Language Model Services with Speculative Pipelined Encryption.** [![](https://img.shields.io/badge/paper-7EA6E0)](https://arxiv.org/pdf/2411.03357)
 
 - [ ] **KAPLA: Scalable NN Accelerator Dataflow Design Space Structuring and Fast Exploring.**
