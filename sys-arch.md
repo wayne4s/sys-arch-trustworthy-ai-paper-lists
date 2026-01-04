@@ -581,7 +581,7 @@
 ***Crypto & Fully Homomorphic Encryption***
 - [ ] **Finesse: An Agile Design Framework for Pairing-based Cryptography via Software/Hardware Co-Design.** (*Beihang University*)
 
-- [ ] **Cassandra: Efficient Enforcement of Sequential Execution for Cryptographic Programs.** (*ETH Zurich*)
+- [ ] **Cassandra: Efficient Enforcement of Sequential Execution for Cryptographic Programs.** (*ETH Zurich*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://hajiabadi.github.io/papers/paper_cassandra_isca2025.pdf)
 
 - [ ] **FAST: An FHE Accelerator for Scalable-parallelism with Tunable-bit.** (*Institute of Information Engineering, UCAS*) [![](https://img.shields.io/badge/article-719AAC)](https://mp.weixin.qq.com/s/ehgJjmBPd8vmLusaHLoPgA)
 
