@@ -458,6 +458,8 @@
 
 - [ ] **Ironman: Accelerating Oblivious Transfer Extension for Privacy-Preserving AI with Near-Memory Processing.** (*Korea Advanced Institute of Science and Technology, KAIST*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://www.arxiv.org/abs/2507.16391) [![](https://img.shields.io/badge/slides-E29135)](https://jaehyuk-huh.github.io/slides/lee_isca2025_mtree_slides.pdf) 
 
+- [ ] **ccAI: A Compatible and Confidential System for AI Computing.** (*Sustech*) [![](https://img.shields.io/badge/paper-7EA6E0)](https://cse.sustech.edu.cn/faculty/~zhangfw/paper/ccai-micro25.pdf) [![](https://img.shields.io/badge/slides-E29135)](https://fengweiz.github.io/paper/ccai-micro25-slides.pdf)
+
 - [ ] **CryptoBTB: A Secure Hierarchical BTB for Diverse Instruction Footprint Workloads.**
 - [ ] **Swift and Trustworthy Large-Scale GPU Simulation with Fine-Grained Error Modeling and Hierarchical Clustering.**
 - [x] **Crane: Inter-Layer Scheduling Framework for DNN Inference and Training Co-Support on Tiled Architecture.**
